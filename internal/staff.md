@@ -1,8 +1,12 @@
 ---
-layout: page
-title: Staff
-description: A listing of all the course staff members.
----
+
+[comment]: <> (layout: page)
+
+[comment]: <> (title: Staff)
+
+[comment]: <> (description: A listing of all the course staff members.)
+
+[comment]: <> (---)
 
 # Staff
 
