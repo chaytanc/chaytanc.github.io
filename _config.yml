@@ -15,9 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 title: Chaytan C. Inman
 tagline: some things worth documenting
-description: 
-author: Kevin Lin
-baseurl: '/chaytan' # the subpath of your site, e.g. /blog
+description: some things worth documenting
+baseurl: '/' # the subpath of your site, e.g. /blog
 url: 'https://chaytanc.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
@@ -72,5 +71,3 @@ compress_html:
 
 plugins:
   - jekyll-seo-tag
-
-theme: jekyll-theme-minimal
