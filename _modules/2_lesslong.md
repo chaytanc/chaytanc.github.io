@@ -4,6 +4,10 @@ title: Fall 2018 - HS Graduation, Spring 2020
 description: Some assigned, others for fun
 ---
 
+Summer 2018
+  : Rocket Boys
+    : Homer Hickam 
+
 Fall 2018
   : Hamlet
     : Shakespeare
@@ -28,13 +32,25 @@ Winter 2019
   : Beloved
     : Toni Morrison
 
+Winter 2019
+  : Catcher in the Rye
+    : J.D. Salinger
+
 Spring 2019
   : Chronicle of A Death Foretold
     : Gabriel García Márquez
 
 Spring 2019
+  : The Zoo Story
+    : Edward Albee
+
+Spring 2019
   : No-No Boys
     : John Okada
+
+Summer 2019
+  : The Adventures of Huckleberry Finn
+    : Mark Twain
 
 Summer 2019
   : The Tipping Point
@@ -74,17 +90,6 @@ Spring 2020
     : Octavia Butler
 : **Impactful**{: .label .label-red }
 
-Summer 2020
-  : 100 Years of Solitude
-    : Gabriel García Márquez
-
-Summer 2020
-  : A Clockwork Orange
-    : Anthony Burgess
-
-Summer 2020
-  : Sometimes a Great Notion
-    : Ken Kesey
 
 
 

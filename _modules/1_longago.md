@@ -1,6 +1,9 @@
 ---
 title: Long ago 
 ---
+A long long time ago
+  : Every Harry Potter
+    : J.K. Rowling
 
 A long long time ago
 : The Fountainhead 
@@ -15,41 +18,80 @@ A long long time ago
   : Harper Lee 
 
 A long long time ago
+: Copper Sun
+   : Sharon M. Draper
+
+Early Early Highschool
 : Of Mice and Men
   : John Steinbeck
 
-A long time ago
+Early Early High School
+: Fahrenheit 451
+  : Ray Bradbury
+
+Early Early High School
   : Out of the Dust
     : Karen Hesse
 
-A long time ago
+Early Early High School
   : The Jungle
     : Upton Sinclair
 
-A long time ago
+Early Early High School
   : My Beloved World
     : Sonia Sotomayor
 
-A long time ago
+Early Early High School
   : Life 3.0
     : Max Tegmark
 
-A long time ago
+Early Early High School
   : Feed
     : M. T. Anderson
 
-A long time ago
+Early Early High School
+  : The Perks of Being a Wallflower
+    : Stephen Chbosky
+
+Early Early High School
+  : A Tale of Two Cities
+    : Charles Dickens
+
+Early Early High School
+  : Lord of the Flies
+    : William Golding
+
+Early High School
   : The Portrait of Dorian Gray
     : Oscar Wilde
 
-A long time ago
-  : Between the World and Me
-    : Ta-Nehisi Coates
-      : **Impactful**{: .label .label-red }
-
-A long time ago
+Early High School
   : 1984
     : George Orwell
+
+Early High School
+: Between the World and Me
+  : Ta-Nehisi Coates
+    : **Impactful**{: .label .label-red }
+
+Early Highschool
+: Walden
+  : Henry David Thoreau
+
+Early Highschool
+  : Animal Farm
+    : George Orwell
+
+Early High School
+  : The Great Gatsby
+    : F. Scott Fitzgerald
+
+
+
+
+
+
+
 
 
 

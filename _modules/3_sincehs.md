@@ -3,6 +3,10 @@ title: Hs Graduation - College, Present
 ---
 
 Summer 2020
+  : Entangled Life
+    : Merlin Sheldrake
+
+Summer 2020
   : 100 Years of Solitude
     : Gabriel García Márquez
 
@@ -84,6 +88,10 @@ Spring 2022
 Spring 2022
   : 100 Plants to Feed the Bees
     : Xerces Society
+
+Spring 2022
+  : Brave New World
+    : Aldous Huxley
 
 
 [comment]: <> (Oct 8)
