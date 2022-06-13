@@ -93,6 +93,14 @@ Spring 2022
   : Brave New World
     : Aldous Huxley
 
+Spring 2022
+  : Infinite Jest
+    : David Foster Wallace
+
+Spring 2022
+  : Simulacra et simulations
+    : Jean Baudrillard
+
 
 [comment]: <> (Oct 8)
 

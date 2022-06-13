@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About
-permalink: /about
 description: More than you wanted to know 
 ---
 
@@ -9,7 +8,7 @@ description: More than you wanted to know
 More than you wanted to know
 {: .fs-6 .fw-300 }
 
-[comment]: <> ({:.no_toc})
+{:.no_toc}
 
 ## Table of contents
 {: .no_toc .text-delta }

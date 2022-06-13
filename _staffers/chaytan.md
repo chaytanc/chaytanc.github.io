@@ -3,7 +3,7 @@ name: Chaytan Inman
 role: Me 
 email: chaytan@uw.edu
 website: https://interactive-intelligence.github.io
-photo: bee.jpg
+photo: bee.png
 ---
 
 I like plants.
