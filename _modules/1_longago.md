@@ -21,7 +21,7 @@ A long long time ago
 : Copper Sun
    : Sharon M. Draper
 
-Early Early Highschool
+Early Early High School
 : Of Mice and Men
   : John Steinbeck
 

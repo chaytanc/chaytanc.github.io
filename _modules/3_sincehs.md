@@ -57,7 +57,7 @@ Fall 2021
     : Stieg Larsson
 
 Fall 2021
-  : Harry potter et l'Ordre du Phénix
+  : Harry Potter et l'Ordre du Phénix
     : J. K. Rowling
 
 Winter 2022

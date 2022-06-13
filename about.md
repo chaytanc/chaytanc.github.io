@@ -1,11 +1,15 @@
 ---
 layout: page
 title: About
+permalink: /about
 description: More than you wanted to know 
 ---
 
 # About
-{:.no_toc}
+More than you wanted to know
+{: .fs-6 .fw-300 }
+
+[comment]: <> ({:.no_toc})
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -14,6 +18,11 @@ description: More than you wanted to know
 {:toc}
 
 ---
+
+{% assign me = site.staffers | where: 'role', 'Me' %}
+{% for staffer in me %}
+{{ staffer }}
+{% endfor %}
 
 Born in Portland. Had a bad time in elementary and middle school. Went to Beaverton High School.
 Very grateful to my experiences in the entirety of my education so far, good and bad.
@@ -24,4 +33,4 @@ Freedman Lab at the Institute for Stem Cell and Regenerative Medicine at UW. I h
 things but one of my favorites was the organoids I grew at Freedman Lab.
 Robotics in high school also had an outsized impact on me. 
 Now I run a team called the Interactive Intelligence team which uses neuroscience to machine learning 
-in the pursuit of intelligent machines. I am very proud of the team [which you can find here.](https://interactive-intelligence.github.io){target: blank}
+in the pursuit of intelligent machines. I am very proud of the team [which you can find here.](https://interactive-intelligence.github.io) {target: blank}
