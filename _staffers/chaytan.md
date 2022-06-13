@@ -7,4 +7,3 @@ photo: bee.png
 ---
 
 I like plants.
-[comment]: <> ([Schedule an appointment]&#40;#&#41;{: .btn .btn-outline })
