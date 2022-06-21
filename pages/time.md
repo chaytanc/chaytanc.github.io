@@ -10,7 +10,6 @@ Time <br>
 A cold pearl I press between  <br>
 my finger  <br>
 tips  <br>
-<br>
 As I press too hard I feel, it <br>
 slip <br>
 s <br>
