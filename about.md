@@ -1,6 +1,9 @@
 ---
-layout: page
+layout: home
 title: About
+nav_order: 1
+nav_exclude: false
+permalink: /
 description: More than you wanted to know 
 ---
 
