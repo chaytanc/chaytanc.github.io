@@ -13,11 +13,14 @@ More than you wanted to know
 {: .fs-6 .fw-300 }
 
 
-## Table of contents
+[comment]: # (## Table of contents)
+
+[comment]: # (1. TOC)
+
+[comment]: # (   {:toc})
+
 {: .no_toc .text-delta }
 
-1. TOC
-{:toc}
 
 ---
 
