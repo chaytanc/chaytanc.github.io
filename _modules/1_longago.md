@@ -86,6 +86,10 @@ Early High School
   : The Great Gatsby
     : F. Scott Fitzgerald
 
+Early High School
+  : Autobiography of Red Cloud
+    : Red Cloud, Charles Wesley Allen
+
 
 
 

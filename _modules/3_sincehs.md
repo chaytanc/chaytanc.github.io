@@ -18,6 +18,10 @@ Summer 2020
   : Sometimes a Great Notion
     : Ken Kesey
 
+Summer 2020
+  : Regenesis
+    : George Church, Ed Regis
+
 Fall 2020
   : Consciousness: Confessions of a Romantic Reductionist
     : Christof Koch
@@ -94,12 +98,16 @@ Spring 2022
     : Aldous Huxley
 
 Spring 2022
+  : Simulacra et simulations
+    : Jean Baudrillard
+
+Summer 2022
   : Infinite Jest
     : David Foster Wallace
 
-Spring 2022
-  : Simulacra et simulations
-    : Jean Baudrillard
+Summer 2022
+  : Sapiens
+    : Yuval Noah Harari
 
 
 [comment]: <> (Oct 8)
