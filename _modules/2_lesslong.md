@@ -24,6 +24,10 @@ Fall 2018
   : One Flew Over the Cuckoo's Nest
     : Ken Kesey
 
+Fall 2018
+  : Autobiography of Red Cloud
+    : Charles Wesley Allen
+
 Winter 2019
   : The Awakening
     : Kate Chopin
