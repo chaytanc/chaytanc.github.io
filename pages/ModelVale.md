@@ -13,7 +13,9 @@ ModelVale is an app I designed, really as an excuse to tangentially work on mach
 instead of app development while I was getting paid by Meta for the latter. The result is
 something I am proud of.  
 
-ModelVale is a unique RPG game that brings machine learning to life. As you develop machine learning models, upload them to ModelVale! Each Model has a custom avatar and health. Train your Model and test on new data to earn more XP while developing robust neural networks! Over time you can see your best performing models and their attributes, and keep training and testing their predictions to keep up their health.  
+ModelVale is a unique game where machine learning comes to life. As you develop machine learning models, upload them to ModelVale! Each Model has a custom avatar and health. 
+Train your Model and test on new data to earn more XP while developing robust neural networks! 
+Over time, you can see your best performing models and their attributes, and keep training and testing their predictions to keep up their health.  
 Features:
 - Infinitely grow, train, and test your diverse world of Models! Level up XP over time  
 - Train and share models with your friends and development team  

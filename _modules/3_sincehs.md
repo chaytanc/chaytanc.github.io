@@ -109,6 +109,14 @@ Summer 2022
   : Sapiens
     : Yuval Noah Harari
 
+Summer 2022
+  : Under A White Sky
+    : Elizabeth Kolbert
+
+Fall 2022
+  : 21 Lessons for the 21st Century
+    : Yuval Noah Harari
+
 
 [comment]: <> (Oct 8)
 
