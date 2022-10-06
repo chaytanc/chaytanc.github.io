@@ -117,6 +117,10 @@ Fall 2022
   : 21 Lessons for the 21st Century
     : Yuval Noah Harari
 
+Fall 2022
+  : Land of Wondrous Cold
+    : Gillen D'Arcy Wood
+
 
 [comment]: <> (Oct 8)
 
