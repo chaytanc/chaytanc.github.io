@@ -4,6 +4,11 @@ layout: page
 title: ModelVale
 permalink: /ModelVale
 ---
+## Table of contents
+{: .no_toc .text-delta }
+1. TOC
+{:toc}
+
 {% assign me = site.staffers | where: 'role', 'logo' %}
 {% for staffer in me %}
 {{ staffer }}
@@ -31,6 +36,18 @@ Please feel free to add features! I would love to add support for non-image base
 As a developer, I find it an incredibly useful tool to rapidly test out of distribution images
 and quickly play with running and retraining models. Having the data flow at your fingertips
 with instant results is pretty cool!
+
+### Drive OAuth Data Usage
+Because ModelVale integrates Google Drive to import new models, it requests access to view and 
+download files from your Google Drive account. By leveraging Google Drive, a common tool to store
+large files such as .mlmodel files, ModelVale can provide an easy way to transfer models developed
+on more powerful devices to a mobile device. Then anyone can easily begin using their models on device for
+fine-tuning and out of distribution tests!
+
+The app does not download any files from Google Drive that are not downloaded by the user using the 
+Import button. It does not view or edit any Drive files. It does not store any data from Google Drive
+in databases. The downloaded files are stored locally in the Documents folder of the device they are 
+downloaded on and are not used anywhere else.
 
 [Privacy Policy](https://github.com/chaytanc/ModelVale/blob/main/PrivacyPolicy.md)
 
