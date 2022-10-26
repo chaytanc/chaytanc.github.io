@@ -8,7 +8,7 @@ permalink: /eyeandmind
 Taught in Winter '23 by Prof. Philip Thurtle 
 for the Comparative History of Ideas Department at UW.
 {% for chidreading in site.chidreadings %}
-{{ reading }}
+{{ chidreading }}
 {% endfor %}
 
 
