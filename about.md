@@ -36,6 +36,6 @@ Have worked in several research labs, the first being Adey Lab at OHSU and the s
 Freedman Lab at the Institute for Stem Cell and Regenerative Medicine at UW. I have grown many 
 things but one of my favorites was the organoids I grew at Freedman Lab.
 Robotics in high school also had an outsized impact on me. 
-Now I run an undergraduate research group called the Interactive Intelligence team 
-which applies neuroscience approaches to machine learning 
+Now I run an undergraduate research group called the Interactive Intelligence team.
+We apply neuroscience approaches to machine learning 
 to create intelligent machines. I am very proud of the team [which you can find here.](https://interactive-intelligence.github.io){:target="_blank"}
