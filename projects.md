@@ -14,4 +14,5 @@ description: Listing of some of the projects I have made
 # Projects
 #### Some of the projects I have made
 
-[ModelVale](/ModelVale)
+[ModelVale](/ModelVale)  
+[Eye and Mind](/eyeandmind)

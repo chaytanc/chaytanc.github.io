@@ -11,4 +11,3 @@ description: A few thoughts I wrote down here.
 # Thoughts
 
 [Fingertips](/fingertips)  
-[Eye and Mind](/eyeandmind)
