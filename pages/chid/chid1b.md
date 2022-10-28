@@ -4,7 +4,6 @@ layout: page
 title: Emergence
 permalink: /chid1b  
 ---  
-  
 **Reading Thoughts and Notes**  
 *Emergence, Holland*  
 Cellular automata, complex emergent behavior from simple rules / high information that propagates  
@@ -65,6 +64,7 @@ Ways that complexity theory affects humanities? Or that the universe is unstable
    “a world of multiple, interacting open systems of di√erent viscosity morphing at different speeds” like a fluid dynamics simulation  
    So we can meditate according to connolly “dwell in a suspended state periodically to render experience more sensitive”  
    A type of faith that shifts with new evidence (science is religion)    
+  
 **Summary**    
 *A World of Becoming*  
 This chapter introduces the reader to the application of the science and math of complexity theory on the social sciences, in particular often with respect to an analysis of capitalism and other complex, “open” macroscopic systems governing our world’s dynamics. The broadness of this only further escalates. He examines ways of viewing the world, from the extremes of viewing systems as closed, undisturbed parts which function independently of eachother (a view he dubs ‘individualism’) to ‘holism’, where the parts only function once put together in a holistic view. Connolly also touches on the idea that the world is simply not knowable – that often seemingly predictable dynamics result in unprecedented and unforecasted results. For example, phenomena invented for cracking wartime encryptions manifested into personal entertainment and consumption machines situated in the pockets of half the world. Thus, although his arguments that the world inevitably interacts, and that no defined system is truly closed, he does not believe that knowing all these parts makes a whole, and that ultimately there are still unpredictable dynamics.  

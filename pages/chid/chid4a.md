@@ -37,7 +37,6 @@ Normal doesn’t exist without variation through which to map it
 Developmental constraints as well as selection?  
   
 **Implications**  
-  
 If there are 25,000 genes to build a human, there are 2^(25,000) combinations of way of testing their interactions, 2^(25,000) powersets of ways to combine genes. We cannot run that many experiments.  
   
 How necessary binaries are formed from continua and when and why and how we can do that effectively  

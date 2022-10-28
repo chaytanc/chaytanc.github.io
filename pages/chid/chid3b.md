@@ -23,7 +23,6 @@ Origins are thus always a second origin (at least in terms of life, I think that
 Literature is a reflection of the collective misunderstandings and misinterpretations of the world  
   
 **Implications**    
-  
 If the object is an arbitrary separating hyperplane we draw in n-dimensional space such that when projected back to 3 dimensions it is a continuous, closed shape, then in this space is an artifact that embodies an entire history of interactions of the points within it with the points outside it. The artifact contains no previous boundaries between outside and inside, the only boundary is the hyperplane we have drawn now. Point X within the hyperplane now was neither within the hyperplane nor outside the hyperplane one second ago; the hyperplane does not persist through time except for the seconds in which we impute it and recalculate it.  
   
 But a paradox seems to arise. How, in an instant, can we understand the meaning of an object, a self, a thing, a boundary, an individual, if it can only be understood as a process? We live in finite moments wherein our understanding of ‘is and is not’ forms and decays. Do we have access to the infinite history of the process of selfhood when we make this instantaneous calculation? Or do we operate on the principle of Markov decision processes, that the current  state embeds the and encompasses all this information we would need?  

@@ -10,6 +10,7 @@ On paper
   
 **Summary**  
 Bataille makes an argument that the fundamental macroeconomic nature of systems is one founded on two choices: grow, or waste. The systems that govern men are also governed by the inevitability of growth or waste, and our economic understanding must reflect this. Profit, an excess, can only be used for either of those means. He also views life as an expanding bubble of pressure, an exuberance whose pressure, if not dissipated, bursts in often violent ways. This, he argues, caused the two world wars. Finally, he addresses that although in the “general” view of economics, life is in excess and this excess must be dealt with, from a “particular” view life can be scarce, impoverished, and limited.  
+  
 **Compelling Points**  
 Dealing with excess of wealth can be as fundamental as the dynamics of scarcity in economics  
 Life is a process of Scarcity → Growth → Excess → Luxury, Raised Standards → Scarcity  
@@ -17,7 +18,6 @@ Death makes room for growth
 We grow and then when we reach our limits of growth begin to shift our focus toward sexual reproduction, then begin to fear death because our mechanisms for growth have been exhausted  
   
 **Implications**  
-  
 What happens if we do not dispose of excess? How is growth in itself not a way of disposing of excess, and if it is, then how is there ever any pressure in this system if we either grow or waste? How does excess manifest itself? It can be stored as fat, as in Bataille’s example of the calf. But this is growth, not excess. It is excess to the human; growth to the calf. There always exists some perspective from which excess is growth and not excess. Say we choose the human perspective, and begin to channel all excess resources into fattening calves – storing excess. Is this a pressure on the system? Will WWIII break out?  
   
 Perhaps yes, it is a pressure on the system because the machinery and resources required to maintain the fattening of the calves require the resources to be turned into excesses that maintain those systems. I am not sure.  

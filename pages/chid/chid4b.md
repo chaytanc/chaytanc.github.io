@@ -32,7 +32,7 @@ The world can be analyzed as flows of desire
 It is dangerous to resist the structures that formed and form you but also necessary to see the world more clearly without predetermined constraints  
 Cancer is a BWO that has broken strata too fast and thus destroys the self completely (in many cases)  
 As survivors of heart attacks and near death experiences attest, the perspective afforded by dismantling the bounds determined by the safety of our bodies can radically alter worldviews  
-
+  
 **Implications**  
 How necessary binaries are formed from continua and when and why and how we can do that effectively  
   
