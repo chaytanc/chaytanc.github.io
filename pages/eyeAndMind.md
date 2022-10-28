@@ -21,11 +21,11 @@ for the Comparative History of Ideas Department at UW.
 | 1 | ["Before We Proceed"](/chid1b) from Emergence | John Holland|
 | 1 | ["Complexity, Agency, and Time"](/chid1b) from A World of Becoming| William Connolly |
 | 2 | ["Theoretical Introduction"](/chid2a) from The Accursed Share | Georges Bataille |
-| 2 | ["Introduction"](/chid2b) from Mapping Abundance for a Planetary Future| Candace Fujikane |
-| 2 | ["Immanence: A Life"](/chid2c) from Pure Immanence | Gilles Deleuze|
+| 2 | ["Introduction"](/chid2a) from Mapping Abundance for a Planetary Future| Candace Fujikane |
+| 2 | ["Immanence: A Life"](/chid2b) from Pure Immanence | Gilles Deleuze|
 | 3 | ["The Genesis of the Individual"](/chid3a) from Incorporations | Gilbert Simondon|
 | 3 | [The Spiral](/chid3b) | Italo Calvino |
-| 3 | [Desert Islands](/chid3c) | Gilles Deleuze |
+| 3 | [Desert Islands](/chid3b) | Gilles Deleuze |
 | 4 | ["Animal Architecture"](/chid4a) and "Making Babies: 25,000 Genes, Some Assembly Required" from Endless Forms Most Beautiful| Sean Carroll |
 | 4 | ["How Do You Make Yourself a Body Without Organs"](/chid4b) from A Thousand Plateaus | Gilles Deleuze and Felix Guattari |
 

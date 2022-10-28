@@ -1,7 +1,7 @@
 ---  
 nav_exclude: true  
 layout: page  
-title: Eye and Mind, Queer Phenomenology  
+title: Emergence
 permalink: /chid1b  
 ---  
   

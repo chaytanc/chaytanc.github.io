@@ -1,8 +1,8 @@
 ---    
 nav_exclude: true    
 layout: page    
-title: Eye and Mind, Queer Phenomenology    
-permalink: /chid1b    
+title: Excess
+permalink: /chid2a    
 ---    
 **Reading Thoughts and Notes**  
 The Accursed Share, Bataille  
