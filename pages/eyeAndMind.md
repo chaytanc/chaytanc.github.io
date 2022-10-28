@@ -13,5 +13,23 @@ for the Comparative History of Ideas Department at UW.
 {% for chidreading in site.chidreadings %}
 {{ chidreading }}
 {% endfor %}
+
+| Week | Title | Author |
+| -- | ---- | -- | 
+| 1 | Amelia, Andre, Roman* | |
+| 1 | Alec, Andre, Amelia | |
+| 1 | Amelia, Andre, Roman* | |
+| 1 | Amelia, Andre, Roman* | |
+| 1 | Amelia, Andre, Roman* | |
+| 1 | Amelia, Andre, Roman* | |
+| 1 | Amelia, Andre, Roman* | |
+| 1 | Amelia, Andre, Roman* | |
+| 1 | Amelia, Andre, Roman* | |
+| 1 | Amelia, Andre, Roman* | |
+| 1 | Amelia, Andre, Roman* | |
+| 1 | Amelia, Andre, Roman* | |
+| 1 | Amelia, Andre, Roman* | |
+| 1 | Amelia, Andre, Roman* | |
+
 whyy
 
