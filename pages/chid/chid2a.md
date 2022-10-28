@@ -5,11 +5,10 @@ title: Excess
 permalink: /chid2a    
 ---    
 **Reading Thoughts and Notes**  
-The Accursed Share, Bataille  
+*The Accursed Share, Bataille*  
 On paper  
   
 **Summary**  
-The Accursed Share  
 Bataille makes an argument that the fundamental macroeconomic nature of systems is one founded on two choices: grow, or waste. The systems that govern men are also governed by the inevitability of growth or waste, and our economic understanding must reflect this. Profit, an excess, can only be used for either of those means. He also views life as an expanding bubble of pressure, an exuberance whose pressure, if not dissipated, bursts in often violent ways. This, he argues, caused the two world wars. Finally, he addresses that although in the “general” view of economics, life is in excess and this excess must be dealt with, from a “particular” view life can be scarce, impoverished, and limited.  
 **Compelling Points**  
 Dealing with excess of wealth can be as fundamental as the dynamics of scarcity in economics  

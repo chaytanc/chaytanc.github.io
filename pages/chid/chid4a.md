@@ -5,7 +5,7 @@ title: Development
 permalink: /chid4a            
 ---            
 **Reading Thoughts and Notes**  
-Endless Forms Most Beautiful, Sean Carroll  
+*Endless Forms Most Beautiful, Sean Carroll*  
 Difference before commonality? No commonality only difference and degrees of difference?  
 Life recurses because recursion is less words than iteration? Or because there is no iteration in biology, only while loops and conditionals? There are no scopes beyond the function that can keep a pointer i to track number of iterations, the universe doesn’t know how many times a gene has been transcribed  
 An egg is only an egg given some environment in which it was laid. A salmon egg on land does not grow a salmon and thus is not a salmon egg.  
@@ -21,7 +21,6 @@ We use additive AND subtractive manufacturing techniques, “the beauty of the l
 How can we make CA develop coordinate systems  
   
 **Summary**  
-Endless Forms Most Beautiful, Sean Carroll  
 In a scientific introduction to genetics and evolution, Carroll focuses on revealing common elements of modular design throughout life. Called homologs or homologous structures, the commonalities of branches of life in the past also reveals the evolution of differences. He points out that often evolution trends from a more general form towards more specialized forms.  
 Next, Carroll zooms in to the micro world of genes and e All info to make complex organism in the genes but reductionism of breaking into parts does not make the whole – put the embryo in the blender and it doesn’t work as well all of a sudden  
 First axes form, then somites / modular units at regular intervals along axes, then formation of various organs  

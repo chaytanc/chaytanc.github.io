@@ -5,19 +5,19 @@ title: Individuation, Egg
 permalink: /chid3b          
 ---          
 **Reading Thoughts and Notes**  
-Desert Islands, Deleuze  
-The Spiral, Calvino  
+*Desert Islands, Deleuze*  
+*The Spiral, Calvino*  
 On paper  
   
 **Summary**  
-Desert Islands, Deleuze  
+*Desert Islands, Deleuze*  
 In Desert Islands, Deleuze explores the concept of origins, beginnings, purity and mythology in conjunction through the geography of islands. He focuses on the processes that formed the island as a way of viewing their meaning to us, and how our own processes that take us to the islands relate to those geographical ones. For example, he notes that the islands can be formed from continents, or formed from the ocean itself, anew. Then he examines the deserted quality that humans attribute to islands and suggests this quality can only arise through human imputation, and further, only by humans who themselves embody the qualities of the deserted island: “Those people who come to the island indeed occupy and populate it; but in reality, were they sufficiently separate, sufficiently creative, they would give the island only a dynamic image of itself… through them they island would… become conscious of itself as deserted and unpeopled.” However, Deleuze proceeds to walk back this claim as he portrays the embodiment of desertedness as an unattainable ideal, and that thus, “[humans’] presence in face spoils its desertedness”. Thus, the ideal of fresh beginnings and beginning anew which we find in deserted islands is unattainable – mythological and recapitulated in literature which reflects our inevitable corruption of the purity of the deserted island. In our corrupted myths of islands, of origins and beginnings, we reveal the underlying reality that beginnings are only understood through reproduction.  
   
 **Compelling Points**  
-The Spiral, Calvino  
+*The Spiral, Calvino*  
 Action can be reactive, but still instill individuality in the resulting changes  
 We are far more connected than we can perceive  
-Desert Islands, Deleuze  
+*Desert Islands, Deleuze*  
 Life can only be understood as a process, involving reproductions, second beginnings  
 Origins are thus always a second origin (at least in terms of life, I think that at some point there is an original origin)  
 Literature is a reflection of the collective misunderstandings and misinterpretations of the world  

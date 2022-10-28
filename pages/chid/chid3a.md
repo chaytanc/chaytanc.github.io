@@ -5,11 +5,10 @@ title: Individuation
 permalink: /chid3a        
 ---        
 **Reading Thoughts and Notes**  
-The Genesis of the Individual, Simondon  
+*The Genesis of the Individual, Simondon*  
 On paper  
   
 **Summary**  
-The Genesis of the Individual, Simondon  
 In this excerpt of The Genesis of the Individual, Simondon critiques common notions of understanding individuals, primarily from the standpoint that the two most common rely on existing notions of individuals. For hylomorphism, this is demonstrated with the concept of form which is in itself individuated from other forms. Simondon prefers to view individuals as beings in the process of individuation, which persists through time with no end (and perhaps no discernible beginning?). Individuation, to Simondon, must be understood in relations to the milieu, the other, the preindividual conditions that give rise and perpetuate the transductive process of individuation from prior preindividual states of being. These relations are immanent to the process of individuation. Moreover, individuation arrives as a resolution to tensions in the preindividual, and through transduction, comes to resolve them and continues to individuate.  
   
 **Compelling Points**  

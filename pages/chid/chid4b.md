@@ -5,7 +5,7 @@ title: Development
 permalink: /chid4b  
 ---              
 **Reading Thoughts and Notes**  
-How Do You Make Yourself a Body Without Organs, Deleuze and Guittari  
+*How Do You Make Yourself a Body Without Organs, Deleuze and Guittari*  
 Opposed to psychoanalysis which turns everything into fantasy  
 BWO “takes everything away”  
 A way of destroying the self and becoming part of the external such that there is no longer an external at all  
@@ -25,7 +25,6 @@ Flows of desire
 How can everything have a gradient of 0, be uninterpretable? Isn’t that useless?  
   
 **Summary**  
-How Do You Make Yourself a Body Without Organs, Deleuze and Guattari  
 We form strata within ourselves in order to define an evolutionarily fit existence – though they confine (literally) our being, we need our organs – but might systematically approach the limits of the strata which they define. This process is known to Deleuze and Guittari as the Body Without Organs. It is not an object; it is not a body without organs. The name, as in much of philosophy, was probably purposefully misleading and unclear. If they had wanted to clearly communicate their concept they might call it “Process of Dismantling the Self”, or something similar, but that loses its poetry and doesn’t alienate and confuse the reader nearly enough. At any rate, it is a methodology of breaking constraints, symbolized and actualized first by our organs and embryogenesis. Moreover, the BWO is not just a process, it is a directed process, trending toward less and less definition. Yet the limit of this process is unattainable, and perhaps not desirable. Deleuze and Guitarri instead suggest a less radical process of dismantling the self by “swinging between strata” – perhaps suggesting not to break that which we understand as ourselves completely but continually question and challenge it.  
   
 **Compelling Points**  
@@ -33,6 +32,7 @@ The world can be analyzed as flows of desire
 It is dangerous to resist the structures that formed and form you but also necessary to see the world more clearly without predetermined constraints  
 Cancer is a BWO that has broken strata too fast and thus destroys the self completely (in many cases)  
 As survivors of heart attacks and near death experiences attest, the perspective afforded by dismantling the bounds determined by the safety of our bodies can radically alter worldviews  
+
 **Implications**  
 How necessary binaries are formed from continua and when and why and how we can do that effectively  
   

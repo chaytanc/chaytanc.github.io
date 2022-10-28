@@ -11,7 +11,6 @@ Some kind of sensation that isn’t raw sense data, something like using preexis
 Transcends object and subject and feels as a part of the same system  
   
 **Summary**  
-Pure Immanence  
 Deleuze writes extensively about the relationship between subjectivity, objectivity, immanence and transcendence. Though he is clear in what denatures the immanent plane (anything that can be said to represent the immanent plane, contain it, or do anything with it really), it then remains unclear what it is. The etymology of the word implies that something immanent is within, but with Deleuze’s immanence, this is not the case: “No more than the transcendental field is defined by consciousness can the plane of immanence be defined by a subject or an object that is able to contain it.” Which I’m afraid puts me in a position where I can summarize no further without the aid of mushrooms, as I cannot imagine something that is within something but also not contained by any object or subject, or what function this thing would serve if I could imagine it. Moreover, is the act of imagining it not a form of containment? Does not the authority of understanding with which Deleuze writes undermine the entire concept?  
   
 Deleuze’s transcendental field is perhaps more well defined: “it doesn’t refer to an object or belong to a subject… [it is] a pre-reflexive impersonal consciousness… without a self.” This reminds one of actualized, experienced phenomena like one’s unconsciousness, dreams without first person perspectives, or the feeling of the dissolution of self.  
@@ -38,7 +37,7 @@ Self = pP ((, p))
   
 I will note that the self is defined instantaneously, at a particular time and for a particular phi at that time. Also to note is that in practice, the points on which some form of this calculation might be performed is generally limited to the scope of our vision. Moreover, humans do not perform this entire, obviously intractable calculation. We cheat. We quickly scan our environment, knowing that chairs, pillows, trees, are well below this threshold of our degree of control compared to our hands, our heart, our body, so we eliminate large swaths of possible calculation. We may only seriously perform calculations such as these when we are very young, perhaps still forming a sense of self. Finally, it remains to be defined how one might calculate and define theta, but hopefully this mathematical formulation clarifies one conception of how to define the self. Perhaps this function can be related to measures such as integrated information as posited by Tononi’s Integrated Information Theory of Consciousness [3]. However, I am not certain this would account for scenarios where small exchanges of information can lead to exponential effects such as cancerous point mutations of genes for one example.  
   
-[1] https://www.frontiersin.org/articles/10.3389/fnhum.2017.00245/full  
-[2] https://www.frontiersin.org/articles/10.3389/fnhum.2016.00269/full  
-[3] https://blogs.scientificamerican.com/cross-check/can-integrated-information-theory-explain-consciousness/   
+[1] [https://www.frontiersin.org/articles/10.3389/fnhum.2017.00245/full](https://www.frontiersin.org/articles/10.3389/fnhum.2017.00245/full)  
+[2] [https://www.frontiersin.org/articles/10.3389/fnhum.2016.00269/full](https://www.frontiersin.org/articles/10.3389/fnhum.2016.00269/full)  
+[3] [https://blogs.scientificamerican.com/cross-check/can-integrated-information-theory-explain-consciousness/](https://chaytanc.github.io/eyeandmind)   
   
