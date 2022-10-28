@@ -10,8 +10,8 @@ Taught in Winter '23 by Prof. Philip Thurtle
 for the Comparative History of Ideas Department at UW.
 
 
-{% for chidreading in site.chidreadings %}
-{{ chidreading }}
+{% for module in site.chidreadings %}
+{{ module }}
 {% endfor %}
 
 | Week | Title | Author |
