@@ -12,5 +12,5 @@ for the Comparative History of Ideas Department at UW.
 {% for chidreading in site.chidreadings %}
 {{ chidreading }}
 {% endfor %}
-why
+whyy
 
