@@ -18,8 +18,8 @@ for the Comparative History of Ideas Department at UW.
 | -- | ----- | -- | 
 | 1 | [Eye and Mind](/chid1a) | Maurice Merleau-Ponty |
 | 1 | ["Introduction"](/chid1a) from Queer Phenomenology | Sara Ahmed |
-| 1 | ["Before We Proceed"](/chid1c) from Emergence | John Holland|
-| 1 | ["Complexity, Agency, and Time"](/chid1d) from A World of Becoming| William Connolly |
+| 1 | ["Before We Proceed"](/chid1b) from Emergence | John Holland|
+| 1 | ["Complexity, Agency, and Time"](/chid1b) from A World of Becoming| William Connolly |
 | 2 | ["Theoretical Introduction"](/chid2a) from The Accursed Share | Georges Bataille |
 | 2 | ["Introduction"](/chid2b) from Mapping Abundance for a Planetary Future| Candace Fujikane |
 | 2 | ["Immanence: A Life"](/chid2c) from Pure Immanence | Gilles Deleuze|

@@ -4,96 +4,101 @@ layout: page
 title: Eye and Mind, Queer Phenomenology
 permalink: /chid1a
 ---
-
-**Reading Thoughts and Notes**
-*Emergence, Holland*
-Cellular automata, complex emergent behavior from simple rules / high information that propagates
-Regular: recognizable and recurring phenomenon
-Extract regularities from irrelevance (but as fitness increases, the fundamental selection pressure on low level rules decreases so we get more irrelevance? Think nematode genome)
-Models make predictions, and are more simplified than the real system
-Elementary particles are mechanisms for mediating interactions
-Shouldn’t material be fundamental, not actions? Actions need to involve materials, act on them, so the material must precede, no?
-Mechanisms for recombining elementary blocks changes emergent phenomena greatly; different instruction sets for a box of legos changes outcome greatly
-Patterns of interaction persist despite overturn of material constituents
-Hierarchical subassemblies form assemblies which form subassemblies, but what defines the “layer” of observation?
-“Mechanisms” col of Table 1 combines actor with actions, behavior with actor and calls both mechanisms, then “system” is sort of what emerges from adding these particular behaviors with their particular actors. Thus would an organelle not be an organelle if it still had a membrane and transport but also had some other actor for those than enzymes?
-Anticipate consequences without living them through models
-
-*A World of Becoming, Connolly*
-Reasons for phil ignoring bio
-Reductionism of biology == ??
-Hard to understand without stem background
-Cultural theory wanted own perspective??
-Protecting divinity philosophy / theology from clash w science
-Ways that complexity theory affects humanities? Or that the universe is unstable and unpredictable?
-1) Pre-adaptation: adaptation to former environment, then starts to serve different function after further evolution or environmental changes
-   Cultural pre-adaptations like treaty of versailles adapted to serve as wwII enabler??
-   Liberal doctrine for same sex marriage
-   Fear of death into religions
-   Can only know pre-adaptations after the fact?? Why can’t we predict??
-2) Poincare resonance: uncertainties caused by stable systems pushed into disequilibrium
-   Resonance machine = ??
-   Improbabilities can have outsized impacts on future, so because you would never predict it (though you could with more info??) the future is opaque
-3) Heterogeneous systems connect with eachother unpredictably
-   Asteroid could collide in space time w humanity / no system is really closed
-   Time is fundamental and directional in order to explain heterogeneity of the world??
-   Agency
-   Augustinian: Culture is a product of will divided against itself and aid or lack thereof of divinity
-   Does not work with mechanical universe as will arises, emerges, from determinate smaller – make “anthropic exception”
-   Rethink “nature w/out agency, humanity w some agency, God w all agency”
-   Linearity / irreversibility of time does not guarantee linear progression of agency
-   Power grid assemblage – human and nonhuman parts that emerge distinctive function
-   Agency??
-   Thinks consciousness is a human domain?
-   Monkeys w ‘cultural agency’ before linguistic
-   Complex agency requires agent interaction and understanding, self-consciousness, environmental ‘mastery’, creativity – new behaviors / actions
-   Creativity through ‘inter-agental concatenations that exceed the previous reach of either party’
-   Capitalism has agency then??
-   ‘The idea of the devil needs to be translated into an appreciation of the multiple modes of agency in the world’
-   Nietzsche, will to power, we continually strive to further master our environment, extend the self (if it can be defined by that which we manipulate??)
-   There are no objects, only degrees of agency, w humans *initially* at the top
-   Individualism: parts are parts and put together make more parts
-   Holism: parts are useless until the entirety is constructed
-   William james plurality
-   No sharp cuts of experience, just useful for action, but also there is no perfect whole that every dynamic added up can describe???? “Loose connections”???
-   Experience needs anticipation, lives on the edge of next and now(what then of meditation?)
-   Experience ‘Temporally interfolded elements’; perception needs past to anticipate future in the present, but this incorporation must be unconscious or else experience collapses??
-   “And it cannot be divided neatly into that part which belongs to a subject and that which belongs to the world”
-   No “inert facts”, world interprets too – but the world emerges from small high information, static, rules (physics) from which emerges dynamics it seems?
-   Connectionism: draw up some categories, fields, boxes in which things reside, then draw connections between them and directions of influence (he’s a graph theorist really) eg capitalism is influenced by agriculture and many others, not a closed system w/ externalities but rather an open system that should “be alert to changes in other force-fields”
-   World immanent to itself – there are foundations of the universe not given by divinity but not necessarily within realm of scientific questioning
-   “a world of multiple, interacting open systems of di√erent viscosity morphing at different speeds” like a fluid dynamics simulation
-   So we can meditate according to connolly “dwell in a suspended state periodically to render experience more sensitive”
-   A type of faith that shifts with new evidence (science is religion)
-**Summary**
-
-*A World of Becoming*
-This chapter introduces the reader to the application of the science and math of complexity theory on the social sciences, in particular often with respect to an analysis of capitalism and other complex, “open” macroscopic systems governing our world’s dynamics. The broadness of this only further escalates. He examines ways of viewing the world, from the extremes of viewing systems as closed, undisturbed parts which function independently of eachother (a view he dubs ‘individualism’) to ‘holism’, where the parts only function once put together in a holistic view. Connolly also touches on the idea that the world is simply not knowable – that often seemingly predictable dynamics result in unprecedented and unforecasted results. For example, phenomena invented for cracking wartime encryptions manifested into personal entertainment and consumption machines situated in the pockets of half the world. Thus, although his arguments that the world inevitably interacts, and that no defined system is truly closed, he does not believe that knowing all these parts makes a whole, and that ultimately there are still unpredictable dynamics.
-
-**Compelling Points**
-Continuous, though not necessarily smooth, degrees of agency throughout hierarchy of forms of being
-The world is perhaps not fully predictable or knowable
-Study the vast interplay of these open systems to try to assemble a better one
-
-**Implications**
-I think one story of the world is a great arm’s race between centralized control and distributed control and the becoming and unbecoming of each. This grand narrative has remade itself in religion, in politics, in computer science, in our own evolution and cognitive substrate.
-In World of Becoming, Connolly discusses his ideas of agency of which every level of complexity possesses varying degrees. In this view, there is
-
-Let us go to the skin. Let us zoom in on the pores, closer, the hair follicles, closer, the dust mites, closer, the bacteria bristling against the pincers of the dust mite situated on the precipice of a hair follicle crater, closer still, the phospholipid membrane of the skin cells which repel the hydrophobic membrane of the bacteria upon? it, and here, closer still, the molecules of double bonded oxygen, molecules of triple bonded nitrogen, carbons sandwiched between oxygens, swirling, all of which themselves composed of, mostly, nothing, and here, at this border, standing on the phospholipid membrane in this swirling nothingness, is the self. This distinctive border recreates itself in familiar cascades of electrical storms illuminating the dark between of synaptic clefts, synaptic cliffs, when we imagine the self. It is, of course a lie and a truth. It is here; we can see it. Above there are swirling, uncontrolled, stochastic gases colliding with little discernible pattern. Below, within, there is unimaginably ordered chaos. Massive protein mouths, volcanos in the crust of the membrane we stand on, open and close as crooked water molecules pour within. Their mouths open to a wondrous din – machinery of ribosomes nearby pop incessantly as amino acids click to tRNA; creak insatiably as their creations fold themselves into new forms of being. Within, we see it, the self. “Life”. Under foot, its patterns of vibration tell long stories of becoming, eons of formation and dissolution that materialized in the complex rhythms below, within. Outside, we see disorder. But we do not see the self. We do not see the adrenal glad which rests above the kidneys which dispatched the massive, imminent, immanent epinephrine molecule, hurtling toward the other hemisphere of this cell on which we stand and to be absorbed upon impact by the gaping adrenergic mouth. We do not see the towering thick beanstalks of axons permeating the adrenal glands, themselves –
-Lookout! Hydroxide incoming!
-No we don’t see it, but we see we are a part. And we can of course, zoom out. We redraw our perspective yet again. We find the boundary of agency, which is characterized by the
-
-
-Questions from class:
-How are the lines of hierarchy drawn, of system and part
-Take all points of space, and map their causal power on all other points in space, then find ones with highest causal power
-Take all points of space and map information transfer between other point, for that one point keep going until
-Within what space? Keep increasing space until information ???
-Can assembly, complexity, answer what is the self? Does the self have to originate from similar places??
-Let’s say assembly tells us what life is. Then do we find the border between life and “nonlife” below a certain threshold and call that not the self? That does not tell us the location of the self within the body, and it says that the water within our body without which we would not be ourselves, is not a part of our self…
-Recognizing the self has fitness advantages. Distinguishing that the electricity in my brain can tell my toes what to do with high accuracy under all conditions, my cell phone what to do with high accuracy under some, and the air what to do only when it is direct contact with my skin, this is the self and know these distinctions is a very basic, crucial portion of survival. So the self is constructed from the causal power of the neurons in the brain. It is a representation of all the state action state2 pairs between the brain and the rest of the points in the world, dropping off sharply when the uncertainty of state2 is too high. So then does a cell have a self? Does it have a mapping or representation of some locus of control to the other points in the world? Yes, for example if lactose is present (state) and gene is on (action, though is this part necessary?) then this protein is made and the rest of the cell is in this state (other states in all the points of of space for which self is fairly certain)
-This asserts that a self should know / predict the states of pretty much everything, all dynamics, within itself. How does abstraction fit into this picture? I do not know the exact states of all my cells, yet my cells make up my self. Do you have to define a granularity of self s.t. My predictions need only hold on some physical scale? I have a good understanding of what my nose should sense at any given moment – this is a fairly microscopic scale prediction of which molecules should be bound to olfactory receptors, yet I cannot predict which molecules should be bound to my liver to any degree of certainty. However, my subconscious can?? This too, part of my self, and part of my loci of control. If you had a self that could make even more certain fine-grain, molecular predictions of itself, would this be even more self-ish? Meditation may agree.
-
-Go back to fitness advantages. It is not advantageous to fine tune these abstractable capabilities. They become autonomous self regulating systems that do not need the central nervous system’s control. Maybe in this sense they are no longer a part of the self, yet the central nervous system still needs them to exist, thus they must be connected, and thus they are still part of the self. Perhaps because they are so self regulating, the prediction of the states becomes trivial, at least w.r.t. Actions at a certain granularity – I don’t need to know the molecular makeup of my liver to know how to kick a soccer ball, I would rather simply make the prediction “I don’t feel like I have cirrhosis right now, so I can kick the ball”
-
-
+**Reading Notes and Thoughts**
+*Merleau-Ponty*  
+What is the enigma of painting he describes?  
+Why would Descartes come to the conclusion that the observer is not objective if he had thought about painting more??  
+What is a Cartesian view of the world and why does it conflict with the author’s?  
+It separates self from the world, objects from subjects, where subjects can view objects without being affected by them in turn  
+“Secondary qualities” such as color have no intrinsic meaning and only by acting on us can they evoke meaning, so you cannot ignore the body in the process of observation  
+Why does the painting “look” back at us  
+What is this obsession with vision over all other senses  
+Descartes imagines a world without senses to mislead us still has subjective experience – “I think, therefore I am” – a “blind irreducible experience” but to Merleau philosophy maintains that this is not possible because you cannot experience without a body and senses  
+Bodybuilding is an art, is painting, an act of painting and repainting, forming and reforming that does not cease  
+Bodybuilders understand Ahmed’s claim – that we shape the environment, we change the structure of the world outside the self and it reflects back in ourselves. And again. We lift the weight, the weight leaves its little tears in us and its little prickle of sweat on our brow and the cerebral footprint of the heavy iron pressed against hot hands. And the weight goes up; and the sweat drips down; and the self is in both.  
+Philosophy is an academic discipline and ingrained in academic funding, taught by professors whose livelihood is doled by academia, and perpetuated by students within such institutions. Although the self professed goals of many philosophers, particularly Marxist scholars, is the plight of the proletariat, the commoner, and the dismantling of oppressive structures, the inscrutable nature of their writing is borne of the traditions of academia: to be beyond critique and reproach of the uneducated, to cite and build on the foundations of earlier academics, to write using scholarly dialect. Because philosophy cannot make testable predictions or build models with evidence to achieve these goals of academia, it appropriates the goal of inscrutability to give reprieve from harsh reproach.  
+Let us analyze the phenomenology of philosophy: largely perpetuated by privileged French white males who taught at privileged white schools and gained respect by studying and citing their predecessors (need I describe them too?). Their philosophy developed not with the goal of being understood by the masses, which would in fact stand in opposition to long academic traditions. In fact, if they were to be understood it would undermine the legitimacy of the legacy of philosophy as rife with contradictions beyond reconciliation and reveal the minute progression of the field.  
+The first defense to the latter assertion is an attack on the idea of progression of a field at all, which was embodied in Merleau’s work “  
+Instead they lay claim to logocentrism to push themselves further beyond common reproach and comprehension  
+Which is absurd because anyone who thinks they don’t believe in logic is lying to themselves, as every practical action we take lies in this foundation of logic. You drink water today? You used implicit logic and statistics to figure that you need water to survive.  
+And good god deconstructionism. You don’t have to describe deconstructionism in a deconstructionist way. Really. Deconstructionism IS a way of blurring lines of categories and concepts. DONE.  
+It is no wonder that philosophers born outside of this bubble forge more unique paths, and are begrudgingly given some respect, correlating roughly to what degree they abide by the academic philosophical institutions’ rules – Is Sara Ahmed a widely respected philosopher? Well she does cite Foucault, so we’ll give her some clout, but she also writes with the intent to be understood to some degree, so let’s not take her too seriously. After all, we understand more than 50% of what she’s arguing. And those who seriously deviate from this tradition are no longer considered philosophers. They are relegated to figures of “pop culture”, or fictive writers. See David Foster Wallace. See Octavia Butler.  Why? Because, *academia gasps*, the masses understand what they’re saying. They’re also more diverse. Why? Because people born outside the academic philosophical institutions’ privileged circle develop more meaningful goals than reproducing the academic philosophical institution.  
+All this is not to say that those French guys (and non French, non guys, who incorporated enough to find credibility) haven’t had interesting, impactful ideas. Of course they have. That does not invalidate the points above describing the nature of arriving at these ideas, and why they tend to be characterized by inaccessibility.  
+  
+*Sara Ahmed*    
+What does she mean by new folds  
+Why does inhabitance orient  
+Why does a blindfold imply disorientation?  
+We cannot predict the input to our other senses, at least initially without taking compensatory input from other senses like touch or hearing, because we do not know where we are relative to “other” reachable, interactive surroundings  
+Similarly, if you were numb all over and told to find the heater, you are disoriented with respect to the gradients of temperature, you cannot place yourself relative to it  
+Are we sure that we should equate familiar with not lost, or with oriented  
+Do we really need to know left and right sides of body to be oriented? Is this not a binarization of a gradient?  
+“Orientation is about making the strange familiar through the extensions of the body into space”  
+“Goose bumps, textures on the skin surface, as body traces of the coldness of the air”  
+Are there any absolute coordinates? What implications does this have? She holds that we need absolute coordinate system (longitude and latitude eg) to know where we are / something fixed, but those are just relative to something other than ourselves – the earth.  
+“Body gets directed in some ways more than others”  
+“One becomes a subject through turning around when hailed by the police” – I do not understand this argument at all, are you not both the object, acted upon by the police, and subject as you experience yourself as the  
+Is the “subject” of a sentence or “address” the same as “subjective” experience??  
+Paths reproduce themselves  
+“Lines become the external trace of an interior world, as signs of who we are on the flesh that folds and unfolds before others” – this viewpoint leads to contentious claims: that we can diagnose depression from facial expressions, that certain cultures look a certain way, that behavioral practices can be read from exterior appearances. Justifies many stereotypes. Not that it is necessarily untrue for that though  
+“Orientation is a matter of how we reside, or how we clear space that is familiar… then take time” Embodiment implies time and spatial constraints and we cannot pretend to live in any other disembodied world because those thoughts come from an embodied one  
+“Orientations shape not only how we inhabit space, but how we apprehend this world of shared inhabi­ tance, as well as "who" or "what" we direct our energy and attention toward.”  
+“For a life to count as a good life, then it must return the debt of its life by taking on the direction promised as a social good, which means imagining one’s futurity in terms of reaching certain points along a life course. A queer life might be one that fails to make such gestures of return.”  
+  
+**Summary**    
+*Merleau-Ponty*    
+Science should learn from painting how to incorporate the science of itself into its predictions. Merleau-Ponty believes painting does this in a fundamental way that is grounded in the body of the painter, and unlike science, does not try to view things “from above”; “Every [painting] technique is a… metaphysical structure of our flesh”.  
+  
+*Sara Ahmed*    
+To be oriented is to know where one is. This may imply familiarity with surroundings, and the process of becoming oriented may transfer unfamiliar to familiar. Moreover, that process requires a body, and interacting with the disorienting environment (inhabiting) in order to establish a relative ordering and map. Because we desire to be oriented, and Ahmed sees this as linked to familiarity, we tend to take paths which others have already oriented themselves toward, that have already shaped the world in familiar ways. Social expectation can imply that one must further an already taken path, to orient more along this axis in the future. It can be difficult to veer from a path and face the failure to meet this expectation.  
+  
+**Compelling Points**    
+It is ignorant to ignore the effects of the objects we observe on our subjective experience, and thus observation (truism)  
+Orientation does not merely consist of determining left from right sides of the body, instead it is a process of placing oneself relative to many different relative coordinate systems,  
+“Goose bumps, textures on the skin surface, as body traces of the coldness of the air”  
+I think this quote captures the essential compelling points of both essays for me. The body forms and is formed by the shape of the environment, and the body of the environment is traced by the bodies and objects in it.  
+  
+**Implications**    
+Free will – Merleau-Ponty’s view that everything begins from a single point of being and emanates, observing the world, being shaped by observation, and forming from there seems to leave little room for free will, whereas Descartes’ mystic, unaffected observer does because how one’s own mind changes is not addressed and can be explained by free will instead of interactions with surroundings  
+Definition of reproduction and theory of natural selection  
+How do you reproduce the self if the self extends into space  
+We all understand “self” without this complication: it ends at the barrier of the skin, and the skin represents a threshold beyond which the similarity of a reproduced self is essentially zero.  
+Differential equations – while it might be tempting to conclude that because we cannot observe “from above”, and what we observe changes us and our observation, that it is impossible to observe in a “scientific way”, or that our observations are nondeterministic. I disagree, I think this just complicates the notion of observation by reframing it as a differential equation, wherein the variable we solve for is in itself a part of the equation describing the variable. These equations are sometimes solvable, or at the least, can be approximated with deterministic degrees of precision. So the conclusion that a variable affecting the equation which describes it creates a nondeterministic system would be a mistaken assumption.  
+To recognize the self as extended in space is self-transcendent and breaks down notions of anthropomorphized self importance and challenges divine creation  
+  
+The most interesting implication of these ideas to me is that of one of the central tenets of biology: evolution. How does one reproduce the self if the self extends into space? What does reproduction mean if the self is some sort of continuum with no real separable boundary between “it” and “other”? I am not entirely sure how to answer these questions, but I can make a few observations.  
+  
+We all vaguely understand what we mean by self. It stops at the skin because the degree of control we have past this boundary sharply drops. Moreover, what we maintain and reproduce throughout space and time is generally contained within this boundary, if reproduction can be described by a function computing the similarity of what was and what is within a defined physical space. In a looser definition of reproduction, less centered on biology, maybe that defined space is physical, or maybe that defined space is a set of possible actions. Maybe things that act similarly but are physically different is just as valid a form of reproduction as the converse. Maybe it is a power set of the two spaces. Maybe it is a way of computing similarity that I cannot right now imagine. I would contend that this type of reproduction is a gradient which originates from some center of self, and defines the self not in terms of “is” or “is not” but instead as how similar points in  
+  
+Is a self defined by ability to reproduce?  
+Or is it defined by agency and manipulation?  
+  
+Reproduction needs some material basis, a thing upon which to act to produce another thing which is in some sense similar.  
+  
+How can we “reproduce” but still differentiate our selves from our children??  
+This is not reproduction. It is production. The thing most faithfully reproduced is a human. It is only a partial reproduction of the parents’ traits. Since we do not call our children a part of our self, we should better understand reproduction as that of the human self, and not of our individual self.  
+  
+But if we reproduced something exactly like us, there would then be two selves, not just one merged self, so then the self cannot be defined entirely by reproduction.  
+  
+If reproduction is to make an exact copy of itself then the word becomes meaningless because it describes almost nothing. So then there must exist a continuum of similarity to the original which defines reproduction in the sense that we understand it.  
+  
+If two things that are materially disparate but have the exact same action set exist, are they a copy? If one produced the other, is it reproduction?  
+Is it possible to have two materially disparate things with the exact same action set or do different materials inherently endow different properties such that there are at least minute differences in action sets and how the thing moves through the world?  
+No, it is not possible, because by definition we stated the materials are different. How do we detect differences? Interactions with the world. Therefore different materials give rise to different action sets.  
+  
+But at the same time, computing the similarity of the materials doesn’t say much about the similarities of the whole, for example comparing the similarities of monkey and human genomes.  
+No, this example just illustrates the powerful effect of extremely high information materials, such that tiny differences in materials can result in drastically different action sets.  
+  
+Thus, reproduction of self-reproducing action sets is the process of evolution, and this results in reproducing materially similar selves such that the action sets resulting are similar.  
+  
+Thus the self is defined by copies: redundancies of behaviors and interaction patterns. This is in turn a computation of material similarity between centers of self.  
+  
+What if there is you and you’re looking at an ad and it has some particular effect, and there’s you later and you’re smelling something that reminds of that ad. Are those similarities in effect on your self accounted for in this model?  
+Yes because the firing of particular neurons will have material similarities so the selves at the two particular instances in which the environmental self was similar will be reflected.  
+  
+You can check if something has reproduced by seeing how materially similar centers of self are, but that is not what the self is. The self can be seen as a collection of things that reproduce??  
+  
+Reproduction implies a self but a self does not imply reproduction. Exists reproduction, then exists self. Cannot use reproduction to define self. Then self is defined by agency? Loci of control? Must start from conceding that there is not a hard barrier between self and world, but that there IS an understandable, discernible difference.  
+  
+If I have a group of skin cells bumping against air molecules, how can I tell that border? The skin cells exert more pressures, force-fields, interactions between each other than with the air molecules. More information exchanged between, at a higher rate, than with the air molecules. Keep drawing this  
+  
