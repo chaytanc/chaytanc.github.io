@@ -121,6 +121,14 @@ Fall 2022
   : Land of Wondrous Cold
     : Gillen D'Arcy Wood
 
+Fall 2022
+  : Vampyroteuthis Infernalis
+    : Vilem Flusser and Louis Bec
+
+Fall 2022
+  : Annihilation
+    : Jeff Vandermeer
+
 
 [comment]: <> (Oct 8)
 

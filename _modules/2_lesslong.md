@@ -41,6 +41,10 @@ Spring 2019
     : Gabriel García Márquez
 
 Spring 2019
+  : Middlesex
+    : Jeffrey Eugenides
+
+Spring 2019
   : The Zoo Story
     : Edward Albee
 

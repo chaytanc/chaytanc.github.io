@@ -11,3 +11,4 @@ description: A few thoughts I wrote down here.
 # Thoughts
 
 [Fingertips](/fingertips)  
+[Empty](/empty)
