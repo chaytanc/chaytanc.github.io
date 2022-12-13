@@ -16,3 +16,4 @@ description: Listing of some of the projects I have made
 
 [ModelVale](/ModelVale)  
 [Eye and Mind](/eyeandmind)
+[Game of Intelligent Life](/gil)
