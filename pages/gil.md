@@ -22,7 +22,7 @@ Cellular automata captivate researchers due to the emergent, complex individuali
 Overall, we explore the possibility of emergent behaviors in a multi-agent setting with a simple goal of predicting the next state of the game. By giving each cell agency with a convolutional neural network, we were able to explore more complex multi-agent behavior, giving each agent a short term memory in the form of convolutional parameters, and the ability to explore vs exploit their environment through their output movements. The goal was to explore the types of emerging behavior from groups of CNN agents with a selective pressure toward better predictions of the next state.  
 
 ### Related Work
-This work was heavily inspired by the paper “Growing Neural Cellular Automata” [1], as well as by the original Game of Life by John Conway [2]. The ResNet architecture was also borrowed and modified from this tutorial [3]. Finally, the idea of a fitness value for the cells comes from the field of genetic algorithms.  
+This work was heavily inspired by the paper “Growing Neural Cellular Automata” [1](#References), as well as by the original Game of Life by John Conway [2](#References). The ResNet architecture was also borrowed and modified from this tutorial [3](#References). Finally, the idea of a fitness value for the cells comes from the field of genetic algorithms.  
 
 ### Methodology
 1. Convolutional neural networks are randomly generated on a 100x100 grid 
@@ -45,10 +45,8 @@ This work was heavily inspired by the paper “Growing Neural Cellular Automata�
 ### Results
 
 ### Demo
-[demo 1](https://media.giphy.com/media/uBRo7nvkLVbWA1Ohc3/giphy.gif)  
-<iframe src="https://giphy.com/embed/uBRo7nvkLVbWA1Ohc3" width="480" height="383" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/uBRo7nvkLVbWA1Ohc3">via GIPHY</a></p>
-[demo 2](https://media.giphy.com/media/7ezz5x4QCypeJ29c6c/giphy.gif)  
-<iframe src="https://giphy.com/embed/7ezz5x4QCypeJ29c6c" width="480" height="383" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/7ezz5x4QCypeJ29c6c">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/uBRo7nvkLVbWA1Ohc3" width="480" height="383" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/uBRo7nvkLVbWA1Ohc3">demo 1</a></p>
+<iframe src="https://giphy.com/embed/7ezz5x4QCypeJ29c6c" width="480" height="383" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/7ezz5x4QCypeJ29c6c">demo 2</a></p>
 
 ### References
 
