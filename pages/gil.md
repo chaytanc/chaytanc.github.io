@@ -46,7 +46,9 @@ This work was heavily inspired by the paper â€œGrowing Neural Cellular Automataâ
 
 ### Demo
 [demo 1](https://media.giphy.com/media/uBRo7nvkLVbWA1Ohc3/giphy.gif)  
-[demo 2](https://media.giphy.com/media/7ezz5x4QCypeJ29c6c/giphy.gif)
+<iframe src="https://giphy.com/embed/uBRo7nvkLVbWA1Ohc3" width="480" height="383" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/uBRo7nvkLVbWA1Ohc3">via GIPHY</a></p>
+[demo 2](https://media.giphy.com/media/7ezz5x4QCypeJ29c6c/giphy.gif)  
+<iframe src="https://giphy.com/embed/7ezz5x4QCypeJ29c6c" width="480" height="383" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/7ezz5x4QCypeJ29c6c">via GIPHY</a></p>
 
 ### References
 
