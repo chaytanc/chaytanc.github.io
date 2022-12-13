@@ -50,8 +50,8 @@ This work was heavily inspired by the paper â€œGrowing Neural Cellular Automataâ
 
 ### References
 
-[1](https://distill.pub/2020/growing-ca/)  
-[2](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)  
-[3](https://blog.paperspace.com/writing-resnet-from-scratch-in-pytorch/)  
+[\[1\] Growing Neural Cellular Automata](https://distill.pub/2020/growing-ca/)  
+[\[2\] Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)  
+[\[3\] ResNet From Scratch in Pytorch](https://blog.paperspace.com/writing-resnet-from-scratch-in-pytorch/)  
 
 
