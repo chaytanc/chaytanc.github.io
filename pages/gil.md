@@ -45,13 +45,13 @@ This work was heavily inspired by the paper â€œGrowing Neural Cellular Automataâ
 ### Results
 
 ### Demo
-[demo 1](https://media.giphy.com/media/uBRo7nvkLVbWA1Ohc3/giphy.gif)
+[demo 1](https://media.giphy.com/media/uBRo7nvkLVbWA1Ohc3/giphy.gif)  
 [demo 2](https://media.giphy.com/media/7ezz5x4QCypeJ29c6c/giphy.gif)
 
 ### References
 
-[1](https://distill.pub/2020/growing-ca/)
-[2](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
-[3](https://blog.paperspace.com/writing-resnet-from-scratch-in-pytorch/)
+[1](https://distill.pub/2020/growing-ca/)  
+[2](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)  
+[3](https://blog.paperspace.com/writing-resnet-from-scratch-in-pytorch/)  
 
 
