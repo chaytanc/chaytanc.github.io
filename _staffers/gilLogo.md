@@ -4,7 +4,8 @@ role: gil
 photo: ca.jpg
 ---
 A little model of emerging agency  
-Authors: 
+  
+**Authors**  
 *Marlene Grieskamp*  
-*Shaun Lee*  
 *Chaytan Inman*  
+*Shaun Lee*  
