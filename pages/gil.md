@@ -41,16 +41,38 @@ This work was heavily inspired by the paper “Growing Neural Cellular Automata�
 10. The fitnesses of each conv net in the grid are updated to reflect the loss received
 
 ### Evaluation
+We tried searching over the following hyperparameters for each of the following tests and plotted the losses for a selection of cells in the grid:
+
+- Learning rate = [0.1, 0.05, 0.01, 0.005, 0.001]
+- Weight decay = 0.001
+- Momentum = [0.9, 0.95, 0.97, 0.99]
 
 ### Results
 
-**Not Yet Implemented**
-   - Channels through which convolutional networks can send scalar signals to other networks and in a sense communicate
-   - Neighbor’s predictions of a cell’s fitness impacting the fitness of the cell in question
-   - Random reproduction of highest fitness cells to allow for clusters of high fitness cells
-   - Random death of lowest fitness cells
-   - Weight sharing or mixing between cells
-   - Better recurrent CNN implementation
+1. 500 initial cells with 30 epochs
+   - best hyperparameters: learning rate = 0.01, momentum = 0.99
+   - avg. cell loss: 2017.8651169898762
+
+2. 100 initial cells with 30 epochs
+   - best hyperparameters: learning rate = 0.01, momentum = 0.99
+   - avg. cell loss: 1817.7762443485703
+
+3. 30 initial cells with 30 epochs
+   - best hyperparameters: learning rate = 0.005, momentum = 0.97
+   - avg. cell loss: 1502.6859429765955
+
+### Discussion
+
+Using a ResNet architecture, we ran into many issues with upsampling the 3x3 input to a 100x100 output prediction over the whole grid. The result was a very high and unpredictable loss which did not converge. We found that Pytorch’s given methods of upsampling for convolutional neural networks are not well suited for large changes in input sizes, and we needed to add over 20 cells of padding to get the desired output size. We felt this was one reason for the high loss, so we switched to a method of predicting only the cell’s neighbors. This meant that the cell’s input and output were both 3x3x9. 
+
+The effect of this is shown in the difference between Figure 1 and Figures 2, 3. In the former, the loss spiked up and never converged. In the latter figures, the loss does spike, but often returns to a low baseline. Although the cause of these results are not exactly certain, we hypothesize the spiking behavior seen in Figures 2 and 3 is due to the cell network learning the position of its neighbors, and then experiencing high loss when neighboring cells move. The movement is partially determined by the output of a network but also partially stochastic noise. This can be difficult for cells to learn and may be one source of spiking losses.
+
+- Channels through which convolutional networks can send scalar signals to other networks and in a sense communicate
+- Neighbor’s predictions of a cell’s fitness impacting the fitness of the cell in question
+- Random reproduction of highest fitness cells to allow for clusters of high fitness cells
+- Random death of lowest fitness cells
+- Weight sharing or mixing between cells
+- Better recurrent CNN implementation
 
 **Possible Use Cases** 
 - Self assembling images (similar to [1](#references))
