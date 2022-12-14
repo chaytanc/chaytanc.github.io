@@ -44,18 +44,27 @@ This work was heavily inspired by the paper “Growing Neural Cellular Automata�
 
 ### Results
 
- **Not Yet Implemented**
+**Not Yet Implemented**
    - Channels through which convolutional networks can send scalar signals to other networks and in a sense communicate
    - Neighbor’s predictions of a cell’s fitness impacting the fitness of the cell in question
-   - Random reproduction of highest fitness cells
+   - Random reproduction of highest fitness cells to allow for clusters of high fitness cells
    - Random death of lowest fitness cells
    - Weight sharing or mixing between cells
+   - Better recurrent CNN implementation
+
+**Possible Use Cases** 
+- Self assembling images (similar to [1](#references))
+- Modeling biological systems – bacteria colonies, multicellular organism formation
+- Modeling physical systems at a particle level
+- Economics, and other dynamic multi-agent systems with partial observability
+
 
 
 ### Demo and Code
 [Source Code](https://github.com/chaytanc/game-of-intelligent-life/tree/main)
-<iframe src="https://giphy.com/embed/uBRo7nvkLVbWA1Ohc3" width="480" height="383" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/uBRo7nvkLVbWA1Ohc3">demo 1</a></p>
-<iframe src="https://giphy.com/embed/7ezz5x4QCypeJ29c6c" width="480" height="383" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/7ezz5x4QCypeJ29c6c">demo 2</a></p>
+<iframe src="https://giphy.com/embed/XjZHMeJsmxZ2SKQrod" width="480" height="383" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/XjZHMeJsmxZ2SKQrod">demo 1</a></p>
+<iframe src="https://giphy.com/embed/h1DAaQ4c4RsWDSXPO2" width="480" height="383" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/h1DAaQ4c4RsWDSXPO2">demo 2</a></p>
+<iframe src="https://giphy.com/embed/7ezz5x4QCypeJ29c6c" width="480" height="383" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/7ezz5x4QCypeJ29c6c">old buggy (but cool!) demo</a></p>
 
 ### References
 
