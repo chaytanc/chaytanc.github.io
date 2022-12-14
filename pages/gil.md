@@ -29,20 +29,20 @@ This work was heavily inspired by the paper “Growing Neural Cellular Automata�
 
 ### Methodology
 
-1. Convolutional neural networks are randomly generated on a 100x100 grid 
-   - A cell_grid object keeps track of the object positions 
-   - A grid object keeps track of the vectorized form of the cells at the positions 
-   - An intermediate cell grid object keeps track of the possibly overlapping movements of cells
-2. We begin the first frame by running forward on all conv nets, passing each one its 3x3 neighboring cells
-3. The outputs are the predicted colors and fitnesses of 3x3 neighbors in the next frame, and a movement represented by five channels
-   - The movement property of cells is updated
-4. The movements of the cells are computed from the output movement channels. This updates the intermediate cell grid
-5. If cells overlap, their fitnesses are used to determine which one takes precedence, resolving the intermediate cell grid
-6. The cell_grid and grid objects are updated based on the resolved intermediate cell grid to get the new frame
-7. The output predicted colors and fitnesses are compared the actual colors and fitnesses of the new frame
-8. The conv nets are updated using backpropagation
-9. The colors of each conv net in the grid are updated to reflect the changes in network parameters
-10. The fitnesses of each conv net in the grid are updated to reflect the loss received
+1. Convolutional neural networks are randomly generated on a 100x100 grid.
+   - A cell_grid object keeps track of the object positions.
+   - A grid object keeps track of the vectorized form of the cells at the positions.
+   - An intermediate cell grid object keeps track of the possibly overlapping movements of cells.
+2. We begin the first frame by running forward on all conv nets, passing each one its 3x3 neighboring cells.
+3. The outputs are the predicted colors and fitnesses of 3x3 neighbors in the next frame, and a movement represented by five channels.
+   - The movement property of cells is updated.
+4. The movements of the cells are computed from the output movement channels. This updates the intermediate cell grid.
+5. If cells overlap, their fitnesses are used to determine which one takes precedence, resolving the intermediate cell grid.
+6. The cell_grid and grid objects are updated based on the resolved intermediate cell grid to get the new frame.
+7. The output predicted colors and fitnesses are compared the actual colors and fitnesses of the new frame.
+8. The conv nets are updated using backpropagation.
+9. The colors of each conv net in the grid are updated to reflect the changes in network parameters.
+10. The fitnesses of each conv net in the grid are updated to reflect the loss received.
 
 ### Evaluation
 
@@ -114,7 +114,7 @@ Figure 3.3:
 
 Using a ResNet architecture, we ran into many issues with upsampling the 3x3 input to a 100x100 output prediction over the whole grid. The result was a very high and unpredictable loss which did not converge. We found that Pytorch’s given methods of upsampling for convolutional neural networks are not well suited for large changes in input sizes, and we needed to add over 20 cells of padding to get the desired output size. We felt this was one reason for the high loss, so we switched to a method of predicting only the cell’s neighbors. This meant that the cell’s input and output were both 3x3x9. 
 
-We found that in the former situation where we tried to predict the full state of the grid given partial observability, the loss spiked up and never converged. In the latter experiments 1-3, the loss does spike, but often returns to a low baseline (seen in figures 1.1-1.3, 2.2, 2.3) and may sometimes converge to a lower value (seen in figures 2.1, 3.1-3.3). Although the cause of these results are not exactly certain, we hypothesize that the spiking behavior is due to the cell network learning the position of its neighbors, and then experiencing high loss when neighboring cells move. And for other cells, we hypothesize that the converging behavior occurs when cells move around the grid and encounter few/no neighbors, resulting in more accurate predictions as new cells would not suddenly appear in their field of vision. We theorize that the loss is high due to the movement being partially determined by the output of a network and partially determined by stochastic noise (where each cell has a 0.1 probability of taking a random action). This can be difficult for cells to learn and may be one source of high/spiking losses.
+We found that in the former situation where we tried to predict the full state of the grid given partial observability, the loss spiked up and never converged. In the latter experiments 1-3, the loss does spike, but often returns to a low baseline (seen in figures 1.1-1.3, 2.2, 2.3) and may sometimes converge to a lower value (seen in figures 2.1, 3.1-3.3). Although the cause of these results are not exactly certain, we hypothesize that the spiking behavior is due to the cell network learning the position of its neighbors, and then experiencing high loss when neighboring cells move. And for other cells, we hypothesize that the converging behavior occurs when cells move around the grid and encounter few/no neighbors, resulting in more accurate predictions as new cells would not suddenly appear in their field of vision. This may also be supported by the fact that the average cell loss is lower when we start the game with less initial cells (shown in experiments 1-3), as the CNN has a harder time predicting the next state of the game when cells are constantly moving in/out of the 3x3 neighbor grid. We theorize that the loss values are high due to the movement being partially determined by the output of a network and partially determined by stochastic noise (where each cell has a 0.1 probability of taking a random action). This can be difficult for cells to learn and may be one source of high/spiking losses.
 
 The next step may be to train the CNN on the full state/a larger partial state instead of the 3x3 partial state neighbors. By giving the CNN more information, each cell may be better able to predict the next state of the game. Preliminary investigations of this have shown that this significantly increases training time and computation cost, so running this on powerful devices (GPUs/TPUs) is recommended. 
 
@@ -131,7 +131,8 @@ Beyond that, we propose the following future implementations:
 - Neighbor’s predictions of a cell’s fitness impacting the fitness of the cell in question
    - Allows for the model to emulate a 'horde mentality' between the cells for more interesting effects.
 
-**Possible Use Cases** 
+### Possible Use Cases
+
 - Self assembling images (similar to [1](#references))
 - Modeling biological systems – bacteria colonies, multicellular organism formation
 - Modeling physical systems at a particle level
