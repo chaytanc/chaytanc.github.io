@@ -145,7 +145,7 @@ Beyond that, we propose the following future implementations:
 
 ### Demo and Code
 [Source Code](https://github.com/chaytanc/game-of-intelligent-life/tree/main)
-<iframe src="https://giphy.com/embed/XjZHMeJsmxZ2SKQrod" width="480" height="383" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/XjZHMeJsmxZ2SKQrod">demo 1</a></p>
+<iframe src="https://giphy.com/embed/UtGpYehPfGjCkVjyv2" width="480" height="383" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/UtGpYehPfGjCkVjyv2">demo 1</a></p>
 <iframe src="https://giphy.com/embed/h1DAaQ4c4RsWDSXPO2" width="480" height="383" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/h1DAaQ4c4RsWDSXPO2">demo 2</a></p>
 <iframe src="https://giphy.com/embed/7ezz5x4QCypeJ29c6c" width="480" height="383" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/7ezz5x4QCypeJ29c6c">old buggy (but cool!) demo</a></p>
 
