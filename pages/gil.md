@@ -16,15 +16,19 @@ permalink: /gil
 
 
 ### Abstract
+
 Cellular automata captivate researchers due to the emergent, complex individualized behavior that simple global rules of interaction enact. Recent advances in the field have combined cellular automata with convolutional neural networks to achieve self-regenerating images. This new branch of cellular automata is called neural cellular automata [1]. The goal of this project is to use the idea of neural cellular automata to grow prediction machines. We place many different convolutional neural networks in a grid. Each conv net cell outputs a prediction of what the next state will be, and minimizes predictive error. Cells received either their neighbors colors and fitness as input. Each cell’s fitness score described how accurate its predictions were. Cells could also move to explore their environment.  
 
 ### Problem Introduction
+
 Overall, we explore the possibility of emergent behaviors in a multi-agent setting with a simple goal of predicting the next state of the game. By giving each cell agency with a convolutional neural network, we were able to explore more complex multi-agent behavior, giving each agent a short term memory in the form of convolutional parameters, and the ability to explore vs exploit their environment through their output movements. The goal was to explore the types of emerging behavior from groups of CNN agents with a selective pressure toward better predictions of the next state.  
 
 ### Related Work
+
 This work was heavily inspired by the paper “Growing Neural Cellular Automata” [1](#references), as well as by the original Game of Life by John Conway [2](#references). The ResNet architecture was also borrowed and modified from this tutorial [3](#references). Finally, the idea of a fitness value for the cells comes from the field of genetic algorithms.  
 
 ### Methodology
+
 1. Convolutional neural networks are randomly generated on a 100x100 grid 
    - A cell_grid object keeps track of the object positions 
    - A grid object keeps track of the vectorized form of the cells at the positions 
@@ -43,11 +47,12 @@ This work was heavily inspired by the paper “Growing Neural Cellular Automata�
 ### Evaluation
 
 The results of this experiment are exploratory; there was no desired outcome, but rather a desire to understand the effects of various design choices on the simulated behavior. To understand the effects, we evaluated the loss of the convolutional neural networks using mean squared error between a cell’s predicted next frame of the game and the actual next frame of the game.
+
 We test the following two methods of prediction:
 - Each cell has partial observability of the 100x100 grid, and also predicts the partial state of the grid (3x3 input and 3x3 output).
 - Each cell has partial observability of the 100x100 grid, and predicts the full state of the grid (3x3 input and 100x100 output).
 
-We run the following simulations for a different number of initial cells in the range [30, 100, 500]. Each cell has partial observability of the 100x100 grid, and also predicts the partial state of the grid (3x3 input and output).
+We run the following simulations for a different number of initial cells in the range [30, 100, 500] for partial observability and plot the cell losses per epoch for randomly picked cells on the grid, as well as compute the average cell loss as a measure of the overall prediction strength of the conv net for different initial starting states. 
 
 For each simulation, we perform a grid search over the following hyperparameters:
 - Learning Rate = [0.1, 0.05, 0.01, 0.005, 0.001]
@@ -55,17 +60,37 @@ For each simulation, we perform a grid search over the following hyperparameters
 
 ### Results
 
+For partial observability with partial state prediction, we plot the losses of 3 cells chosen from the grid:
+
 1. 500 initial cells with 30 epochs
    - best hyperparameters: learning rate = 0.01, momentum = 0.99
    - avg. cell loss: 2017.8651169898762
+
+![wishywashy500](https://user-images.githubusercontent.com/103079871/207540941-f0d02746-e875-4d1a-81dc-b7ba9544afa4.png)
+
+![maybe500](https://user-images.githubusercontent.com/103079871/207541260-c5bf49c0-5817-478c-8831-35684deddf0c.png)
+
+![spiky500](https://user-images.githubusercontent.com/103079871/207541316-aab5714f-4c90-4607-909f-8e82342e9d78.png)
 
 2. 100 initial cells with 30 epochs
    - best hyperparameters: learning rate = 0.01, momentum = 0.99
    - avg. cell loss: 1817.7762443485703
 
+![survivor100](https://user-images.githubusercontent.com/103079871/207541461-1d228757-963c-406d-b9dc-6d854102dd39.png)
+
+![superspiky100](https://user-images.githubusercontent.com/103079871/207541558-5c66ae52-661c-4508-b3a1-89261859b1ca.png)
+
+![spiky100](https://user-images.githubusercontent.com/103079871/207541587-4ff85a96-2364-46fb-ae88-00785d2c23b1.png)
+
 3. 30 initial cells with 30 epochs
    - best hyperparameters: learning rate = 0.005, momentum = 0.97
    - avg. cell loss: 1502.6859429765955
+
+![strange30](https://user-images.githubusercontent.com/103079871/207541623-577a6a2c-1de5-4ef9-a7d5-57ce226f0190.png)
+
+![safe30](https://user-images.githubusercontent.com/103079871/207541645-1fcbd00c-3630-4c3a-af2e-c27562c87dc7.png)
+
+![safeagain30](https://user-images.githubusercontent.com/103079871/207541670-39467ad7-e497-419a-9175-a7560754be7f.png)
 
 ### Discussion
 
