@@ -62,23 +62,35 @@ For each simulation, we perform a grid search over the following hyperparameters
 
 For partial observability with partial state prediction, we plot the losses of 3 cells chosen from the grid:
 
-1. 500 initial cells with 30 epochs
+Experiment 1 - 500 initial cells with 30 epochs
    - best hyperparameters: learning rate = 0.01, momentum = 0.99
    - avg. cell loss: 2017.8651169898762
 
+Figure 1.1:
+
 ![wishywashy500](https://user-images.githubusercontent.com/103079871/207540941-f0d02746-e875-4d1a-81dc-b7ba9544afa4.png)
+
+Figure 1.2:
 
 ![maybe500](https://user-images.githubusercontent.com/103079871/207541260-c5bf49c0-5817-478c-8831-35684deddf0c.png)
 
+Figure 1.3:
+
 ![spiky500](https://user-images.githubusercontent.com/103079871/207541316-aab5714f-4c90-4607-909f-8e82342e9d78.png)
 
-2. 100 initial cells with 30 epochs
+Experiment 2 - 100 initial cells with 30 epochs
    - best hyperparameters: learning rate = 0.01, momentum = 0.99
    - avg. cell loss: 1817.7762443485703
 
+Figure 2.1:
+
 ![survivor100](https://user-images.githubusercontent.com/103079871/207541461-1d228757-963c-406d-b9dc-6d854102dd39.png)
 
+Figure 2.2:
+
 ![superspiky100](https://user-images.githubusercontent.com/103079871/207541558-5c66ae52-661c-4508-b3a1-89261859b1ca.png)
+
+Figure 2.3:
 
 ![spiky100](https://user-images.githubusercontent.com/103079871/207541587-4ff85a96-2364-46fb-ae88-00785d2c23b1.png)
 
@@ -86,9 +98,15 @@ For partial observability with partial state prediction, we plot the losses of 3
    - best hyperparameters: learning rate = 0.005, momentum = 0.97
    - avg. cell loss: 1502.6859429765955
 
+Figure 3.1:
+
 ![strange30](https://user-images.githubusercontent.com/103079871/207541623-577a6a2c-1de5-4ef9-a7d5-57ce226f0190.png)
 
+Figure 3.2:
+
 ![safe30](https://user-images.githubusercontent.com/103079871/207541645-1fcbd00c-3630-4c3a-af2e-c27562c87dc7.png)
+
+Figure 3.3:
 
 ![safeagain30](https://user-images.githubusercontent.com/103079871/207541670-39467ad7-e497-419a-9175-a7560754be7f.png)
 
@@ -96,7 +114,7 @@ For partial observability with partial state prediction, we plot the losses of 3
 
 Using a ResNet architecture, we ran into many issues with upsampling the 3x3 input to a 100x100 output prediction over the whole grid. The result was a very high and unpredictable loss which did not converge. We found that Pytorch’s given methods of upsampling for convolutional neural networks are not well suited for large changes in input sizes, and we needed to add over 20 cells of padding to get the desired output size. We felt this was one reason for the high loss, so we switched to a method of predicting only the cell’s neighbors. This meant that the cell’s input and output were both 3x3x9. 
 
-The effect of this is shown in the difference between Figure 1 and Figures 2, 3. In the former, the loss spiked up and never converged. In the latter figures, the loss does spike, but often returns to a low baseline. Although the cause of these results are not exactly certain, we hypothesize the spiking behavior seen in Figures 2 and 3 is due to the cell network learning the position of its neighbors, and then experiencing high loss when neighboring cells move. The movement is partially determined by the output of a network but also partially stochastic noise. This can be difficult for cells to learn and may be one source of spiking losses.
+We found that in the former, the loss spiked up and never converged. In the latter figures from experiments 1-3, the loss does spike, but often returns to a low baseline (seen in figures 1.1-1.3, 2.2, 2.3) and may sometimes converge to a lower value (seen in figures 2.1, 3.1-3.3). Although the cause of these results are not exactly certain, we hypothesize the spiking behavior seen in Figures 2 and 3 is due to the cell network learning the position of its neighbors, and then experiencing high loss when neighboring cells move. The movement is partially determined by the output of a network but also partially stochastic noise. This can be difficult for cells to learn and may be one source of spiking losses.
 
 - Channels through which convolutional networks can send scalar signals to other networks and in a sense communicate
 - Neighbor’s predictions of a cell’s fitness impacting the fitness of the cell in question
