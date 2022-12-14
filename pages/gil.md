@@ -44,7 +44,7 @@ This work was heavily inspired by the paper “Growing Neural Cellular Automata�
 
 ### Results
 
- #### Not Yet Implemented
+ **Not Yet Implemented**
    - Channels through which convolutional networks can send scalar signals to other networks and in a sense communicate
    - Neighbor’s predictions of a cell’s fitness impacting the fitness of the cell in question
    - Random reproduction of highest fitness cells
@@ -52,7 +52,8 @@ This work was heavily inspired by the paper “Growing Neural Cellular Automata�
    - Weight sharing or mixing between cells
 
 
-### Demo
+### Demo and Code
+[Source Code](https://github.com/chaytanc/game-of-intelligent-life/tree/main)
 <iframe src="https://giphy.com/embed/uBRo7nvkLVbWA1Ohc3" width="480" height="383" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/uBRo7nvkLVbWA1Ohc3">demo 1</a></p>
 <iframe src="https://giphy.com/embed/7ezz5x4QCypeJ29c6c" width="480" height="383" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/7ezz5x4QCypeJ29c6c">demo 2</a></p>
 
