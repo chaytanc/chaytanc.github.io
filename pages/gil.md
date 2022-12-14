@@ -15,6 +15,9 @@ permalink: /gil
 {% endfor %}
 
 
+https://user-images.githubusercontent.com/103079871/207569452-f2d9feaf-f182-42e9-9252-6d154c65c680.mp4
+
+
 ### Abstract
 
 Cellular automata captivate researchers due to the emergent, complex individualized behavior that simple global rules of interaction enact. Recent advances in the field have combined cellular automata with convolutional neural networks to achieve self-regenerating images. This new branch of cellular automata is called neural cellular automata [1]. The goal of this project is to use the idea of neural cellular automata to grow prediction machines. We place many different convolutional neural networks in a grid. Each conv net cell outputs a prediction of what the next state will be, and minimizes predictive error. Cells received either their neighbors colors and fitness as input. Each cell’s fitness score described how accurate its predictions were. Cells could also move to explore their environment.  
