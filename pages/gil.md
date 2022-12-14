@@ -41,10 +41,16 @@ This work was heavily inspired by the paper “Growing Neural Cellular Automata�
 10. The fitnesses of each conv net in the grid are updated to reflect the loss received
 
 ### Evaluation
-We tried searching over the following hyperparameters for each of the following tests and plotted the losses for a selection of cells in the grid:
 
-- Learning rate = [0.1, 0.05, 0.01, 0.005, 0.001]
-- Weight decay = 0.001
+The results of this experiment are exploratory; there was no desired outcome, but rather a desire to understand the effects of various design choices on the simulated behavior. To understand the effects, we evaluated the loss of the convolutional neural networks using mean squared error between a cell’s predicted next frame of the game and the actual next frame of the game.
+We test the following two methods of prediction:
+- Each cell has partial observability of the 100x100 grid, and also predicts the partial state of the grid (3x3 input and 3x3 output).
+- Each cell has partial observability of the 100x100 grid, and predicts the full state of the grid (3x3 input and 100x100 output).
+
+We run the following simulations for a different number of initial cells in the range [30, 100, 500]. Each cell has partial observability of the 100x100 grid, and also predicts the partial state of the grid (3x3 input and output).
+
+For each simulation, we perform a grid search over the following hyperparameters:
+- Learning Rate = [0.1, 0.05, 0.01, 0.005, 0.001]
 - Momentum = [0.9, 0.95, 0.97, 0.99]
 
 ### Results
