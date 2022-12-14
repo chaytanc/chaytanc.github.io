@@ -39,7 +39,7 @@ This work was heavily inspired by the paper â€œGrowing Neural Cellular Automataâ
 4. The movements of the cells are computed from the output movement channels. This updates the intermediate cell grid.
 5. If cells overlap, their fitnesses are used to determine which one takes precedence, resolving the intermediate cell grid.
 6. The cell_grid and grid objects are updated based on the resolved intermediate cell grid to get the new frame.
-7. The output predicted colors and fitnesses are compared the actual colors and fitnesses of the new frame.
+7. The output predicted colors and fitnesses are compared to the actual colors and fitnesses of the new frame.
 8. The conv nets are updated using backpropagation.
 9. The colors of each conv net in the grid are updated to reflect the changes in network parameters.
 10. The fitnesses of each conv net in the grid are updated to reflect the loss received.
