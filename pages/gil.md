@@ -15,7 +15,7 @@ permalink: /gil
 {% endfor %}
 
 
-https://user-images.githubusercontent.com/103079871/207569452-f2d9feaf-f182-42e9-9252-6d154c65c680.mp4
+<video src="https://user-images.githubusercontent.com/103079871/207569452-f2d9feaf-f182-42e9-9252-6d154c65c680.mp4"><\video>
 
 
 ### Abstract
