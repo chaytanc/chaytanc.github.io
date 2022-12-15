@@ -5,7 +5,7 @@ title: Development
 permalink: /chid5a  
 ---              
 **Reading Thoughts and Notes**  
-*Zombie Roaches and Other Parasite Tales, Yong*
+*Zombie Roaches and Other Parasite Tales, Ed Yong*
 - Parasites "control" their host, but what is volition to begin with? Our microbiome "hijacks" our volition, but simultaneously we think we volitionally "want" to eat
 - When something devours something else alive, how do we know that this is "something else"
 - "Manipulation is not an oddity"
@@ -38,7 +38,6 @@ In his Ted Talk, Ed Yong explores the biological pillars that parasitism forms. 
 up to 1/3 of people may harbor, subtly influences behavior and disease. Yong also points out that
 in the case of the emerald cockroach wasp, the cockroach no longer wants to resist the directions of the wasp, and
 becomes a docile and cooperative host for the wasps' reproduction.
-
 
 **Compelling Points** 
 - Parasitism of ideas, broad concepts, ideologies, compels us to conform
