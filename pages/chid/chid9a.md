@@ -2,7 +2,7 @@
 nav_exclude: true              
 layout: page              
 title: Development     
-permalink: /chid10a  
+permalink: /chid9a  
 ---              
 **Reading Thoughts and Notes**  
 *Posthuman Humanities: Life Beyond Theory, Rosi Braidotti*
