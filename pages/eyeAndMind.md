@@ -30,7 +30,7 @@ for the Comparative History of Ideas Department at UW.
 | 4 | ["How Do You Make Yourself a Body Without Organs"](/chid4b) from A Thousand Plateaus | Gilles Deleuze and Felix Guattari |
 | 5 | ["Zombie Roaches and Other Parasite Tales"](/chid5a) Ted Talk | Ed Yong |
 | 5 | ["Racial Capitalism: A Fundamental Cause of Novel Coronavirus Pandemic Inequities in the United State"](/chid5b) | Whitney N. Laster Pirtle |
-| 6 | ["Vampyroteuthis Infernalis"](/chid6a) | Vilém Flusser and Louis Bec |
-| 7 | ["Annihilation"](/chid7a) | Jeff Vandermeer |
-| 9 | ["Posthuman Humanities: Life Beyond Theory"](/chid9a) | Rosi Braidotti |
+| 6 | [Vampyroteuthis Infernalis](/chid6a) | Vilém Flusser and Louis Bec |
+| 7 | [Annihilation](/chid7a) | Jeff Vandermeer |
+| 9 | ["Posthuman Humanities: Life Beyond Theory"](/chid9a) from The Posthuman | Rosi Braidotti |
 
