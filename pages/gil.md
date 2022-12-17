@@ -26,9 +26,21 @@ Cellular automata captivate researchers due to the emergent, complex individuali
 
 Overall, we explore the possibility of emergent behaviors in a multi-agent setting with a simple goal of predicting the next state of the game. By giving each cell agency with a convolutional neural network, we were able to explore more complex multi-agent behavior, giving each agent a short term memory in the form of convolutional parameters, and the ability to explore vs exploit their environment through their output movements. The goal was to explore the types of emerging behavior from groups of CNN agents with a selective pressure toward better predictions of the next state.  
 
+### Question
+In an environment where pixel agents are given mechanisms to self-replicate, compete, communicate, and predict, are these channels enough for the emergence of centralized control from distinct agents?
+
 ### Related Work
 
 This work was heavily inspired by the paper “Growing Neural Cellular Automata” [1](#references), as well as by the original Game of Life by John Conway [2](#references). The ResNet architecture was also borrowed and modified from this tutorial [3](#references). Finally, the idea of a fitness value for the cells comes from the field of genetic algorithms.  
+The guiding question and following philosophical implications are deeply connected to the works of Deleuze and Simondon among other philosophers and physicists.  
+
+### Assumptions
+ - Macroscopic wholes can emerge from discretized atomic agents
+ - Intelligent, accurate predictions of the world emerge from resource scarcity, thus a system requiring accurate predictions to grow imposes resource constraints correlated to those which life imposes on cell division and growth.
+ - We can model primordial selves with self replicating simplified agents given arbitrary, nonstationary bounds on themselves in the form of a pixel.
+ - The foundational goal of life is to self replicate, and that self replication does not imply intelligence, but greater intelligence can often improve self replication.
+ - Through coordination of self replicated beings, the self can expand.
+
 
 ### Methodology
 
@@ -149,10 +161,136 @@ Beyond that, we propose the following future implementations:
 <iframe src="https://giphy.com/embed/h1DAaQ4c4RsWDSXPO2" width="480" height="383" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/h1DAaQ4c4RsWDSXPO2">demo 2</a></p>
 <iframe src="https://giphy.com/embed/7ezz5x4QCypeJ29c6c" width="480" height="383" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/7ezz5x4QCypeJ29c6c">old buggy (but cool!) demo</a></p>
 
+### Philosophical Implications, by Chaytan
+First, the code is lacking several key features I originally intended for it:  
+ - The fitness of the cell is not determined by neighboring cell predictions
+ - Cells cannot currently reproduce themselves
+ - Due to computational infeasibility, cells are not given the network of their neighbors
+However, although the final result is not yet a useful model of multi-agent interaction and the emergence and shaping 
+borders of self that I imagined it might become, design choices and observations of the process of creating agency 
+clarify several implications of the inspiring text, Simondon’s framework of individuation.  
+ 1. Atomic cells, without a provided mechanism for reproduction, do not show the capacity for recapitulating similarities in their local environment
+ 2. Without communication, cells do not interact or form group dynamics, nor can they assemble larger selves through autopoiesis
+ 3. Without the ability to change their own internals, cells are trapped within algebraically deterministic environment as opposed to the rich, differential equations in which we live
+Both 1) and 2) seem self-evident, and would not require a simulation to discover. Yet their implications are profound, and certainly worth internalizing.  
+1)  
+The process of individuation that we recognize does not exist without considering a means of reproduction. 
+Corroborating this observation is Gilles Deleuze’s Desert Islands [\[5\]](#references): 
+“The animal whose mode of reproduction remains unknown to us has not yet taken its place.” Thus, with respect to the original question, 
+regarding the emergence of centralized control, although the conditions for which it arises are yet unknown, we know one precondition is reproduction; self-replication.  
+2)  
+Although this too seems quite a tautology, perhaps we should meditate on the implications more because Simondon and Deleuze’s 
+concept of the preindividual and the plane of immanence respectively seem at odds with the statement. The statement posits that 
+communication requires boundaries and spaces in between. Our selves make themselves of smaller biological cells which are themselves 
+individuating selves. The whole self is then forms of communication between them. Our milieu, itself thus having boundaries and smaller 
+selves, is not “zero intensity” as described by Deleuze’s plane of immanence. Our individuation comes from colluding smaller individuations. 
+And before those, perhaps too there were more reproductions of individuation. The concept of the preindividual is perhaps fallacious. Or can 
+we really become from a pure gradient? Must we assume a fundamental individual or can individuals form from smooth fields of energy? I 
+suggest that resolving this dispute merits delving into the phenomenological philosophy of physics.  
+
+We currently use roughly three contradictory frameworks to describe objects in space which we apply according to the scale of the object
+relative to ourselves. In brief, general relativity (GR) for big, Newtonian for “can wrap-your-head-around-it”, and quantum 
+for unimaginably small sizes. The struggle is between quantum and relativistic scales, whereas Newtonian we can consider a 
+dumbed down subset of general relativity’s equations. One problem is this: GR says mass bends spacetime; quantum says 
+particles have mass; quantum also says particles exist in superpositions of multiple places at once; GR does not concede 
+that all those places are bending spacetime at once, in fact it’s really confused by the whole idea of multiplicities. So 
+what does this mean for our friends Simondon and Deleuze? It means that a rigorous dive into the processes of describing 
+the mechanics of individuated objects is at odds with our best explanations for their individuations, which arise from 
+quantum field theory (QFT) [\[9\]](#references). It means that Simondon and Deleuze, whose ideas of milieus and planes of immanence neatly 
+correspond to QFT, would fail to describe the actual motion and movement of larger scales of objects, which we observe 
+as warping spacetime *at a single point*, not at a superposition of states.  
+
+Quantum field theory frames particles as disturbances of underlying fields, much in the spirit of Deleuze’s plane of 
+immanence or Simondon’s milieu. But this framework does not apply in physics to the scales at which Simondon and Deleuze 
+apply their ideas. The idea of probabilistic embodiments of many forms at once has not been reconciled with ideas of 
+general relativity. So the presumption that we individuate from the individuated, rather than a soupy milieu akin to 
+fields in quantum field theory is perhaps the more founded assumption. But really, if physics’ sojourn into the 
+philosophical and pragmatic explanations of individuation teaches us anything, it is perhaps that our explanations of 
+particle based quantum superpositions versus those presupposing individuated matter such as general relativity However, 
+I would be remiss if I did not point out that particles are frequently ‘made’ or individuated by scientists at particle 
+accelerators like CERN by hypothetically exciting the underlying fields enough for particles like the Higgs Boson to emerge. 
+So +10 points Simondon. But describing how the gravity of such particles causes them to behave? -10 points Simondon.  
+
+To do Simondon and Deleuze a little more justice, their theories do not perfectly map to quantum field theory. Quantum 
+field theory relies on discretely quantized excitations of underlying fields to account for the emergence of particles 
+rather than the Deleuzian picture of arbitrary energetic-value excitations of a plane of immanence resulting in emergence. 
+Could such an equivalent be found in physics? It would not go far in explaining the discretized packets of energy and mass 
+we observe in ‘fundamental’ particles like electrons and photons, so may not be of much use to quantum mechanics, though 
+it may be of more use to GR which likes to describe energy in such arbitrary quantities. Nevertheless, although I have 
+not been shy of writing about phenomena I do not fully understand thus far, I will have to refrain from trying to further 
+answer that question in order to cling to remaining shreds of correctness.  
+
+So do we need a conciliatory philosophy or physics? Well, as for the physics front, we have a few options. But Simondon 
+may have a few words to exchange with these physicists. One option is to limit the granularity of spacetime. Beyond the 
+a certain granularity, gravity no longer applies. This view is touted by physicist Craig Hogan [\[6\]](#references). The most prominent theory, string 
+theory, ideates that matter is formed from finitely small loops [\[6\]](#references). A similar trend in unification theories is the presupposition 
+of the substances of individuated (quantized) matter, be it indivisible boundaries of finiteness or finitely small strings, 
+and guess who has something to say about that?  
+
+“The world and the living being are already contained in the tropistic unity... as a polarity of a gradient that locates 
+the individuated being in an indefinite dyad at whose median point it can be found, and upon which it bases its further exfoliation. 
+Perception, and later Science itself, continue to resolve this problematic, not only with the invention of spatiotemporal 
+frameworks but also with the constitution of the notion of an object, which then becomes the ‘source’ of the original 
+gradients and organizes them among themselves as if they were an actual world.” Harsh words from the philosopher [\[4\]](#references).  
+
+In trying to avoid using individuations as the ‘source of the original gradients’, Simondon uses a relativistic 
+approach of explaining what is, yet rather ended up with a quantum field theory-esque probabilistic explanation which 
+cannot apply on scales beyond the unobservable because life as we most often observe it is deterministic. So tough luck 
+for physics and philosophy, because our best explanations are at odds, and so are their reconciliations. (Well, string 
+theory is consistent, but predictions like supersymmetric particles have yet to be observed [\[8\]](#references)). Moreover, if these 
+reconciliations via presumed finitudes are not a satisfactory response to the mysterious machinations of the universe, 
+you may, treacherously, have to divert the question to branches of metaphysics. Yikes.  
+
+Brief interlude on the two body problem in GR: no closed form solutions are known to exist for Einstein’s GR equations
+when there are two bodies of mass in the system [\[7\]](#references). That is because (in my humble, non-physicist opinion) the question 
+doesn’t exist. GR is predicated on the whole of spacetime describing the motion of other areas within it. There aren’t 
+even two bodies in the equation, there is only the whole system. Drawing arbitrary lines around things within the system 
+and calling them objects breaks the assumptions which define the equations, namely that all of spacetime curves and bends 
+according to distributions of mass which are themselves distributed by the curvature of spacetime. You can solve for the 
+effect of one point of mass because you can treat that one ‘object’ as being the whole of spacetime. When you introduce 
+an ‘other object’ then you can no longer address the whole system at once, for what would you define as other after the 
+first object has been accounted for? Perhaps our tendency of arbitrarily drawing lines around things and labeling them 
+as objects has met fundamental limitations.  
+
+So what is left of our journey into the physical descriptions of emerging individuation? What does my little cellular
+model of individuation have anything to do with all this anyway? There is more to be discussed in the implications of 
+the philosophical and physical formulations of time, but that is for another project. For now, we have a relativistic 
+perspective, which observes the continuity of our macroscopic world and presumes some fundamental matter that can 
+continuously interact and exchange energy and mass. What this might be or how it comes about is yet inexplicable. 
+And we have strong predictions of individuated matter that come from continuous background fields of energy, but that 
+cannot explain the deterministic and macroscopic behavior of matter when these individuations form larger wholes. And 
+we have Simondon and Deleuze, whose ideas, unpresupposing of the individual, tend more towards the latter formulation, 
+and we have my own little simulation, presupposing some form of individuated atomic that can form larger wholes, tending 
+towards Einstein’s camp, since the more useful arena in which I would like to apply the ideas are individuation is that 
+of the macroscopic world.  
+
+As we can see, the seemingly tautological observation naturally emerging from a simple attempt to model individuation 
+is actually founded on deeply contested centuries of observation, modeling, theorizing, and debating far from settled 
+in either philosophical or phenomenological physical realms.  
+
+3)  
+This last observation is true by the structure of differential equations, which are the foundations of the equations 
+describing our universe, regardless of whether you choose the relativistic or quantum equations to do so, as well as 
+being the equations which underpin descriptions of biological interactions of cells and proteins. Through and through, 
+models of the world must be able to take actions which in turn affect that which took the action. The process of making 
+this simulation has revealed the foundational opposition which computing takes to this kind of process. Bits are to be 
+flipped by something else, and the process of flipping them is not to further interact and reverberate within the system. 
+It must start and stop without further effects upon itself. Programs are to be run without the results of their 
+computations ever changing the structures that produced the computation. Yet, as is clear by the deficits of the model 
+produced as well as mathematical descriptions of the universe, these simplified models do not describe individuation.  
+
+And now I am far out of my depth, but nevertheless I am a big proponent of talking out of your ass in a genuine attempt 
+to understand and continue a dialogue as mistakes are uncovered through shoddy discourse. So there it is – a theoretical, 
+philosophical, and practical examination into ideas of the process of individuation.  
+
 ### References
 
-[\[1\] Growing Neural Cellular Automata](https://distill.pub/2020/growing-ca/)  
-[\[2\] Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)  
-[\[3\] ResNet From Scratch in Pytorch](https://blog.paperspace.com/writing-resnet-from-scratch-in-pytorch/)  
-
-
+[\[1\] Growing Neural Cellular Automata](https://distill.pub/2020/growing-ca/) Mordvintsev, Alexander, et al. “Growing Neural Cellular Automata.” Distill, 27 Aug. 2020, https://distill.pub/2020/growing-ca/.  
+[\[2\] Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) “Conway's Game of Life.” Wikipedia, Wikimedia Foundation, 15 Dec. 2022, https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life.   
+[\[3\] ResNet From Scratch in Pytorch](https://blog.paperspace.com/writing-resnet-from-scratch-in-pytorch/)   
+[\[4\] Genesis of the Individual](https://www.scribd.com/document/228161394/Gilbert-Simondon-Genesis-of-the-Individual.) Simondon, Gilbert. “Gilbert Simondon - Genesis of the Individual.” Scribd, Scribd, https://www.scribd.com/document/228161394/Gilbert-Simondon-Genesis-of-the-Individual.  
+\[5\] Desert Islands Deleuze, Gilles, et al. Desert Islands: And Other Texts 1953-1974. Semiotext(e), 2004.  
+[\[6\] Relativity v Quantum Mechanics](https://www.theguardian.com/news/2015/nov/04/relativity-quantum-mechanics-universe-physicists) Powell, Corey S. “Relativity v Quantum Mechanics – the Battle for the Universe.” The Guardian, 4 Nov. 2015, https://www.theguardian.com/news/2015/nov/04/relativity-quantum-mechanics-universe-physicists.  
+[\[7\] General Relativity Two Body Problem](https://en.wikipedia.org/wiki/Two-body_problem_in_general_relativity) “Two-Body Problem in General Relativity.” Wikipedia, Wikimedia Foundation, 29 Oct. 2022, https://en.wikipedia.org/wiki/Two-body_problem_in_general_relativity.  
+[\[8\] String Theory](https://www.forbes.com/sites/startswithabang/2020/02/26/why-string-theory-is-both-a-dream-and-a-nightmare/?sh=38683fba3b1d) Siegel, Ethan. “Why String Theory Is Both a Dream and a Nightmare.” Forbes, Forbes Magazine, 26 Feb. 2020, https://www.forbes.com/sites/startswithabang/2020/02/26/why-string-theory-is-both-a-dream-and-a-nightmare/?sh=38683fba3b1d.  
+[\[9\] General Relativity](https://en.wikipedia.org/wiki/General_relativity) “General Relativity.” Wikipedia, Wikimedia Foundation, 14 Dec. 2022, https://en.wikipedia.org/wiki/General_relativity.  
