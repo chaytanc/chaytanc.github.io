@@ -161,17 +161,21 @@ Beyond that, we propose the following future implementations:
 <iframe src="https://giphy.com/embed/h1DAaQ4c4RsWDSXPO2" width="480" height="383" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/h1DAaQ4c4RsWDSXPO2">demo 2</a></p>
 <iframe src="https://giphy.com/embed/7ezz5x4QCypeJ29c6c" width="480" height="383" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/7ezz5x4QCypeJ29c6c">old buggy (but cool!) demo</a></p>
 
-### Philosophical Implications, by Chaytan
-First, the code is lacking several key features I originally intended for it:  
+### Philosophical Implications
+*by Chaytan*  
+
+First, the code is lacking several key features I originally intended:  
  - The fitness of the cell is not determined by neighboring cell predictions
  - Cells cannot currently reproduce themselves
- - Due to computational infeasibility, cells are not given the network of their neighbors
+ - Due to computational infeasibility, cells are not given the network of their neighbors  
+
 However, although the final result is not yet a useful model of multi-agent interaction and the emergence and shaping 
 borders of self that I imagined it might become, design choices and observations of the process of creating agency 
-clarify several implications of the inspiring text, Simondon’s framework of individuation.  
+clarify several implications of the inspiring text, Simondon’s Genesis of the Individual.  
  1. Atomic cells, without a provided mechanism for reproduction, do not show the capacity for recapitulating similarities in their local environment
  2. Without communication, cells do not interact or form group dynamics, nor can they assemble larger selves through autopoiesis
- 3. Without the ability to change their own internals, cells are trapped within algebraically deterministic environment as opposed to the rich, differential equations in which we live
+ 3. Without the ability to change their own internals, cells are trapped within algebraically deterministic environment as opposed to the rich, differential equations in which we live  
+
 Both 1) and 2) seem self-evident, and would not require a simulation to discover. Yet their implications are profound, and certainly worth internalizing.  
 1)  
 The process of individuation that we recognize does not exist without considering a means of reproduction. 
@@ -196,7 +200,7 @@ particles have mass; quantum also says particles exist in superpositions of mult
 that all those places are bending spacetime at once, in fact it’s really confused by the whole idea of multiplicities. So 
 what does this mean for our friends Simondon and Deleuze? It means that a rigorous dive into the processes of describing 
 the mechanics of individuated objects is at odds with our best explanations for their individuations, which arise from 
-quantum field theory (QFT) [\[9\]](#references). It means that Simondon and Deleuze, whose ideas of milieus and planes of immanence neatly 
+quantum field theory (QFT) [\[9\]](#references). It means that Simondon and Deleuze, whose ideas of milieux and planes of immanence neatly 
 correspond to QFT, would fail to describe the actual motion and movement of larger scales of objects, which we observe 
 as warping spacetime *at a single point*, not at a superposition of states.  
 
@@ -208,7 +212,7 @@ fields in quantum field theory is perhaps the more founded assumption. But reall
 philosophical and pragmatic explanations of individuation teaches us anything, it is perhaps that our explanations of 
 particle based quantum superpositions versus those presupposing individuated matter such as general relativity However, 
 I would be remiss if I did not point out that particles are frequently ‘made’ or individuated by scientists at particle 
-accelerators like CERN by hypothetically exciting the underlying fields enough for particles like the Higgs Boson to emerge. 
+accelerators like CERN by hypothetically exciting the underlying fields enough for particles like the Higgs boson to emerge. 
 So +10 points Simondon. But describing how the gravity of such particles causes them to behave? -10 points Simondon.  
 
 To do Simondon and Deleuze a little more justice, their theories do not perfectly map to quantum field theory. Quantum 
