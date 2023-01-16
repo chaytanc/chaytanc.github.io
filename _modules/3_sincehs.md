@@ -129,6 +129,22 @@ Fall 2022
   : Annihilation
     : Jeff Vandermeer
 
+Winter 2022
+  : The Great Warming
+    : Brian Fagan
+
+Winter 2022
+  : Dawn
+    : Octavia Butler
+
+Winter 2022
+  : The Deep
+    : Rivers Solomon
+
+Winter 2022
+  : The History of Sexuality
+    : Michel Foucault
+
 
 [comment]: <> (Oct 8)
 
