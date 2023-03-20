@@ -30,9 +30,9 @@ Fall 2020
   : Why We Sleep
     : Matthew Walker
 
-** Freshman year happened and I \n didn't read for a while **
-: sad
-  : sad
+** Freshman year I didn't read for a while **
+: :(
+  : :( 
 
 Summer 2021
   : Talking with Strangers
@@ -155,7 +155,7 @@ Winter 2022
 
 Winter 2022
   : Éloge de la créolité
-    : Jean Bernabé, Raphael Confiant, Patrick Chamoiseau
+    : Jean Bernabé, Raphaël Confiant, Patrick Chamoiseau
 
 Winter 2022
   : Moi, Tituba, Sorcière Noire de Salem
