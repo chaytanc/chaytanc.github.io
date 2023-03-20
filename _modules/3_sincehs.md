@@ -30,7 +30,7 @@ Fall 2020
   : Why We Sleep
     : Matthew Walker
 
-** Freshman year happened and I didn't read for a while **
+** Freshman year happened and I \n didn't read for a while **
 : sad
   : sad
 
@@ -160,6 +160,10 @@ Winter 2022
 Winter 2022
   : Moi, Tituba, Sorcière Noire de Salem
     : Maryse Condé
+
+Winter 2022
+  : A Supposedly Fun Thing I'll Never Do Again
+    : David Foster Wallace
 
 
 [comment]: <> (Oct 8)
