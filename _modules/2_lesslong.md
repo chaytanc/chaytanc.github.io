@@ -82,7 +82,7 @@ Winter 2020
     : Juan Luis Borges
 
 Spring 2020
-  : Braided Sweetgrass
+  : Braiding Sweetgrass
     : Robin Wall Kimmerer
 
 Spring 2020

@@ -145,6 +145,22 @@ Winter 2022
   : The History of Sexuality
     : Michel Foucault
 
+Winter 2022
+  : Malcolm: The Life of a Man Who Changed Black America
+    : Bruce Perry
+
+Winter 2022
+  : Discours sur le colonialisme
+    : Aimé Césaire
+
+Winter 2022
+  : Éloge de la créolité
+    : Jean Bernabé, Raphael Confiant, Patrick Chamoiseau
+
+Winter 2022
+  : Moi, Tituba, Sorcière Noire de Salem
+    : Maryse Condé
+
 
 [comment]: <> (Oct 8)
 
