@@ -30,7 +30,7 @@ Fall 2020
   : Why We Sleep
     : Matthew Walker
 
-** Freshman year I didn't read for a while **
+**Freshman year I didn't read for a while**
 : :(
   : :( 
 
