@@ -77,6 +77,10 @@ Winter 2022
   : A Thousand Brains\: A New Theory of Intelligence
     : Jeff Hawkins
 
+Winter 2022
+  : Monsieur Ibrahim et les fleurs du Coran
+    : Éric-Emmanuel Schmitt
+
 Spring 2022
   : Atlas of AI
     : Kate Crawford
