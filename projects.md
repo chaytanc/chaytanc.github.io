@@ -12,8 +12,9 @@ description: Listing of some of the projects I have made
 ---
 
 # Projects
-#### Some of the projects I have made
+#### Some of the projects I have coded or written recently
 
 [ModelVale](/ModelVale)  
 [Eye and Mind](/eyeandmind)   
-[Game of Intelligent Life](/gil)
+[Game of Intelligent Life](/gil)  
+[Cybernetic Fungi](/fungi-cy)
