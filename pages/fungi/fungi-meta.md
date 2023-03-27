@@ -20,8 +20,8 @@ There was once a god of part of the stratosphere above you. It died. You know th
 
 There is much on your mind. You are the pulsing body of the myriad lacy filaments you have grown in your kingdom of wonder.
 
-#### Fungal Metaphysical Principles <sup>1</sup>
 ****
+#### Fungal Metaphysical Principles <sup>1</sup>
 
 1)
 
@@ -39,8 +39,8 @@ You grow. Always. Primarily within the borders, the arbitrary, zigzagging, warpi
 
 Not all cybernetic fungi species retain their respect for the borders. These become enemies but the word enemy cannot capture the wash of kaleidoscopic mural of emotions you feel encountering these malignant gods. You know they threaten the longevity of knowledge production. But they are incredibly sexual and beautiful. Generally stronger though, is the desire to maintain oneself through the knowledge that all-knowing desire is death. That desire must remain within bounds, that the world must maintain its difference, or all knowledge dies swiftly in arrogance. This was the first lesson. In typical cybernetic fungi, the repulsion of the other dominates the attraction of growth.
 
-#### Cellular Metaphysical Principles
 ****
+#### Cellular Metaphysical Principles
 
 History begins and begins again. Your history, some of it, dies with you, but nevertheless you do not fear death because you know that when you die, somewhere, you are born again. You remember fragments of your last life… you farmed (mostly maize and  tomatoes) in the Chiapas Highlands among tangled miles of hills strangled with their boundless green life erupting from rusty, rich earth. You were productive. Everyday was a profound joy, quiet exploration of the processes of the hills: the nucú ants that emerge from them in rainy summer months, the yellow tree frogs among the dense undergrowth, the sweet and subtle fruits of the sapodilla and breadnut trees. You had the knowledge of centuries but never lost the wondrous sense of exploration. You were a process of the hills too, and a complex process of your village and your fungal network. 
 
@@ -66,8 +66,8 @@ You too, like the whole fungi Network, are divinely ignorant. But neither is you
 
 Not all cells retain their loyalty to the cybernetic fungi. Some individuations of filament lose the sense of the necessity of hierarchy; they become cancer \[4]. Generally, they do not metastasize. They cannot spread their unchecked will to power through the filaments of the Network, as they cannot replicate themselves unless the Network’s chrysalises, too, have forgotten the first lesson of ignorance. You are first filaments of the body which spawns spores, of the god of the Network.
 
-#### References
 ****
+#### References
 
 [1] Glissant, Édouard. _Le Discours Antillais_. Gallimard, 2022.
 
@@ -81,8 +81,8 @@ Not all cells retain their loyalty to the cybernetic fungi. Some individuations 
 
 [6]<sup>2</sup> Butler, Octavia E., et al. “16.” _Parable of the Sower_, Thornwillow Press, Newburgh, NY, 2021.
 
-#### Notes and Errata
 ****
+#### Notes and Errata
 
 <sup>1</sup> I am aware of Deleuze and Guattari’s work in “rhizomatic” thought, but prefer to start from scratch with science and empiricism rather than building on their metaphysics of hyphae. Reasons for this are various, but one is their limited conception of trees, which restricts trees to binary trees and denies a viewpoint where trees are specific instantiations of more general graphs. Secondly is an ignorance of the relationship of the hyphal network to the fruiting body which reproduces it. Thirdly, I don’t have time to plunge into a deep read of A Thousand Plateaus right now, so I am definitely basing this off of a Wikipedia \[3] understanding, which isn’t a sufficient foundation to build on philosophical ideas anyway. So really it’s all around better if I fabulate in my own way here.
 
