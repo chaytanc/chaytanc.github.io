@@ -14,8 +14,6 @@ permalink: /fungi-meta
 
 02/23/23
 
-Chaytan Inman
-
 You are a living, glowing shard of the creator’s knowledge, bound on the west by vast kingdoms of the pacific gods, calm and powerful, though some of this undulating water, its depths and breathing surface, the clouds and winds of its exhalation, these are within your realm too. Bound on the east by turbulent, swift and adaptable caribbean and atlantic gods. In the south, is just one neighbor, with a kingdom in oceans of both sides and the valleys and forests between and stretching far below. You and the southern god are most similar, and gratefully, you violently repulse each other. Your southern border rarely swirls. But then that leaves the north. The north is alluring, shining, powerfully intoxicating, like a still-drunk morning which nauseates you with every tugging temptation. The north whispers furtively, mystic poems and sirens’ calls. As you decipher its language, it tells you it is dry, dry and parched for years. You hardly comprehend. Dry like emaciated mesas, dry like dust storms, dry like general relativity. The northern god seems to feel no repulsion, nausea, or sickness every time the borders leak and shift subtly, decimating history of your cells but orgasmically adapting new sensations. 
 
 There was once a god of part of the stratosphere above you. It died. You know that the god to the north has cultivated part of what it calls ‘lower earth orbit’, grotesquely linked to distant realms who seek the same domain.
