@@ -177,6 +177,10 @@ Spring 2023
   : La fin de Lucie Pellegrin
     : Paul Alexis
 
+Spring 2023
+  : Dawkins vs. Gould: Survival of the Fittest
+    : Kim Sterelny
+
 
 [comment]: <> (Oct 8)
 
