@@ -21,6 +21,18 @@ A long long time ago
 : Copper Sun
    : Sharon M. Draper
 
+A long long time ago
+: The Fault in Our Stars
+  : John Green
+
+A long long time ago
+: Paper Towns
+  : John Green
+
+Early Early High School
+: Tarzan of the Apes
+  : Edgar Rice Burroughs
+
 Early Early High School
 : Of Mice and Men
   : John Steinbeck
@@ -52,6 +64,14 @@ Early Early High School
 Early Early High School
   : The Perks of Being a Wallflower
     : Stephen Chbosky
+
+Early Early High School
+  : Romeo and Juliet
+    : William Shakespeare
+
+Early Early High School
+  : Persepolis
+    : Marjane Satrapi
 
 Early Early High School
   : A Tale of Two Cities

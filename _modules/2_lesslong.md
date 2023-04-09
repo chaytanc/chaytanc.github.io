@@ -10,7 +10,7 @@ Summer 2018
 
 Fall 2018
   : Hamlet
-    : Shakespeare
+    : William Shakespeare
 
 Fall 2018
   : The Turn of the Screw

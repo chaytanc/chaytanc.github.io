@@ -137,37 +137,45 @@ Winter 2022
   : The Great Warming
     : Brian Fagan
 
-Winter 2022
+Winter 2023
   : Dawn
     : Octavia Butler
 
-Winter 2022
+Winter 2023
   : The Deep
     : Rivers Solomon
 
-Winter 2022
+Winter 2023
   : The History of Sexuality
     : Michel Foucault
 
-Winter 2022
+Winter 2023
   : Malcolm: The Life of a Man Who Changed Black America
     : Bruce Perry
 
-Winter 2022
+Winter 2023
   : Discours sur le colonialisme
     : Aimé Césaire
 
-Winter 2022
+Winter 2023
   : Éloge de la créolité
     : Jean Bernabé, Raphaël Confiant, Patrick Chamoiseau
 
-Winter 2022
+Winter 2023
   : Moi, Tituba, Sorcière Noire de Salem
     : Maryse Condé
 
-Winter 2022
+Winter 2023
   : A Supposedly Fun Thing I'll Never Do Again
     : David Foster Wallace
+
+Spring 2023
+  : La fille aux yeux d'or
+    : Honoré de Balzac
+
+Spring 2023
+  : La fin de Lucie Pellegrin
+    : Paul Alexis
 
 
 [comment]: <> (Oct 8)
