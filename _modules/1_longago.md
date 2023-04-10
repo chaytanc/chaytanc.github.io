@@ -18,6 +18,14 @@ A long long time ago
   : Harper Lee 
 
 A long long time ago
+: The Outsiders
+  : S. E. Hinton
+
+A long long time ago
+: The True Confessions of Charlotte Doyle
+  : Avi 
+
+A long long time ago
 : Copper Sun
    : Sharon M. Draper
 

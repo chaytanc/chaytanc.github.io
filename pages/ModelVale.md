@@ -14,9 +14,9 @@ permalink: /ModelVale
 {{ staffer }}
 {% endfor %}
 
-ModelVale is an app I designed, really as an excuse to tangentially work on machine learning
+[ModelVale](https://apps.apple.com/us/app/modelvale/id6443628022) is an app I designed, really as an excuse to tangentially work on machine learning
 instead of app development while I was getting paid by Meta for the latter. The result is
-something I am proud of.  
+something I am proud of.
 
 ModelVale is a unique game where machine learning comes to life. As you develop machine learning models, upload them to ModelVale! Each Model has a custom avatar and health. 
 Train your Model and test on new data to earn more XP while developing robust neural networks! 
