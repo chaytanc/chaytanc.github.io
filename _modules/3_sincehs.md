@@ -162,7 +162,7 @@ Winter 2023
     : Jean Bernabé, Raphaël Confiant, Patrick Chamoiseau
 
 Winter 2023
-  : Moi, Tituba, Sorcière Noire de Salem
+  : Moi, Tituba, sorcière noire de Salem
     : Maryse Condé
 
 Winter 2023
@@ -180,6 +180,56 @@ Spring 2023
 Spring 2023
   : Dawkins vs. Gould: Survival of the Fittest
     : Kim Sterelny
+
+Spring 2023
+  : The Cold War: A Very Short Introduction
+    : Robert J. McMahon
+
+Spring 2023
+  : La femme de Paul
+    : Guy de Maupassant
+
+Spring 2023
+: Claudine en ménage
+: Colette
+
+Spring 2023
+  : 'Le mystérieux correspondant' et 'Souvenir d'un capitaine'
+    : Marcel Proust
+
+Spring 2023
+  : L'immoraliste
+    : André Gide
+
+Spring 2023
+  : Sphinx
+    : Anne Garréta
+
+Spring 2023
+  : En finir avec Eddy Belleguele
+    : Édouard Louis
+
+Spring 2023
+  : La petite dernière
+    : Fatima Daas
+
+Spring 2023
+  : Deep Work
+    : Cal Newport
+
+Spring 2023
+  : Klara and the Sun
+    : Kazuo Ishiguro
+
+Summer 2023
+  : Global Interdependence, Into the Anthropocene: People and their Planet
+    : J.R. McNeill and Peter Engelke
+
+Summer 2023
+  : Global Interdependence, Global Cultures
+    : Petra Goedde
+
+
 
 
 [comment]: <> (Oct 8)
