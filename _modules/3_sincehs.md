@@ -190,8 +190,8 @@ Spring 2023
     : Guy de Maupassant
 
 Spring 2023
-: Claudine en ménage
-: Colette
+  : Claudine en ménage
+   : Colette
 
 Spring 2023
   : 'Le mystérieux correspondant' et 'Souvenir d'un capitaine'
@@ -214,6 +214,10 @@ Spring 2023
     : Fatima Daas
 
 Spring 2023
+  : Mostly Hypothetical Mountains
+    : J. M. Tillman
+
+Summer 2023
   : Deep Work
     : Cal Newport
 
@@ -228,6 +232,7 @@ Summer 2023
 Summer 2023
   : Global Interdependence, Global Cultures
     : Petra Goedde
+
 
 
 
