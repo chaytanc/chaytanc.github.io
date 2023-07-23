@@ -4,7 +4,8 @@ layout: page
 title: On an LLM Revolution
 permalink: /llmrevolution      
 ---      
-**On an LLM Revolution**  
+**On an LLM Revolution**   
+  
 With the rise of AI and automated cognition, we’re facing a new technological revolution.  
   
 Rapid technological change has the potential to radically shift existing power structures. The outcome of this radical potential is dependent on institutions and existing power structures around the technology. This is apparent again and again throughout history. The book “Why Nations Fail” by Daron Acemoglu and James Robinson showed how the poor became rich through a steam power revolution. When the Industrial Revolution came to Britain, it rapidly overthrew the existing class structures. These technologies were not nationalized under the aristocracy or controlled by a small elite. They were new. And so Britain urbanized, concentrated populations in cities, and industrialized by building railways and steamships, and a new class of wealth emerged from merchants, traders, and industrialists. For countries where the technology could be adopted by many, where the technology became an armament of the people rather than the elite, the aristocracy, or the dictatorship, in these nations technology served to empower the people and their broad goals. Power structures shifted tremendously. In the end, this shift of wealth enabled the political enfranchisement of more of the British nation. The first Reform Act of 1832 generally increased enfranchisement of the working class, affording most property owners voting rights. The Chartist movement increasingly enfranchised non-property owning masses from 1832 until the 20th century. By 1918 women began to gain voting rights. 
