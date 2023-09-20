@@ -191,7 +191,7 @@ Spring 2023
 
 Spring 2023
   : Claudine en ménage
-   : Colette
+    : Colette
 
 Spring 2023
   : 'Le mystérieux correspondant' et 'Souvenir d'un capitaine'
@@ -221,7 +221,7 @@ Summer 2023
   : Deep Work
     : Cal Newport
 
-Spring 2023
+Summer 2023
   : Klara and the Sun
     : Kazuo Ishiguro
 
@@ -233,7 +233,25 @@ Summer 2023
   : Global Interdependence, Global Cultures
     : Petra Goedde
 
+Summer 2023
+  : Models of the Mind
+    : Grace Lindsay
 
+Summer 2023
+  : Harry Potter et le prince de sang-mêlé
+    : J. K. Rowling
+
+Summer 2023
+  : Why Nations Fail
+    : Daron Acemoglu & James A. Robinson
+
+Fall 2023
+  : The World For Sale
+    : Javier Blas & Jack Farchy
+
+Fall 2023
+  : Harry Potter et les reliques de la mort
+    : J. K. Rowling
 
 
 
