@@ -194,6 +194,10 @@ Spring 2023
     : Colette
 
 Spring 2023
+  : Le livre blanc
+    : Jean Cocteau
+
+Spring 2023
   : 'Le mystérieux correspondant' et 'Souvenir d'un capitaine'
     : Marcel Proust
 
