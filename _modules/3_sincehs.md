@@ -257,6 +257,14 @@ Fall 2023
   : Harry Potter et les reliques de la mort
     : J. K. Rowling
 
+Fall 2023
+  : Good Citizens Need Not Fear
+    : Maria Reva
+
+Fall 2023
+  : The Age of Surveillance Capitalism
+    : Shoshana Zuboff
+
 
 
 [comment]: <> (Oct 8)

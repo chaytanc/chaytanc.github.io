@@ -14,3 +14,4 @@ description: A few thoughts I wrote down here.
 [Feuilles](/feuilles)  
 [LLM Revolution](/llmrevolution)
 [War and Welfare](/warandwelfare)
+[Écureuil](/ecureuil)
