@@ -265,6 +265,13 @@ Fall 2023
   : The Age of Surveillance Capitalism
     : Shoshana Zuboff
 
+Winter 2024
+	: The End of the World is Just the Beginning
+		: Peter Zeihan
+
+Winter 2024
+	: Boule de suif
+		: Guy de Maupassant
 
 
 [comment]: <> (Oct 8)
