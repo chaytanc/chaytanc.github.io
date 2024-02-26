@@ -272,10 +272,22 @@ Winter 2024
 Winter 2024
 	: Boule de suif
 		: Guy de Maupassant
+
 Winter 2024
 	: This is How They Tell Me the World Ends
 		: Nicole Perlroth
 
+Winter 2024
+	: Qu'est-ce qu'une nation?
+		: Ernest Renan
+
+Winter 2024
+	: The Future is Rural
+		: Jason Bradford
+
+Winter 2024
+	: Less is More
+		: Jason Hickel
 
 [comment]: <> (Oct 8)
 
