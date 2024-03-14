@@ -266,28 +266,32 @@ Fall 2023
     : Shoshana Zuboff
 
 Winter 2024
-	: The End of the World is Just the Beginning
-		: Peter Zeihan
+  : The End of the World is Just the Beginning
+     : Peter Zeihan
 
 Winter 2024
-	: Boule de suif
-		: Guy de Maupassant
+  : Boule de suif
+	: Guy de Maupassant
 
 Winter 2024
-	: This is How They Tell Me the World Ends
-		: Nicole Perlroth
+  : This is How They Tell Me the World Ends
+	: Nicole Perlroth
 
 Winter 2024
-	: Qu'est-ce qu'une nation?
-		: Ernest Renan
+  : Qu'est-ce qu'une nation?
+	: Ernest Renan
 
 Winter 2024
-	: The Future is Rural
-		: Jason Bradford
+  : The Future is Rural
+	: Jason Bradford
 
 Winter 2024
-	: Less is More
-		: Jason Hickel
+  : Less is More
+	: Jason Hickel
+
+Winter 2024
+  : Mindfuck: Cambridge Analytica's Plot to Break America
+	: Christopher Wylie
 
 [comment]: <> (Oct 8)
 
