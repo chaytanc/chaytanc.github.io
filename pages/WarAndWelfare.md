@@ -1,12 +1,12 @@
 ---      
 nav_exclude: true      
 layout: page      
-title: War and Welfare: Economics of American Prosperity during WWII
-permalink: /warandwelfare      
----      
+title: War and Welfare: Economics of American Prosperity during WWII  
+permalink: /warandwelfare
+---
 **War and Welfare:**
 
-**How the Birth of the Military Industrial Complex Simultaneously Birthed the Largest, Most Economically Prosperous, Welfare System America Has Ever Seen**
+**How the Birth of the Military Industrial Complex Simultaneously Birthed the Largest, Most Economically Prosperous Welfare System America Has Ever Seen**
 
 Chaytan Inman
 

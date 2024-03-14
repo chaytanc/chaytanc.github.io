@@ -12,6 +12,6 @@ description: A few thoughts I wrote down here.
 
 [Fingertips](/fingertips)  
 [Feuilles](/feuilles)  
-[LLM Revolution](/llmrevolution)
+[LLM Revolution](/llmrevolution)  
 [War and Welfare](/warandwelfare)  
 [Écureuil](/ecureuil)
