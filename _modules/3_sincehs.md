@@ -309,6 +309,10 @@ Spring 2024
   : Guns, Germs, and Steel
 	: Jared Diamond
 
+Spring 2024
+  : Le Puits de l'ascension
+	: Brandon Sanderson
+
 [comment]: <> (Oct 8)
 
 [comment]: <> (: **Lab**{: .label .label-purple } [Resizing Arrays]&#40;#&#41;)
