@@ -290,8 +290,24 @@ Winter 2024
 	: Jason Hickel
 
 Winter 2024
-  : Mindfuck: Cambridge Analytica's Plot to Break America
+  : Mindfuck: Cambridge Analytica and the Plot to Break America
 	: Christopher Wylie
+
+Spring 2024
+  : Fils des brumes
+	: Brandon Sanderson
+
+Spring 2024
+  : Kindred
+	: Octavia Butler
+
+Spring 2024
+  : Deep Work
+	: Cal Newport
+
+Spring 2024
+  : Guns, Germs, and Steel
+	: Jared Diamond
 
 [comment]: <> (Oct 8)
 
