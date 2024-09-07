@@ -7,6 +7,10 @@ Summer 2024
     : James Baldwin
 
 Summer 2024
+  : Woman at the Edge of Time
+    : Marge Piercy
+
+Summer 2024
   : Arrête avec tes mensonges
     : Philippe Besson
 
