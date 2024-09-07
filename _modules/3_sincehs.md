@@ -1,5 +1,5 @@
 ---
-title: Hs Graduation - College, Present
+title: Hs Graduation - Undergraduate Degree
 ---
 
 Summer 2020
