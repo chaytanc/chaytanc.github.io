@@ -18,6 +18,27 @@ Summer 2024
   : Harry Potter y la piedra filosofal
     : J.K. Rowling
 
+Fall 2024
+  : The Passions and the Interests
+    : Albert Hirschman
+
+Fall 2024
+  : The Great Transformation
+    : Karl Polanyi
+
+Fall 2024
+  : A Brief History of Equality
+    : Thomas Piketty
+
+Fall 2024
+  : The Road to Unfreedom
+    : Timothy Snyder
+
+Fall 2024
+  : Against the World
+    : Tara Zahra
+
+
 [comment]: <> (Oct 8)
 
 [comment]: <> (: **Lab**{: .label .label-purple } [Resizing Arrays]&#40;#&#41;)
