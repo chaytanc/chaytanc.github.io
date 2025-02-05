@@ -38,6 +38,10 @@ Fall 2024
   : Against the World
     : Tara Zahra
 
+Winter 2025
+  : Middlesex
+    : Jeffrey Eugenides
+
 
 [comment]: <> (Oct 8)
 
