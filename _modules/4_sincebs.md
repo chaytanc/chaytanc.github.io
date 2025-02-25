@@ -42,6 +42,14 @@ Winter 2025
   : Middlesex
     : Jeffrey Eugenides
 
+Winter 2025
+  : Active Measures\: The Secret History of Disinformation
+    : Thomas Rid
+
+Winter 2025
+  : Being Human
+    : Charles Foster
+
 
 [comment]: <> (Oct 8)
 

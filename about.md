@@ -38,9 +38,9 @@ In the past, I've worked in two research labs: Adey Lab at OHSU and Freedman Lab
 One of my proudest accomplishments as an undergraduate, I founded and led an undergraduate organization called Interactive Intelligence or I2. I2 fuses neuroscience, ethics, AI, and machine learning, and makes these subjects accessible to everyone!
 Although now retired, I remain extremely proud of the team [which you can find here.](https://interactive-intelligence.github.io){:target="_blank"}  
 
-I've worked as a software engineer in several contexts, including work at Meta and Apple, often focusing on developing AI based applications and production ready code.  
+I've worked as a software engineer in several contexts, including work at Meta and Apple, often focusing on developing AI based applications and professional, production ready code.  
   
-In 2024 I ran for governor of Washington in 2024. I campainged on a platform of giving rights to the Earth, because I think we are not addressing environmental issues effectively or quickly enough and I think our economic system exploits the Earth. The campaign website is at [chaytan2024.com](https://chaytan2024.com) if you're interested. Spread the word!  
+In 2024 I ran for Governor of Washington in 2024. I campaigned on a platform of giving rights to the Earth, because I think we are not addressing environmental issues effectively or quickly enough and I think our economic system exploits the Earth. The campaign website is at [chaytan2024.com](https://chaytan2024.com) if you're interested. Spread the word & organize y'all!  
 
 Now I'm a graduate student, still at the University of Washington but now at the Jackson School of International Studies. Currently researching advanced natural language processing techniques to trace disinformation on social media. 
 

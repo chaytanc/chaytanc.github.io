@@ -8,6 +8,37 @@
 @import 'staffer';
 
 // Overrides
+/* start custom */
+.portfolio-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  justify-content: space-around;
+  margin-bottom: 2rem;
+}
+
+.category-card {
+  background: #f4f4f4;
+  border-radius: 10px;
+  padding: 1rem;
+  text-align: center;
+  width: 200px;
+  transition: transform 0.2s;
+  box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.category-card:hover {
+  transform: scale(1.05);
+}
+
+.project-card {
+  border-left: 4px solid #007acc;
+  background: #f9f9f9;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  border-radius: 5px;
+}
+/* end */
 a abbr[title] {
   border-bottom: none;
 }
