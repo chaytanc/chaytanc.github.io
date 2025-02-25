@@ -2,7 +2,8 @@
 nav_exclude: true
 layout: page
 title: ModelVale
-permalink: /ModelVale
+category: "AI & Research"
+permalink: /projects/ModelVale
 ---
 ## Table of contents
 {: .no_toc .text-delta }
