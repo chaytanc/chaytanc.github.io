@@ -2,7 +2,8 @@
 nav_exclude: true
 layout: page
 title: Game of Intelligent Life
-permalink: /gil
+category: "AI & Research"
+permalink: /projects/gil
 ---
 ## Table of contents
 {: .no_toc .text-delta }

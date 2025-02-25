@@ -1,8 +1,9 @@
 ---
 nav_order: 3
 nav_exclude: false
-permalink: /thoughts
+permalink: /projects/thoughts
 layout: page
+category: "Fun"
 title: Thoughts
 description: A few thoughts I wrote down here. 
 
@@ -12,6 +13,7 @@ description: A few thoughts I wrote down here.
 
 [Fingertips](/fingertips)  
 [Feuilles](/feuilles)  
+[Deleuze Deluge](/eyeandmind)
 [LLM Revolution](/llmrevolution)  
 [War and Welfare](/warandwelfare)  
 [Écureuil](/ecureuil)
