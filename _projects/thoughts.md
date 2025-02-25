@@ -13,7 +13,7 @@ description: A few thoughts I wrote down here.
 
 [Fingertips](/fingertips)  
 [Feuilles](/feuilles)  
-[Deleuze Deluge](/eyeandmind)
+[Deleuze Deluge](/eyeandmind)   
 [LLM Revolution](/llmrevolution)  
 [War and Welfare](/warandwelfare)  
 [Écureuil](/ecureuil)

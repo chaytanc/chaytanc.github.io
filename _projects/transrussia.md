@@ -75,10 +75,6 @@ Finally, the European Union is already struggling with more migration than it ca
 
 In sum, the humanitarian and strategic advantages of the EU partnering with FSU countries to offer healthcare and asylum to persecuted transgender Russians far outweigh the costs of implementation and the ethical toll of the hypocrisy of inaction. To live up to its reputation for equality and human rights support, the EU should act to aid transgender Russians.
 
-\
-\
-
-
 ********
 
 **References**
