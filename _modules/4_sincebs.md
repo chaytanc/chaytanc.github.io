@@ -43,7 +43,7 @@ Winter 2025
     : Jeffrey Eugenides
 
 Winter 2025
-  : Active Measures\: The Secret History of Disinformation
+  : Active Measures\: The Secret History of Disinformation and Political Warfare
     : Thomas Rid
 
 Winter 2025

@@ -37,6 +37,9 @@ collections:
   modules:
   schedules:
   announcements:
+  projects:
+    output: true
+    permalink: /projects/:path/
 # Default layouts for each collection type
 defaults:
   - scope:
