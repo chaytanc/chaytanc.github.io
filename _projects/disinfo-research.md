@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Tracing Disinformation with NLP"
-# category: "AI & Research"
+category: "AI & Research"
 description: "An NLP-based framework for identifying and analyzing disinformation campaigns on social media."
 permalink: /projects/disinfo-research/
 ---
