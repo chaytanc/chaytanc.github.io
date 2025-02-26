@@ -3,7 +3,7 @@ nav_exclude: true
 layout: page
 title: The Humanitarian Crisis and Strategic Value of Aiding Transgender Russians 
 category: "Political Analysis"
-description: "A policy brief for the European Commission."
+description: "A policy brief to the European Commission."
 permalink: /projects/policyBriefTransRussia
 ---
 **_Policy Brief_**
