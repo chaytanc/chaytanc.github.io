@@ -2,11 +2,11 @@
 layout: page
 title: "Tracing Disinformation with NLP"
 category: "AI & Research"
-description: "An NLP-based framework for identifying and analyzing disinformation campaigns on social media."
+description: "WIP: An NLP-based framework for identifying and analyzing disinformation campaigns on social media."
 permalink: /projects/disinfo-research/
 ---
 
-# Tracing Disinformation with NLP
+# Tracing Disinformation with NLP / IN PROGRESS
 
 ## Overview
 This project analyzes the spread of disinformation on social media using natural language processing techniques.

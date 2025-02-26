@@ -3,7 +3,7 @@ layout: page
 title: "Deinforcement Learning – Challenging RL Assumptions"
 category: "AI & Research"
 permalink: /projects/deinforcement-learning/
-description: "Our paper on Deinforcement Learning, rethinking reinforcement learning assumptions."
+description: "An I2 paper on Deinforcement Learning, rethinking reinforcement learning assumptions."
 ---
 
 # Deinforcement Learning – Rethinking RL Assumptions

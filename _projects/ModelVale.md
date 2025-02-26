@@ -3,6 +3,7 @@ nav_exclude: true
 layout: page
 title: ModelVale
 category: "AI & Research"
+description: "An open source iOS application gameifying on-device finetuning and inference of neural networks."
 permalink: /projects/ModelVale
 ---
 ## Table of contents
@@ -31,7 +32,7 @@ Features:
 - Import custom Keras, PyTorch, CoreML, or CreateML models with Google Drive integration
 
 ### Code and Design
-The app is written in Objective-C (to which I objected...) and runs natively on iOS platforms.
+The app is written in Objective-C and runs natively on iOS platforms.
 The code is currently open source and can be found [here](https://github.com/chaytanc/ModelVale).
 Please feel free to add features! I would love to add support for non-image based models.
 As a developer, I find it an incredibly useful tool to rapidly test out of distribution images

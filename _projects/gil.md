@@ -3,6 +3,7 @@ nav_exclude: true
 layout: page
 title: Game of Intelligent Life
 category: "AI & Research"
+description: "A deep learning, convolutional neural network based cellular automata for exploring emergent properties of CNN agents."
 permalink: /projects/gil
 ---
 ## Table of contents

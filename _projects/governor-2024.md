@@ -31,17 +31,18 @@ Technology should serve the people, not profit-driven corporations.
 ---
 
 ## **Final Thoughts**
-This campaign wasn’t just about winning an election — it was about shifting the conversation. While I didn’t take office, the ideas we championed remain as urgent as ever.
+My campaign ended after the results of the August 2024 primary advanced candidates Bob Ferguson and Dave Reichert to the September general election. There were ups and downs, but in the end this is one of the proudest journies of my life! We didn't win, but the effects are still rippling through Washington. Around election day, I received countless emails from supporters like this:  
+>  Hi Chaytan.  It was nice to finally read a candidate statement from a Democrat that actually mentions the environment.  So many Democrats don't even bother to mention protecting the envoronment anymore.  Even Jay Insley \[sic\] failed to mention the environment in his last run for Governor.  
+>  
+> In response to your strong pro environment statement my wife and I happily voted for you.  Good luck.   
 
-If you believe in these principles, keep organizing. There is lots to be done. And do reach out if you need a hand :/)
+The campaign wasn’t just about winning an election — it was about shifting the conversation and a starting point for more powerful direct action. We earned about 6,500 votes statewide, and each one is an honor to me. While I didn’t take office, the ideas are still reverberating and I hope they will inspire others. Now, I plan to build on the desire for environmental rights through deeper community organizing. I hope to see others take up the mantle or join me. Until then, I'll keep myself busy. And do reach out if you're working on something and need a hand :/)
 
 ---
 
-## **🔗 Explore More**
+## **More**
 You can view the full campaign site below:  
 
-<iframe src="https://chaytan2024.com" width="100%" height="600px" style="border:none;"></iframe>
+<iframe src="https://chaytan2024.com" width="100%" height="600px" style="border:none;" sandbox></iframe>
 
 ---
-
-Let me know if you want any more tweaks! 🚀
