@@ -8,9 +8,6 @@ permalink: /projects/oopsgpt
 ---
 # **OopsGPT: Developing State of the Art Corrosion of Trust and Cultural Warfare**
 
-\
-\
-
 
 
 # _“to serve as a warning…_ 
@@ -21,41 +18,39 @@ permalink: /projects/oopsgpt
 
 # **Contents**
 
-1. [****Introduction****](#1-introduction)
+1. [***Introduction**](#1-introduction)
 
-2. [****Why is AI Different?****](#2-why-is-ai-different)
+2. [**Why is AI Different?**](#2-why-is-ai-different)
 
-   1. [****The Basics****](#21-the-basics)
+   1. [**The Basics**](#21-the-basics)
 
-   2. [****Some Specifics****](#22-some-specifics)
+   2. [**Some Specifics**](#22-some-specifics)
 
-   3. [****Novel Capabilities****](#23-novel-capabilities)
+   3. [**Novel Capabilities**](#23-novel-capabilities)
 
-   4. [****Enhanced Capabilities****](#24-enhanced-capabilities)
+   4. [**Enhanced Capabilities**](#24-enhanced-capabilities)
 
-3. [****Prediction is Power****](#3-prediction-is-power)
+3. [**Prediction is Power**](#3-prediction-is-power)
 
-   1. [****AI in Industry****](#31-ai-in-industry)
+   1. [**AI in Industry**](#31-ai-in-industry)
 
-   2. [****AI for Individuals****](#32-ai-for-individuals)
+   2. [**AI for Individuals**](#32-ai-for-individuals)
 
-   3. [****AI for States****](#33-ai-for-states)
+   3. [**AI for States**](#33-ai-for-states)
 
-   4. [****AI for Misc****](#34-ai-for-misc)
+   4. [**AI for Misc**](#34-ai-for-misc)
 
-   5. [****Bottom Line****](#35-bottom-line)
+   5. [**Bottom Line**](#35-bottom-line)
 
-4. [****The Threat of AI**** ](#4-the-threat-of-ai)
+4. [**The Threat of AI** ](#4-the-threat-of-ai)
 
-   1. [****Exploiting, Manipulating, and Abusing AI****](#41-exploiting-manipulating-and-abusing-ai)
+   1. [**Exploiting, Manipulating, and Abusing AI**](#41-exploiting-manipulating-and-abusing-ai)
 
-   2. [****The Threat of Cultural Engineering****](#42-the-threat-of-cultural-engineering)
+   2. [**The Threat of Cultural Engineering**](#42-the-threat-of-cultural-engineering)
 
-   3. [****Missing The Forest****](#43-missing-the-forest)
+   3. [**Missing The Forest**](#43-missing-the-forest)
 
-5. [****Conclusion****](#5-conclusion)
-
-6. [****Resources****](https://docs.google.com/document/d/1mmEGJyMXRr_aQxMsPwgXmEqe71wIYUiF-X5_Kv-A-YM/edit#heading=h.c2q969wo94ox)
+5. [**Conclusion**](#5-conclusion)
 
 
 # **1. Introduction**
@@ -155,7 +150,7 @@ This is a _tiny_ fraction of prediction uses that AI enhances today.
 AI is a fundamentally different technology than the technologies of the Industrial Revolution, or the past centuries of automation. It is reshaping the global landscape of power in fundamentally different ways, and with a new, untested, and unseen ability to digitize human-like cognition. Who will win and lose in this reshaped landscape is our next topic. 
 
 
-# ******3. Prediction is Power**
+# **3. Prediction is Power**
 
 Who gets rich off of these new capabilities? In this realm, AI has many similarities to how computation changed global power structures. You need access to computation to access AI. So we will first look at how power in computation exists. There are different layers to the power structures created from computation: market powers, state powers, and independent powers. 
 
@@ -340,52 +335,52 @@ That’s it: AI is automating thinking, not physical labor, which has never been
 
 # References
 
-## _2022 Cloud Data Security Report_. (2022). Netwrix.
+ _2022 Cloud Data Security Report_. (2022). Netwrix.
 
-## Ball, J. (2014, January 16). _NSA collects millions of text messages daily in “untargeted” global sweep_. The Guardian; The Guardian. https\://www\.theguardian.com/world/2014/jan/16/nsa-collects-millions-text-messages-daily-untargeted-global-sweep
+ Ball, J. (2014, January 16). _NSA collects millions of text messages daily in “untargeted” global sweep_. The Guardian; The Guardian. https\://www\.theguardian.com/world/2014/jan/16/nsa-collects-millions-text-messages-daily-untargeted-global-sweep
 
-## Calamur, K. (2018, July 18). _Some of the People Trump Has Blamed for Russia’s 2016 Election Hack_. The Atlantic. https\://www\.theatlantic.com/international/archive/2018/07/trump-russia-hack/565445/
+ Calamur, K. (2018, July 18). _Some of the People Trump Has Blamed for Russia’s 2016 Election Hack_. The Atlantic. https\://www\.theatlantic.com/international/archive/2018/07/trump-russia-hack/565445/
 
-## _Cambridge Analytica - Select 2016 Campaign-Related Documents_. (2020). Internet Archive.
+ _Cambridge Analytica - Select 2016 Campaign-Related Documents_. (2020). Internet Archive.
 
-## Clark, J. (2023, September 28). _AI Security Center to Open at National Security Agency_. U.S. Department of Defense. https\://www\.defense.gov/News/News-Stories/Article/Article/3541838/ai-security-center-to-open-at-national-security-agency/
+ Clark, J. (2023, September 28). _AI Security Center to Open at National Security Agency_. U.S. Department of Defense. https\://www\.defense.gov/News/News-Stories/Article/Article/3541838/ai-security-center-to-open-at-national-security-agency/
 
-## _Distribution: Distribution of Household Wealth in the U.S. since 1989_. (2023, December 15). Federal Reserve; The U.S. Federal Reserve. https\://www\.federalreserve.gov/releases/z1/dataviz/dfa/distribute/chart/#range:1989.3
+ _Distribution: Distribution of Household Wealth in the U.S. since 1989_. (2023, December 15). Federal Reserve; The U.S. Federal Reserve. https\://www\.federalreserve.gov/releases/z1/dataviz/dfa/distribute/chart/#range:1989.3
 
-## Ferrara, E. (2017). Disinformation and social bot operations in the run up to the 2017 French presidential election. _First Monday_, _22_(8). https\://doi.org/10.5210/fm.v22i8.8005
+ Ferrara, E. (2017). Disinformation and social bot operations in the run up to the 2017 French presidential election. _First Monday_, _22_(8). https\://doi.org/10.5210/fm.v22i8.8005
 
-## Galmiche, M., Déchelotte, P., Lambert, G., & Tavolacci, M. P. (2019). Prevalence of eating disorders over the 2000–2018 period: a systematic literature review. _The American Journal of Clinical Nutrition_, _109_(5), 1402–1413. https\://doi.org/10.1093/ajcn/nqy342
+ Galmiche, M., Déchelotte, P., Lambert, G., & Tavolacci, M. P. (2019). Prevalence of eating disorders over the 2000–2018 period: a systematic literature review. _The American Journal of Clinical Nutrition_, _109_(5), 1402–1413. https\://doi.org/10.1093/ajcn/nqy342
 
-## Gross, T. (2019). _Whistleblower Explains How Cambridge Analytica Helped Fuel U.S. “Insurgency”_ . Npr.org. https\://www\.npr.org/2019/10/08/768216311/whistleblower-explains-how-cambridge-analytica-helped-fuel-u-s-insurgency
+ Gross, T. (2019). _Whistleblower Explains How Cambridge Analytica Helped Fuel U.S. “Insurgency”_ . Npr.org. https\://www\.npr.org/2019/10/08/768216311/whistleblower-explains-how-cambridge-analytica-helped-fuel-u-s-insurgency
 
-## Hambling, D. (2023, October 17). _Ukraine’s AI Drones Seek And Attack Russian Forces Without Human Oversight_. Forbes. https\://www\.forbes.com/sites/davidhambling/2023/10/17/ukraines-ai-drones-seek-and-attack-russian-forces-without-human-oversight/
+ Hambling, D. (2023, October 17). _Ukraine’s AI Drones Seek And Attack Russian Forces Without Human Oversight_. Forbes. https\://www\.forbes.com/sites/davidhambling/2023/10/17/ukraines-ai-drones-seek-and-attack-russian-forces-without-human-oversight/
 
-## Hao, K. (2019, April 1). _Hackers trick a Tesla into veering into the wrong lane_. MIT Technology Review. https\://www\.technologyreview\.com/2019/04/01/65915/hackers-trick-teslas-autopilot-into-veering-towards-oncoming-traffic/
+ Hao, K. (2019, April 1). _Hackers trick a Tesla into veering into the wrong lane_. MIT Technology Review. https\://www\.technologyreview\.com/2019/04/01/65915/hackers-trick-teslas-autopilot-into-veering-towards-oncoming-traffic/
 
-## Kramer, M. (2013, June 12). _The NSA Data: Where Does It Go?_ Pages. https\://www\.nationalgeographic.com/pages/article/130612-nsa-utah-data-center-storage-zettabyte-snowden
+ Kramer, M. (2013, June 12). _The NSA Data: Where Does It Go?_ Pages. https\://www\.nationalgeographic.com/pages/article/130612-nsa-utah-data-center-storage-zettabyte-snowden
 
-## Macdonald, J., Korb, P., & Hoppe, R. (2013). _United States Department of Agriculture Farm Size and the Organization of U.S. Crop Farming_. https\://www\.ers.usda.gov/webdocs/publications/45108/39359\_err152.pdf
+ Macdonald, J., Korb, P., & Hoppe, R. (2013). _United States Department of Agriculture Farm Size and the Organization of U.S. Crop Farming_. https\://www\.ers.usda.gov/webdocs/publications/45108/39359\_err152.pdf
 
-## Marijan, B. (2022, March 30). _AI-Influenced Weapons Need Better Regulation_. Scientific American. https\://www\.scientificamerican.com/article/ai-influenced-weapons-need-better-regulation/
+ Marijan, B. (2022, March 30). _AI-Influenced Weapons Need Better Regulation_. Scientific American. https\://www\.scientificamerican.com/article/ai-influenced-weapons-need-better-regulation/
 
-## Mclean, M. (2023, August 9). _2021 Must-Know Cyber Attack Statistics and Trends - Embroker_. Embroker. https\://www\.embroker.com/blog/cyber-attack-statistics/
+ Mclean, M. (2023, August 9). _2021 Must-Know Cyber Attack Statistics and Trends - Embroker_. Embroker. https\://www\.embroker.com/blog/cyber-attack-statistics/
 
-## Meltzer, R. (2020, July 7). _How Netflix Uses Machine Learning And Algorithms_. Lighthouse Labs. https\://www\.lighthouselabs.ca/en/blog/how-netflix-uses-data-to-optimize-their-product
+ Meltzer, R. (2020, July 7). _How Netflix Uses Machine Learning And Algorithms_. Lighthouse Labs. https\://www\.lighthouselabs.ca/en/blog/how-netflix-uses-data-to-optimize-their-product
 
-## Moran, M., & Litwak, M. (2021, February 2). _The Industry Agenda: Big Tech_. Revolving Door Project. https\://therevolvingdoorproject.org/the-industry-agenda-big-tech/
+ Moran, M., & Litwak, M. (2021, February 2). _The Industry Agenda: Big Tech_. Revolving Door Project. https\://therevolvingdoorproject.org/the-industry-agenda-big-tech/
 
-## Morgan, S. (2020, November 13). _Cybercrime to cost the world $10.5 trillion annually by 2025_. Cybercrime Magazine. https\://cybersecurityventures.com/hackerpocalypse-cybercrime-report-2016/
+ Morgan, S. (2020, November 13). _Cybercrime to cost the world $10.5 trillion annually by 2025_. Cybercrime Magazine. https\://cybersecurityventures.com/hackerpocalypse-cybercrime-report-2016/
 
-## Nolan, M. (2023, July 27). _Llama and ChatGPT Are Not Open-Source - IEEE Spectrum_. Spectrum.ieee.org. https\://spectrum.ieee.org/open-source-llm-not-open
+ Nolan, M. (2023, July 27). _Llama and ChatGPT Are Not Open-Source - IEEE Spectrum_. Spectrum.ieee.org. https\://spectrum.ieee.org/open-source-llm-not-open
 
-## Nyabola, N. (2019, February 15). _The spectre of Cambridge Analytica still haunts African elections_. Al Jazeera. https\://www\.aljazeera.com/opinions/2019/2/15/the-spectre-of-cambridge-analytica-still-haunts-african-elections
+ Nyabola, N. (2019, February 15). _The spectre of Cambridge Analytica still haunts African elections_. Al Jazeera. https\://www\.aljazeera.com/opinions/2019/2/15/the-spectre-of-cambridge-analytica-still-haunts-african-elections
 
-## OpenSecrets. (2024). _Alphabet Inc Profile: Summary_. OpenSecrets. https\://www\.opensecrets.org/orgs/alphabet-inc/summary?id=D000067823
+ OpenSecrets. (2024). _Alphabet Inc Profile: Summary_. OpenSecrets. https\://www\.opensecrets.org/orgs/alphabet-inc/summary?id=D000067823
 
-## Perez, S. (2023, September 11). Google.org to invest $20M into AI-focused grants for think tanks and academic institutions | TechCrunch. _TechCrunch_. https\://techcrunch.com/2023/09/11/google-org-to-invest-20m-into-ai-focused-grants-for-think-tanks-and-academic-institutions/
+ Perez, S. (2023, September 11). Google.org to invest $20M into AI-focused grants for think tanks and academic institutions | TechCrunch. _TechCrunch_. https\://techcrunch.com/2023/09/11/google-org-to-invest-20m-into-ai-focused-grants-for-think-tanks-and-academic-institutions/
 
-## Rhue, L. (2018, November 9). _Racial Influence on Automated Perceptions of Emotions_. Papers.ssrn.com. https\://papers.ssrn.com/sol3/papers.cfm?abstract\_id=3281765
+ Rhue, L. (2018, November 9). _Racial Influence on Automated Perceptions of Emotions_. Papers.ssrn.com. https\://papers.ssrn.com/sol3/papers.cfm?abstract\_id=3281765
 
-## _The Top 10 Richest People In The World In 2023_. (2024, February 26). Forbes India. https\://www\.forbesindia.com/article/explainers/top-10-richest-people-world/85541/1
-
-Zuboff, S. (2018). _The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power_. Public Affairs.
+ _The Top 10 Richest People In The World In 2023_. (2024, February 26). Forbes India. https\://www\.forbesindia.com/article/explainers/top-10-richest-people-world/85541/1 
+ 
+ Zuboff, S. (2018). _The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power_. Public Affairs.
