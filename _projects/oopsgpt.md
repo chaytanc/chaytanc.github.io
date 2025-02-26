@@ -12,7 +12,6 @@ permalink: /projects/oopsgpt
 
 > _“to serve as a warning…_ 
 > _We are placing… trust in companies like Facebook to do the honorable and decent thing.”_  
-**__** 
 ### Christopher Wylie, Cambridge Analytica
 
 ****
