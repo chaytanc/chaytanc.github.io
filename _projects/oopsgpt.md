@@ -14,11 +14,11 @@ permalink: /projects/oopsgpt
 > _We are placing… trust in companies like Facebook to do the honorable and decent thing.”_ 
 **__** Christopher Wylie, Cambridge Analytica
 
-********
+****
 
 # **Contents**
 
-1. [***Introduction**](#1-introduction)
+1. [**Introduction**](#1-introduction)
 
 2. [**Why is AI Different?**](#2-why-is-ai-different)
 
@@ -377,7 +377,7 @@ That’s it: AI is automating thinking, not physical labor, which has never been
 
  OpenSecrets. (2024). _Alphabet Inc Profile: Summary_. OpenSecrets. https\://www\.opensecrets.org/orgs/alphabet-inc/summary?id=D000067823
 
- Perez, S. (2023, September 11). Google.org to invest $20M into AI-focused grants for think tanks and academic institutions | TechCrunch. _TechCrunch_. https\://techcrunch.com/2023/09/11/google-org-to-invest-20m-into-ai-focused-grants-for-think-tanks-and-academic-institutions/
+ Perez, S. (2023, September 11). Google.org to invest $20M into AI-focused grants for think tanks and academic institutions. _TechCrunch_. https\://techcrunch.com/2023/09/11/google-org-to-invest-20m-into-ai-focused-grants-for-think-tanks-and-academic-institutions/
 
  Rhue, L. (2018, November 9). _Racial Influence on Automated Perceptions of Emotions_. Papers.ssrn.com. https\://papers.ssrn.com/sol3/papers.cfm?abstract\_id=3281765
 
