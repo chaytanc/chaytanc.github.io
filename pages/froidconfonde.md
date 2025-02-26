@@ -1,8 +1,8 @@
 ---
 nav_exclude: true
 layout: page
-title: Froid Confonde
-permalink: /froidconfonde
+title: Froid Confond
+permalink: /froidconfond
 ---
 
 
@@ -15,7 +15,7 @@ elle nous géle<br>
 Mais dites-moi<br>
 de l'avenir qui méle parmi les flocons d'étoiles noirs<br>
 du passé <br>
-qui nous entoure et nous confonde.<br>
+qui nous entoure et nous confond.<br>
 comme on tourne dans ses bras<br>
 comme ses doigts nous prennant<br>
 le chaleur du peau<br>
