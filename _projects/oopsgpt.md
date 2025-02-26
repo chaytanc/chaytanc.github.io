@@ -7,6 +7,7 @@ description: "A lively analysis of the most potent factors in emerging AI geopol
 permalink: /projects/oopsgpt
 ---
 # **OopsGPT: Developing State of the Art Corrosion of Trust and Cultural Warfare**
+## June 2024
 
 
 
