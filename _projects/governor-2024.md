@@ -36,7 +36,7 @@ My campaign ended after the results of the August 2024 primary advanced candidat
 >  
 > In response to your strong pro environment statement my wife and I happily voted for you.  Good luck.   
 
-The campaign wasn’t just about winning an election — it was about shifting the conversation and a starting point for more powerful direct action. We earned about 6,500 votes statewide, and each one is an honor to me. While I didn’t take office, the ideas are still reverberating and I hope they will inspire others. Now, I plan to build on the desire for environmental rights through deeper community organizing. I hope to see others take up the mantle or join me. Until then, I'll keep myself busy. And do reach out if you're working on something and need a hand :/)
+The campaign wasn’t just about winning an election — it was about shifting the conversation and a starting point for more powerful direct action. We earned about 6,500 votes statewide, and each one is an honor to me. While I didn’t take office, the ideas are still reverberating and I hope they will inspire others. Now, I plan to build on the desire for environmental rights through deeper community organizing. I hope to see others take up the mantle or join me. Until then, I'll keep myself busy. And do reach out if you're working on something and need a hand :)
 
 ---
 
