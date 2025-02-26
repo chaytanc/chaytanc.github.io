@@ -16,19 +16,19 @@ A collection of projects spanning Political Analysis, AI & Research, Leadership,
 <div class="portfolio-grid">
     <a href="#political-analysis" class="category-card">
         <h3>Political Analysis</h3>
-        <p>Research and projects analyzing governance, elections, and policy.</p>
+        <p>Research and projects analyzing governance, geopolitics, and policy.</p>
     </a>
     <a href="#ai-research" class="category-card">
         <h3>AI & Research</h3>
-        <p>Innovations in machine learning, natural language processing, and neuroscience.</p>
+        <p>Explorations in machine learning, natural language processing, and neuroscience.</p>
     </a>
     <a href="#leadership" class="category-card">
         <h3>Leadership</h3>
-        <p>Initiatives, advocacy, and community-driven projects.</p>
+        <p>Initiatives, advocacy, and community projects.</p>
     </a>
     <a href="#fun" class="category-card">
         <h3>Fun</h3>
-        <p>Creative and personal projects, side hustles, and experiments.</p>
+        <p>Creative personal projects and experiments.</p>
     </a>
 </div>
 
