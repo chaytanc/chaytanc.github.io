@@ -3,7 +3,7 @@ nav_exclude: true
 layout: page
 title: Eye and Mind
 category: "Fun"
-permalink: /projects/eyeandmind
+permalink: /eyeandmind
 ---
 # A Collection of Reflections
 

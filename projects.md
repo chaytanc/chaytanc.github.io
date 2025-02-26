@@ -1,6 +1,6 @@
 ---
 nav_order: 3
-nav_exclude: false
+nav_exclude: true
 permalink: /projects
 layout: page
 title: Projects
