@@ -1,7 +1,7 @@
 ---
 nav_order: 3
 nav_exclude: true
-permalink: /projects
+permalink: /projectspage
 layout: page
 title: Projects
 
@@ -17,8 +17,3 @@ description: Listing of some of the projects I have made
 [Game of Intelligent Life](/gil)  
 [Cybernetic Fungi](/fungi-cy)
 
-
-Total projects found: **{{ site.projects | size }}**  
-{% for project in site.projects %}
-- [{{ project.title }}]({{ project.url }}) - {{ project.category }}
-{% endfor %}
