@@ -20,8 +20,6 @@ In our paper, we introduce the concept of **Deinforcement Learning (DL)**, which
 ---
 
 ## **Read the Full Paper**
-You can access the full paper in the **Canadian Undergraduate Journal of Cognitive Science**:
-
-<iframe src="http://cujcs.online/index.php/cujcs/article/view/12" width="100%" height="600px" style="border:none;"></iframe>
+You can access the full paper in the [**Canadian Undergraduate Journal of Cognitive Science**](http://cujcs.online/index.php/cujcs/article/view/12)
 
 ---
