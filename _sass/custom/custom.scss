@@ -17,20 +17,6 @@
   margin-bottom: 2rem;
 }
 
-.category-card {
-  background: #f4f4f4;
-  border-radius: 10px;
-  padding: 1rem;
-  text-align: center;
-  width: 200px;
-  transition: transform 0.2s;
-  box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.1);
-}
-
-.category-card:hover {
-  transform: scale(1.05);
-}
-
 .project-card {
   border-left: 4px solid #007acc;
   background: #f9f9f9;
@@ -39,6 +25,39 @@
   border-radius: 5px;
 }
 /* end */
+/* start rainbow */
+@keyframes rainbowGlow {
+  0% { box-shadow: 0 0 10px #ff0000; }
+  16% { box-shadow: 0 0 10px #ff7f00; }
+  33% { box-shadow: 0 0 10px #ffff00; }
+  50% { box-shadow: 0 0 10px #00ff00; }
+  66% { box-shadow: 0 0 10px #0000ff; }
+  83% { box-shadow: 0 0 10px #4b0082; }
+  100% { box-shadow: 0 0 10px #9400d3; }
+}
+
+@keyframes pulse {
+  0%, 100% { transform: scale(1); }
+  50% { transform: scale(1.05); }
+}
+
+.category-card {
+  background: #222;
+  color: white;
+  border-radius: 10px;
+  padding: 1rem;
+  text-align: center;
+  width: 250px;
+  transition: transform 0.3s ease-in-out;
+  box-shadow: 0 0 10px #ff0000;
+  animation: rainbowGlow 3s infinite linear, pulse 2s infinite ease-in-out;
+}
+
+.category-card:hover {
+  transform: scale(1.1);
+  animation: rainbowGlow 1.5s infinite linear, pulse 1.5s infinite ease-in-out;
+}
+/* end rainbow */
 a abbr[title] {
   border-bottom: none;
 }
