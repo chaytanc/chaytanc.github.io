@@ -25,38 +25,38 @@
   border-radius: 5px;
 }
 /* end */
-/* start rainbow */
-@keyframes rainbowGlow {
-  0% { box-shadow: 0 0 15px #ff0000; }
-  16% { box-shadow: 0 0 15px #ff7f00; }
-  33% { box-shadow: 0 0 15px #ffff00; }
-  50% { box-shadow: 0 0 15px #00ff00; }
-  66% { box-shadow: 0 0 15px #0000ff; }
-  83% { box-shadow: 0 0 15px #4b0082; }
-  100% { box-shadow: 0 0 15px #9400d3; }
-}
+/* TODO start rainbow */
+// @keyframes rainbowGlow {
+//   0% { box-shadow: 0 0 15px #ff0000; }
+//   16% { box-shadow: 0 0 15px #ff7f00; }
+//   33% { box-shadow: 0 0 15px #ffff00; }
+//   50% { box-shadow: 0 0 15px #00ff00; }
+//   66% { box-shadow: 0 0 15px #0000ff; }
+//   83% { box-shadow: 0 0 15px #4b0082; }
+//   100% { box-shadow: 0 0 15px #9400d3; }
+// }
 
-@keyframes pulse {
-  0%, 100% { transform: scale(1); }
-  50% { transform: scale(1.05); }
-}
+// @keyframes pulse {
+//   0%, 100% { transform: scale(1); }
+//   50% { transform: scale(1.05); }
+// }
 
-body .category-card {
-  background: #222 !important;
-  color: white !important;
-  border-radius: 10px !important;
-  padding: 1rem !important;
-  text-align: center !important;
-  width: 250px !important;
-  transition: transform 0.3s ease-in-out !important;
-  box-shadow: 0 0 15px #ff0000 !important;
-  animation: rainbowGlow 3s infinite linear, pulse 2s infinite ease-in-out !important;
-}
+// body .category-card {
+//   background: #222 !important;
+//   color: white !important;
+//   border-radius: 10px !important;
+//   padding: 1rem !important;
+//   text-align: center !important;
+//   width: 250px !important;
+//   transition: transform 0.3s ease-in-out !important;
+//   box-shadow: 0 0 15px #ff0000 !important;
+//   animation: rainbowGlow 3s infinite linear, pulse 2s infinite ease-in-out !important;
+// }
 
-body .category-card:hover {
-  transform: scale(1.1) !important;
-  animation: rainbowGlow 1.5s infinite linear, pulse 1.5s infinite ease-in-out !important;
-}
+// body .category-card:hover {
+//   transform: scale(1.1) !important;
+//   animation: rainbowGlow 1.5s infinite linear, pulse 1.5s infinite ease-in-out !important;
+// }
 
 /* end rainbow */
 a abbr[title] {
