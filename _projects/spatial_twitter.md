@@ -16,6 +16,8 @@ STAT 554
 
 14 March 2025
 
+********
+
 **Research Question**
 
 Can spatial statistics of embedded two dimensional tweets help model the prevalence of pro-Brexit tweets?
@@ -72,7 +74,7 @@ Next we can see a timelapse of all 20 samples. From this we can see the general 
 
 **Fig. 1.2**
 
-****![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcJqerRB9hTIoSyKjARJKeP28Qyovoyfmru64H-dtGVmJ4hUQ0A8kQDPEbJwywY3FUFvyEoNnNMFt-fwbkioQdQvCmpvK_k31-Iy7sBKkSR2TMPHTOFBo8Coa3ZY9xCRdJtn_DjlA?key=bAy81A_OxX-Cie6B0l0K31gF)****
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcJqerRB9hTIoSyKjARJKeP28Qyovoyfmru64H-dtGVmJ4hUQ0A8kQDPEbJwywY3FUFvyEoNnNMFt-fwbkioQdQvCmpvK_k31-Iy7sBKkSR2TMPHTOFBo8Coa3ZY9xCRdJtn_DjlA?key=bAy81A_OxX-Cie6B0l0K31gF)****
 
 Here we see that indeed the BYM spatial model reduced the variance on average. This is unsurprising, as including a spatial component increased the bias (as we will see) and decreased the variance. We also see that both models have the highest variance in the upper region of the graph. This would be interesting to investigate with a model that can decode the cluster centroids to interpret what the average response is like in these particular regions. We also see that some of the regions with high variance tend to have low error (upper right regions) while others have higher than average error (upper middle region).
 
