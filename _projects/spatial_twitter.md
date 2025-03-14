@@ -24,6 +24,8 @@ Can spatial statistics of embedded two dimensional tweets help model the prevale
 
 We start with a dataset of all pro or against Brexit tweets in the timeframe January - March 2022. The tweets were coded as pro or against based on the key words used to scrape the tweets (e.g. those containing “pro Brexit” were considered pro). Using this data as a ground truth, we will attempt to predict the proportion of pro-Brexit tweets in regions created by sampling tweets, embedding them within two dimensions, and clustering to create artificial shape files and regions. Then we will perform spatial analysis on the sampled tweets to try to predict the true proportions of pro-Brexit tweets in the created regions. The “Hit Sentence” column of this dataset was used for embeddings in this analysis, which, it should be noted, is not the full tweet but rather the first few sentences of each tweet. 
 
+This project married my interests in large language models and social media analysis with rigorous statistical modeling using R and INLA. The analyses presented here are all Bayesian modeling techniques. I had a good time working through the kinks of getting these very different worlds to collide! In the end, I think this project has a lot of potential to interpret traditional computer science techniques like clustering and embedding more rigorously by applying spatial statistics models.
+
 **Methodology**
 
 1. Sample data
