@@ -12,11 +12,44 @@ permalink: /projects/disinfo-research/
 
 Chaytan Chief Inman
 
+---
 
-### ***
+## Table of Contents
 
-University of Washington
-
+- [Abstract](#abstract)
+- [Acknowledgements](#acknowledgements)
+- [1. Introduction](#1-introduction)
+  - [1.1 Problem](#11-problem)
+  - [1.2 Paper Outline](#12-paper-outline)
+- [2. Background](#2-background)
+  - [2.1 Information Disorder Framework](#21-information-disorder-framework)
+  - [2.2 LLM Methodological Contributions](#22-llm-methodological-contributions)
+    - [2.2.1 What Are LLMs](#221-what-are-llms)
+    - [2.2.2 Capabilities](#222-capabilities)
+    - [2.2.3 Limitations](#223-limitations)
+  - [2.3 Social Media & Disinformation Literature Review](#23-social-media--disinformation-literature-review)
+    - [2.3.1 Techniques of Social Media-Based Public Opinion Analysis](#231-techniques-of-social-media-based-public-opinion-analysis)
+    - [2.3.2 Quantitative Disinformation Review](#232-quantitative-disinformation-review)
+    - [2.3.3 Gaps in Disinformation Literature](#233-gaps-in-disinformation-literature)
+- [3. Methods](#3-methods)
+  - [3.1 Tool Pipelines](#31-tool-pipelines)
+  - [3.2 Models](#32-models)
+  - [3.3 Validation](#33-validation)
+  - [3.4 Case Studies](#34-case-studies)
+- [4. Results](#4-results)
+  - [4.1 Similarity Score Validation on the GLUE STS-B](#41-similarity-score-validation-on-the-glue-sts-b)
+    - [4.1.1 GLUE STS-B Results](#411-glue-sts-b-results)
+    - [4.1.2 GLUE STS-B Examples by Human Score Range](#412-glue-sts-b-examples-by-human-score-range)
+    - [4.1.3 GLUE STS-B Model Interpretation: Residual Error Analysis](#413-glue-sts-b-model-interpretation-residual-error-analysis)
+    - [4.1.4 Similarity Score Interpretation](#414-similarity-score-interpretation)
+  - [4.2 Features of the Tweet Narrative Analysis Dashboard](#42-features-of-the-tweet-narrative-analysis-dashboard)
+  - [4.3 Case Study 1: Tracing Election Hoax Disinformation in Trump’s Tweets](#43-case-study-1-tracing-election-hoax-disinformation-in-trumps-tweets)
+  - [4.4 Case Study 2: Tracing Anti-Trans Disinformation in Mass Media](#44-case-study-2-tracing-anti-trans-disinformation-in-mass-media)
+- [5. Discussion](#5-discussion)
+  - [5.1 Validating the Methodology](#51-validating-the-methodology)
+  - [5.2 Case Study 1: Research Contributions](#52-case-study-1-research-contributions)
+  - [5.3 Case Study 2: Research Contributions](#53-case-study-2-research-contributions)
+- [Conclusion](#conclusion)
 
 ### **Abstract**
 
@@ -33,8 +66,7 @@ Jackson School of International Studies
 
 This thesis develops a continuous scale measurement of similarity to disinformation narratives that can serve to detect disinformation and capture the nuanced, partial truths that are characteristic of it. To do so, two tools are developed and their methodologies are documented. The tracing tool takes tweets and a target narrative, rates the similarities of each to the target narrative, and graphs it as a timeline. The second narrative synthesis tool clusters tweets above a similarity threshold and generates the dominant narratives within each cluster. These tools are combined into a Tweet Narrative Analysis Dashboard. The tracing tool is validated on the GLUE STS-B benchmark, and then the two tools are used to analyze two case studies for further empirical validation. The first case study uses the target narrative “The 2020 election was stolen” and analyzes a dataset of Donald Trump’s tweets during 2020. The second case study uses the target narrative, “Transgender people are harmful to society” and analyzes tens of thousands of tweets from the media outlets The New York Times, The Guardian, The Gateway Pundit, and Fox News. Together, the empirical findings from these case studies demonstrate semantic similarity for nuanced disinformation detection, tracing, and characterization.
 
-
-### ***
+---
 
 ### **Acknowledgements**
 
@@ -496,8 +528,7 @@ Second, like the process of crafting keyword searches, the tracing tool’s use 
 
 Disinformation research has an extremely wide array of quantitative and mixed detection methods at its disposal, but these tools often make simplifications in order to handle more data that detract from the quality of the characterization of disinformation. This paper offers a method to apply a continuous scale measurement of disinformation based on semantic similarity to known disinformation narratives. This methodology allows researchers to replace keyword based methods of disinformation detection with a method that can better understand context and semantics of whole sentences and bodies of text. Furthermore, this continuity of semantic similarity means that disinformation can be analyzed in a way that acknowledges the non-binary, gray area between truth and falsehood that is often a hallmark of disinformation. Finally, the tools built to achieve this are accessible with an easy to use user interface, with the hope that these methodological contributions will be useful for the field.
 
-
-### ***
+--- 
 
 7. ### **References**
 
