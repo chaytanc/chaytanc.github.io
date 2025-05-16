@@ -18,10 +18,10 @@ Chaytan Chief Inman
 
 - [Abstract](#abstract)
 - [Acknowledgements](#acknowledgements)
-- [1. Introduction](#1-introduction)
+- [1. Introduction](#introduction)
   - [1.1 Problem](#11-problem)
   - [1.2 Paper Outline](#12-paper-outline)
-- [2. Background](#2-background)
+- [2. Background](#background)
   - [2.1 Information Disorder Framework](#21-information-disorder-framework)
   - [2.2 LLM Methodological Contributions](#22-llm-methodological-contributions)
     - [2.2.1 What Are LLMs](#221-what-are-llms)
@@ -31,12 +31,12 @@ Chaytan Chief Inman
     - [2.3.1 Techniques of Social Media-Based Public Opinion Analysis](#231-techniques-of-social-media-based-public-opinion-analysis)
     - [2.3.2 Quantitative Disinformation Review](#232-quantitative-disinformation-review)
     - [2.3.3 Gaps in Disinformation Literature](#233-gaps-in-disinformation-literature)
-- [3. Methods](#3-methods)
+- [3. Methods](#methods)
   - [3.1 Tool Pipelines](#31-tool-pipelines)
   - [3.2 Models](#32-models)
   - [3.3 Validation](#33-validation)
   - [3.4 Case Studies](#34-case-studies)
-- [4. Results](#4-results)
+- [4. Results](#results)
   - [4.1 Similarity Score Validation on the GLUE STS-B](#41-similarity-score-validation-on-the-glue-sts-b)
     - [4.1.1 GLUE STS-B Results](#411-glue-sts-b-results)
     - [4.1.2 GLUE STS-B Examples by Human Score Range](#412-glue-sts-b-examples-by-human-score-range)
@@ -45,11 +45,15 @@ Chaytan Chief Inman
   - [4.2 Features of the Tweet Narrative Analysis Dashboard](#42-features-of-the-tweet-narrative-analysis-dashboard)
   - [4.3 Case Study 1: Tracing Election Hoax Disinformation in Trump’s Tweets](#43-case-study-1-tracing-election-hoax-disinformation-in-trumps-tweets)
   - [4.4 Case Study 2: Tracing Anti-Trans Disinformation in Mass Media](#44-case-study-2-tracing-anti-trans-disinformation-in-mass-media)
-- [5. Discussion](#5-discussion)
+- [5. Discussion](#discussion)
   - [5.1 Validating the Methodology](#51-validating-the-methodology)
   - [5.2 Case Study 1: Research Contributions](#52-case-study-1-research-contributions)
   - [5.3 Case Study 2: Research Contributions](#53-case-study-2-research-contributions)
-- [Conclusion](#conclusion)
+- [6. Conclusion](#conclusion)
+- [7. References](#references)
+- [8. Appendix](#appendix)
+
+---
 
 ### **Abstract**
 
@@ -59,10 +63,11 @@ Chaytan Chief Inman
 
 Supervisory Committee:
 
-Jessica L. Beyer
-Tadayoshi Kohno
+Jessica L. Beyer 
+Tadayoshi Kohno 
 
-Jackson School of International Studies
+Jackson School of International Studies 
+University of Washington 
 
 This thesis develops a continuous scale measurement of similarity to disinformation narratives that can serve to detect disinformation and capture the nuanced, partial truths that are characteristic of it. To do so, two tools are developed and their methodologies are documented. The tracing tool takes tweets and a target narrative, rates the similarities of each to the target narrative, and graphs it as a timeline. The second narrative synthesis tool clusters tweets above a similarity threshold and generates the dominant narratives within each cluster. These tools are combined into a Tweet Narrative Analysis Dashboard. The tracing tool is validated on the GLUE STS-B benchmark, and then the two tools are used to analyze two case studies for further empirical validation. The first case study uses the target narrative “The 2020 election was stolen” and analyzes a dataset of Donald Trump’s tweets during 2020. The second case study uses the target narrative, “Transgender people are harmful to society” and analyzes tens of thousands of tweets from the media outlets The New York Times, The Guardian, The Gateway Pundit, and Fox News. Together, the empirical findings from these case studies demonstrate semantic similarity for nuanced disinformation detection, tracing, and characterization.
 
@@ -74,7 +79,9 @@ To the following people, I am so grateful for your help guiding this thesis and 
 
 Jessica Beyer, Yoshi Kohno, Stephen Prochaska. 
 
-Thank you! <3
+*Thank you! <3*
+
+---
 
 1. ### **Introduction**
 
@@ -627,6 +634,8 @@ Wang, W., Wei, F., Dong, L., Bao, H., Yang, N., & Zhou, M. (2020). MiniLM: Deep 
 Wardle, C., & Derakhshan, H. (2017). _INFORMATION DISORDER : Toward an interdisciplinary framework for research and policy making Information Disorder Toward an interdisciplinary framework for research and policymaking_. ResearchGate. https\://www\.researchgate.net/publication/339031969\_INFORMATION\_DISORDER\_Toward\_an\_interdisciplinary\_framework\_for\_research\_and\_policy\_making\_Information\_Disorder\_Toward\_an\_interdisciplinary\_framework\_for\_research\_and\_policymaking
 
 Yang, D., Zhang, Z., & Zhao, H. (2023). _Learning Better Masking for Better Language Model Pre-training_.
+
+---
 
 8. ### **Appendix**
 
