@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "Tracing Disinformation with NLP"
+title: "Master's Thesis: Tracing Disinformation with NLP"
 category: "AI & Research"
-description: "WIP: An NLP-based framework for identifying and analyzing disinformation campaigns on social media."
+description: "An LLM-based framework for detecting, tracing, and characterizing disinformation narratives on social media."
 permalink: /projects/disinfo-research/
 ---
 
@@ -57,17 +57,17 @@ Chaytan Chief Inman
 
 ### **Abstract**
 
-*Studying Disinformation Narratives on Social Media with LLMs and Semantic Similarity*
+**Studying Disinformation Narratives on Social Media with LLMs and Semantic Similarity**
 
 Chaytan Chief Inman
 
 Supervisory Committee:
 
-Jessica L. Beyer 
-Tadayoshi Kohno 
+Jessica L. Beyer   
+Tadayoshi Kohno  
 
-Jackson School of International Studies 
-University of Washington 
+Jackson School of International Studies  
+University of Washington   
 
 This thesis develops a continuous scale measurement of similarity to disinformation narratives that can serve to detect disinformation and capture the nuanced, partial truths that are characteristic of it. To do so, two tools are developed and their methodologies are documented. The tracing tool takes tweets and a target narrative, rates the similarities of each to the target narrative, and graphs it as a timeline. The second narrative synthesis tool clusters tweets above a similarity threshold and generates the dominant narratives within each cluster. These tools are combined into a Tweet Narrative Analysis Dashboard. The tracing tool is validated on the GLUE STS-B benchmark, and then the two tools are used to analyze two case studies for further empirical validation. The first case study uses the target narrative “The 2020 election was stolen” and analyzes a dataset of Donald Trump’s tweets during 2020. The second case study uses the target narrative, “Transgender people are harmful to society” and analyzes tens of thousands of tweets from the media outlets The New York Times, The Guardian, The Gateway Pundit, and Fox News. Together, the empirical findings from these case studies demonstrate semantic similarity for nuanced disinformation detection, tracing, and characterization.
 
@@ -83,12 +83,12 @@ Jessica Beyer, Yoshi Kohno, Stephen Prochaska. 
 
 ---
 
-1. ### **Introduction**
+### **Introduction**
 
 
 #### _1.1 Problem_ 
 
-Disinformation – or information that is intentionally misleading or false and with intent to harm (Wardle & Derakhshan, 2017) – proliferates on social media (Subcommittee on Intelligence and Special Operations, 2021) but mingles among millions of authentic opinions. The effects are difficult to measure (Rid, 2021) but one clear example is the effect of Donald Trump’s tweets about the US 2020 presidential election, which undermined public trust in democracy and culminated in riots at the Capitol Building on January 6th 2021 (Bowler, Carreras & Merolla, 2022; Fried & Harris 2020). Given these stakes, it is important to understand the problem – to characterize disinformation, track its spread, attribute its source, identify its causes, and assess its impacts – which inevitably requires an initial classification or form of detection. But, as Thomas Rid (2021) argues, the nature of disinformation means it mixes lies with the truth in subtle ways (Rid, 2021). Rid examines the slippery nature of disinformation and describes it in the following way:
+Disinformation – or information that is intentionally misleading or false and with intent to harm (Wardle & Derakhshan, 2017) – proliferates on social media (Subcommittee on Intelligence and Special Operations, 2021) but mingles among millions of authentic opinions. The effects are difficult to measure (Rid, 2021) but one clear example is the effect of Donald Trump’s tweets about the US 2020 presidential election, which undermined public trust in democracy and culminated in riots at the Capitol Building on January 6th 2021 (Bowler, Carreras & Merolla, 2022; Fried & Harris, 2020). Given these stakes, it is important to understand the problem – to characterize disinformation, track its spread, attribute its source, identify its causes, and assess its impacts – which inevitably requires an initial classification or form of detection. But, as Thomas Rid (2021) argues, the nature of disinformation means it mixes lies with the truth in subtle ways (Rid, 2021). Rid examines the slippery nature of disinformation and describes it in the following way:
 
 Disinformation works, and in unexpected ways. The fine line between fact and forgery may be clear in the moment an operator or an intelligence agency commits the act of falsification… or when a bogus online account invites unwitting users to join a street demonstration, or shares extremist posts. But fronts, forgeries and fakes don’t stop there… When social media users gather in the streets following a bogus event invitation, the demonstration is real… Engineered effects were very difficult to isolate from organic developments.
 
@@ -125,7 +125,7 @@ To answer this question, I begin by proposing a framework of five foundational c
 
 The research finds that employing a continuous scale metric of disinformation can be useful to detect, trace, and characterize subtle patterns of disinformation spread in large amounts of data without requiring time intensive qualitative analysis, and that this form of detection is generally aligned with human similarity scores between text, although some misclassifications occur.
 
-2. ### **Background**
+### **Background**
 
 In this section, I establish a conceptual framework useful for identifying gaps in disinformation research, by categorizing five fundamental questions in disinformation research. This framework allows us to narrow the focus and contributions of this paper to disinformation detection, tracing, and characterization while also recognizing the potential uses in other fundamental questions. Then, the overview of LLMs provides the background necessary to understand the NLP methods that may address gaps in disinformation research by examining LLM capabilities and limitations. Next, the overview of social media analysis and quantitative disinformation studies examines the tradeoffs in current methodologies for detecting and tracing disinformation. Finally, this allows us to connect the capabilities of LLMs with the gaps in disinformation detection, tracing, and characterization to highlight the methodological contributions of the paper.
 
@@ -188,11 +188,11 @@ Second, generating natural language can be used to create new text or code, answ
 
 Large language models have many limitations. In particular, hallucinations and context window size need to be understood to ethically utilize the tools developed in this paper, as well as a general recognition of possible other harms and limitations. 
 
-First, we will examine model hallucinations. Hallucinations –  or responses which are convincing but factually incorrect (Alkaissi & McFarlane, 2023) –  are inherent to LLMs (Banerjee et al., 2024). This means that perhaps their greatest flaw is also what makes them useful: given an input text, they more or less output the average of their training data’s (the Internet’s) responses (Heersmink et al., 2024). The description of this flaw is an oversimplification in many ways, as different training objectives and sampling schemes greatly affect the output, but it still demonstrates a broad class of issues facing LLMs. Hallucinations concern this paper because I generate summaries of disinformation narratives. Hallucination concerns are discussed further in the Discussion section.
+First, we will examine model hallucinations. Hallucinations –  or responses which are convincing but factually incorrect (Alkaissi & McFarlane, 2023) –  are inherent to LLMs (Banerjee et al., 2024). This means that perhaps their greatest flaw is also what makes them useful: given an input text, they more or less output the average of their training data’s (the Internet’s) responses (Heersmink et al., 2024). The description of this flaw is an oversimplification in many ways, as different training objectives and sampling schemes greatly affect the output, but it still demonstrates a broad class of issues facing LLMs. Hallucinations concern this paper because I generate summaries of disinformation narratives. Hallucination concerns are discussed further in the [Discussion](#54-limitations-and-future-directions) section.
 
 The second important limitation for this paper is context window size. Although the nature of the matrix multiplication of weights in a transformer architecture allows for a theoretically limitless input size, in practice, computers run out of memory to perform such large operations (Cao et al., 2025). Therefore, models have what is called a context window, and the size of this determines the largest size of the inputs. In this case, we encounter this limitation when I generate summaries of disinformation narratives, and this is again discussed in further detail later on.
 
-LLMs contain many other limitations less directly pertinent to this paper, and only some will be briefly discussed. As mentioned above, models are greatly constrained by the quality, quantity, and content of their training data. The result can be racism and unconscious biases in LLMs (Schwartz, 2019; Kotek et al., 2023). These tendencies and limitations should be kept in mind when using generative models _and_ the distilled model used for similarity scores in this paper – particularly biases about particular groups potentially imbued in training data of the models. Possible biases in the narrative synthesis tool are discussed further in the Discussion. Next, LLMs are extremely computationally expensive to run. This is a growing environmental concern (Bossert & Loh, 2025), and as such the uses of these tools should be scaled within the limits of responsible water and energy use, and ideally for uses where less computationally expensive methods are not available or adequate. 
+LLMs contain many other limitations less directly pertinent to this paper, and only some will be briefly discussed. As mentioned above, models are greatly constrained by the quality, quantity, and content of their training data. The result can be racism and unconscious biases in LLMs (Schwartz, 2019; Kotek et al., 2023). These tendencies and limitations should be kept in mind when using generative models _and_ the distilled model used for similarity scores in this paper – particularly biases about particular groups potentially imbued in training data of the models. Possible biases in the narrative synthesis tool are discussed further in the [Discussion](#54-limitations-and-future-directions). Next, LLMs are extremely computationally expensive to run. This is a growing environmental concern (Bossert & Loh, 2025), and as such the uses of these tools should be scaled within the limits of responsible water and energy use, and ideally for uses where less computationally expensive methods are not available or adequate. 
 
 
 #### _2.3 Social Media Analysis and Quantitative Disinformation Literature Review_
@@ -225,14 +225,14 @@ The paper “Divergent Emotional Patterns in Disinformation on Social Media? An 
 
 Work by Starbird, Arif, & Wilson (2019) deepened thinking on disinformation research frameworks by introducing the notion of participatory disinformation. Participatory disinformation places emphasis on network analysis: reactions and collaboration between online users to spread disinformation, as opposed to specific media outlets and figureheads as sources of disinformation. To demonstrate a participatory disinformation analysis, the researchers created network analysis showing interactions between known Russian “trolls” posting about Black Lives Matter and authentic users retweeting these posts. Another technique visualizes collaborative work by creating a graph of news outlets involved in disinformation spread. To do so they find domains linked by users tweeting specific keywords related to disinformation narratives, size nodes in a graph based on the number of tweets containing that domain, and connect nodes based on how many users tweeted linked to both domains. Then they color each node based on if the news outlet supported or challenged the disinformation narrative. 
 
-Beyond individual papers’ analyses and methods, some papers have built open source tools for researchers to use for studying disinformation. Table 9 in the Appendix provides an overview of relevant tools to disinformation research and their various uses. What the table reveals is that although many researchers use similar methods, no standardized platform or tool has emerged for spatio-temporal, network, or frequency analysis, as none of the papers reviewed above utilized these tools. That does not mean the tools were not used – or extremely useful to others – in any respect, but it does highlight the fragmented and customized nature of the tools used by disinformation researchers.
+Beyond individual papers’ analyses and methods, some papers have built open source tools for researchers to use for studying disinformation. Table 9 in the [Appendix](#appendix) provides an overview of relevant tools to disinformation research and their various uses. What the table reveals is that although many researchers use similar methods, no standardized platform or tool has emerged for spatio-temporal, network, or frequency analysis, as none of the papers reviewed above utilized these tools. That does not mean the tools were not used – or extremely useful to others – in any respect, but it does highlight the fragmented and customized nature of the tools used by disinformation researchers.
 
 
 ##### _2.3.3 Gaps in Disinformation Literature_
 
 This paper uses large language models to quantify disinformation through semantic similarity. The advantage of this approach is that most of the techniques used to analyze disinformation outlined above can maintain greater nuance by utilizing a continuous scale rather than a binary classification of disinformation. For example, the spatio-temporal method to characterize the framing of Russian economic disinformation could have used a continuous measure of the distracting nature of the information being spread, rather than classifying each data point as about Russia or about the USA. Or, researchers Arif, Starbird, and Wilson could use a continuous measure of the relatedness of disinformation being spread about the Black Lives Matter movement to ensure that accounts were truly spreading this disinformation and root out false positives and noise in their data. Furthermore, a continuous metric of similarity might allow the researchers to have a continuous representation of the political spectrum of their network as opposed to a binary classification of “Left-Leaning” and “Right-Leaning”. Using LLMs to measure disinformation in the example of disinformation about flooding in Valencia could have detected disinformation that their stringent keyword search might have missed, such as any X user tweeting about the floods without using the phrase “DANA”. And, a continuous scale would offer a degree of how strongly each tweet agrees with a known disinformation narrative. Possibilities abound. It is this kind of nuance that a semantic similarity metric using LLMs may offer to disinformation research.
 
-3. ### **Methods**
+### **Methods**
 
 Two primary tools were developed for this paper. One tool, the “narrative synthesis tool” is for synthesizing emerging narratives on social media using an LLM for synthesis. The other tool, the “tracing tool” is used to trace specific kinds of information spread from many posts using semantic similarity scores from a distilled MiniLM model. Finally, these two tools are then combined in an interactive Tweet Narrative Analysis Dashboard for tracing and characterizing disinformation. The Dashboard is written with the Javascript React framework, discussed further in the Results section, and available upon request to the author.
 
@@ -255,7 +255,7 @@ The narrative synthesis tool uses a version of Mistral’s NeMo Instruct model (
 
 The MiniLM model is validated for its performance on similarity tasks using the General Language Understanding Evaluation (GLUE) (Wang et al., 2019) Semantic Textual Similarity Benchmark (STS-B) (Cer et al. 2017). GLUE is a popular benchmark suite for LLMs, but in this case we are only interested in evaluating particularly on the STS-B; other benchmarks within GLUE have already been evaluated and are less relevant to this particular use case. However, no one has evaluated the MiniLM model on STS-B. 
 
-The STS-B benchmark pairs sentences of varying similarities together, and asks humans to rank the similarity from 0-5. The rubric of this ranking system (Cer et al. 2017) is included in the Appendix in Table 12. There are 1,500 sentence pairs that were ranked by humans. The MiniLM is validated by comparing its cosine similarity scores (as used in the tracing tool) with a normalized (0-1) STS-B score.
+The STS-B benchmark pairs sentences of varying similarities together, and asks humans to rank the similarity from 0-5. The rubric of this ranking system (Cer et al. 2017) is included in the [Appendix](#appendix) in Table 12. There are 1,500 sentence pairs that were ranked by humans. The MiniLM is validated by comparing its cosine similarity scores (as used in the tracing tool) with a normalized (0-1) STS-B score.
 
 
 #### _3.4 Case Studies_
@@ -266,11 +266,11 @@ The second case study examines the emergence of a global narrative that “Trans
 
 While the first case study provides an opportunity to analyze the impact of a singular prominent figure’s role in spreading disinformation harmful to democracy, the second case study provides an opportunity to demonstrate a broader analysis on cultural influencers like established news outlets, and how these can shape hateful and misinformed narratives. 
 
-These case studies have a relatively narrow scope and setting compared to the possible uses of the Tweet Narrative Analysis Dashboard. As discussed further in the Discussion section 5.4, the case studies in this paper are focused on social media news outlets and prominent figures. The primary reason is the sheer volume of their tweets available makes it possible to validate the methodologies developed, as well as the presence of existing literature studying President Trump and disinformation. The focus on these accounts does not mean, however, that the same tools do not apply to tracing narratives across multiple smaller accounts for example. 
+These case studies have a relatively narrow scope and setting compared to the possible uses of the Tweet Narrative Analysis Dashboard. As discussed further in the Discussion [section 5.4](#54-limitations-and-future-directions), the case studies in this paper are focused on social media news outlets and prominent figures. The primary reason is the sheer volume of their tweets available makes it possible to validate the methodologies developed, as well as the presence of existing literature studying President Trump and disinformation. The focus on these accounts does not mean, however, that the same tools do not apply to tracing narratives across multiple smaller accounts for example. 
 
 The platform Twitter (X) has been selected as the primary data source for analysis but it should be emphasized that the methods of analysis and tools developed in this paper can be used for any textual data. It could also be applied to video transcripts. For the first case study, however, it was important to select a well documented disinformation narrative and platform, so that the focus of the case study was validating the new methodology for tracing and generating narratives rather than application of the methods to unknown contexts. I selected Twitter because of the existing disinformation literature about the 2020 election hoax on this platform as well as the availability of archived tweets by Donald Trump during this time. Data used for this case study are from Brown (2016). Data for Case Study 2 are from Junkipedia (2024).
 
-4. ### **Results**
+### **Results**
 
 
 #### _4.1 Similarity Score Validation on the GLUE STS-B_
@@ -282,7 +282,7 @@ In the following, the MiniLM model is evaluated on the GLUE Semantic Textual Sim
 
 The MiniLM model scores a 0.8696 Pearson correlation, which shows significant correlation between human similarity scores and model similarity scores. The major differences are represented by Figure 1 which shows that the model’s average error is 0.1383, and these errors primarily concentrate around similarity scores of 0.2 - 0.4. 
 
-Model interpretation is performed, comparing examples of most similar model predictions and most dissimilar predictions, as well as examining examples from each quartile of the model’s error range. Additional examples of model similarity scores for each quartile can be found in the Appendix and were used to help interpret the causes of the model’s error.
+Model interpretation is performed, comparing examples of most similar model predictions and most dissimilar predictions, as well as examining examples from each quartile of the model’s error range. Additional examples of model similarity scores for each quartile can be found in the [Appendix](#appendix) and were used to help interpret the causes of the model’s error.
 
 **Figure 1: Correlation between Human and Model Similarity Scores**
 
@@ -358,11 +358,13 @@ We can now interpret several examples of the model’s lowest error similarity s
 | **Type** | **Sentence 1**                                  | **Sentence 2**                                  | **Human Score** | **Model Score** | **Error** | **Analysis**                                                                                                                 |
 | Best     | Colorado Governor Visits School Shooting Victim | Colorado governor visits school shooting victim | 1.0000          | 1.0000          | 0.0000    | The model accurately sees these as perfectly semantically similar despite syntactic differences.                             |
 | Worst    | A dog jogs through the grass.                   | a dog trots through the grass.                  | 1.0000          | 0.6827          | 0.3173    | The model inaccurately focuses on subtle linguistic differences that reduce the similarity score compared to human judgment. |
+
+
 ###### _Tables 4-6: These tables provide examples of human score ranges and the model's best and worst predictions within that bracket of human similarity score._
 
 ##### _4.1.3 GLUE STS-B Model Interpretation: Residual Error Analysis_
 
-The all-MiniLM-L6-v2 model from sentence transformers tends to overestimate the similarity of sentences that humans find more dissimilar, while performing very well on extremely similar and middle similarity sentences. The average error of the model on human similarity scores of 0 is 0.1424, while at 0.5 is 0.1585 and at 1 is 0.0635. The model generally overestimates low similarity scores (signed error at 0: 0.1276) and slightly underestimates very high similarity scores (signed error at 1: -0.0497). Therefore, the model will likely contain more false positives than false negatives, and in the context of tracing disinformation, this means the model might flag legitimate differences as similar content. This overestimation bias should be considered when setting similarity thresholds for applications like detecting disinformation variants. We can also see through examining examples of the worst predictions that the model struggles with nonsensical sentences, and can significantly underestimate similarity due to grammatical errors, as seen in the 1.0 human score worst prediction. The exact prevalence of underestimation due to grammatical errors is not clear, but the average error of the model relative to the human score is shown in Table 1. We can also see that the model tends to overestimate the similarity of sentences with differing dates but similar structure. Although this behavior could be desirable in certain contexts, the discrepancy could be due to the STS-B's description of 0.2 similarity ratings as "The two sentences are not equivalent, but are on the same topic." (Appendix, Table 12).
+The all-MiniLM-L6-v2 model from sentence transformers tends to overestimate the similarity of sentences that humans find more dissimilar, while performing very well on extremely similar and middle similarity sentences. The average error of the model on human similarity scores of 0 is 0.1424, while at 0.5 is 0.1585 and at 1 is 0.0635. The model generally overestimates low similarity scores (signed error at 0: 0.1276) and slightly underestimates very high similarity scores (signed error at 1: -0.0497). Therefore, the model will likely contain more false positives than false negatives, and in the context of tracing disinformation, this means the model might flag legitimate differences as similar content. This overestimation bias should be considered when setting similarity thresholds for applications like detecting disinformation variants. We can also see through examining examples of the worst predictions that the model struggles with nonsensical sentences, and can significantly underestimate similarity due to grammatical errors, as seen in the 1.0 human score worst prediction. The exact prevalence of underestimation due to grammatical errors is not clear, but the average error of the model relative to the human score is shown in Table 1. We can also see that the model tends to overestimate the similarity of sentences with differing dates but similar structure. Although this behavior could be desirable in certain contexts, the discrepancy could be due to the STS-B's description of 0.2 similarity ratings as "The two sentences are not equivalent, but are on the same topic." ([Appendix](#table-12-the-table-is-recreated-from-the-paper-introducing-the-semantic-textual-similarity-benchmark-by-cer-et-al-2017-providing-instructions-for-human-scorers-to-rate-the-similarity-of-a-sentence-pair), Table 12).
 
 
 ##### _4.1.4 Similarity Score Interpretation_
@@ -441,9 +443,9 @@ Generating three narratives in this case confirms the accuracy of the tracing to
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdXFPlHsZ7jnCGcQXMtP3WCv1GlifvbxlTVJWDgHkT8SKvJ-a1hCyKyP8lKIwfJ6m3zofuqG4536E65RfBupTejXF81cys9YxoMVTJHIUgtENF0P_enzxqPJxJOqhvvNEK0TY597g?key=Cup8vskPklA9UBR-4oK7vw)
 
 
-###### _Figure 7: The figure shows the narratives generated from the tweets in the timelines from Figure 4 for Fox News, The Gateway Pundit, The Guardian, and The New York Times. A typed and perhaps more readable version of this figure is available in the Appendix in Table 13._
+###### _Figure 7: The figure shows the narratives generated from the tweets in the timelines from Figure 4 for Fox News, The Gateway Pundit, The Guardian, and The New York Times. A typed and perhaps more readable version of this figure is available in the [Appendix](#appendix) in Table 13._
 
-5. ### **Discussion**
+### **Discussion**
 
 
 #### _5.1 Validating the Methodology_
@@ -454,16 +456,12 @@ I did not further validate the LLM used for the narrative synthesis tool in this
 
 Now, having confidence in the validity of the models used in the methodology of this paper, we can turn to its contributions to disinformation research.
 
-   
-
 
 #### _5.2 Case Study 1: Research Contributions_
 
 One of the important contributions made by this paper is putting disinformation into a continuous quantitative realm, where its disinformation can be approximately measured in relation to human designed and studied narratives, rather than classified as either disinformation or not. Measuring disinformation in this relative way allows for automated detection while still capturing the subtle ways that disinformation can mix with truth. Continuous measurement of disinformation expands the possibilities for the core challenges of characterization, attribution, tracing, and assessing impact of disinformation. For example, in the first case study, we are able to trace the known disinformation narrative “The 2020 election was stolen” and create a timeline of tweets containing this disinformation, and then approximate the “amount” of disinformation by scoring the similarity to this narrative. The timeline reveals a pattern of higher activity of disinformation beginning in November 2020, but also reveals consistent doubt sewn about election integrity in months leading up to the election. This analysis is consistent with a European Parliament (2021) finding that, “Trump framed the debate about the outcome of the presidential election − perhaps anticipating that he would lose − months, even years ago,” but that after his loss, he “reheated the claims of voter fraud
 
 and appeared to encourage protests.” The tracing tool developed by this paper allows for a significantly more nuanced understanding of how and when these narratives were propagated because rather than a temporal analysis based on the number of disinformation-classified tweets over time, we can inspect how similar the narrative is over time. Finally, this methodology is repeatable, transparent, and inspectable by other researchers as the code and models are available.
-
-  
 
 The tracing tool was also useful for disinformation detection by using natural language rather than keywords. Detecting disinformation with keyword search, by definition, does not consider the semantic context and may lead to misclassifications. The contributions made through semantic similarity as a metric move towards a semantically holistic approach, where the intent and context of specific narratives can be considered during detection. Search terms (target narratives) can be whole strings of natural language rather than specific keywords, deepening the capabilities of analysis and disinformation tracing. Case Study 1 demonstrates this by capturing tweets which contain keywords that may or may not indicate disinformation, and quantifying their similarity. For example, on 11/16/2020, Trump tweets, “I won the election!” and this scores 0.489 similarity. This simple tweet would only contain the possible keyword “election”, and the presence of this keyword alone cannot classify something as disinformation (not to mention the problems already discussed with such binary classifications). Another example is the more complex tweet from 05/01/2020 which reads “RT @RealJamesWoods: These were left in the lobby of an apartment building. They are unsecured ballots ripe for ‘harvesting’ by crooked Demo…” (the text was cut off by Twitter’s 140 character limit at the time). The similarity score for this example is 0.455. In this example, the main keyword present would be “ballots” and maybe if the keyword search was especially thorough, “insecure”, but it is unlikely that a researcher would use the word “unsecure”, or its even more uncommon adjective form “unsecured”. Again, the presence of the word “ballot” is not a good indicator of disinformation. So we can see the limits of keyword searches in this example, where the natural variety of language can make it difficult to capture all the possible related tweets containing disinformation. Furthermore, the process of developing keyword searches may lend itself to confirmation bias, as researchers iteratively construct strings to find tweets they already consider disinformation (Kennedy et al. 2022). The tracing tool could be used to complement existing processes for detection and compared to check for biases. Using semantic similarity helps detect disinformation that resists keyword search and can even act as a tool to test for confirmation bias that may come from the process of designing keyword searches.
 
@@ -487,13 +485,13 @@ The tracing tool in Case Study 2 highlights how disinformation can be compared a
 
 Fox had 141 tweets above the 0.38 similarity threshold out of 31716 total. Graphing each outlet separately in Figure 6 displays the obvious difference in frequency of anti-trans similar tweets between the right and left leaning outlets. The ratios with respect to left leaning outlets are far higher than the ratio of total tweets to Fox News in the given timespan. The tool also reveals a pattern of heightened focus on this narrative prior to the 2024 election for Fox News. There was also a heightened frequency during the period of March 2024 and May 2024 for both Fox News and The Gateway Pundit. However, neither The New York Times nor The Guardian had relatively higher similar tweets during this time. The reasons for this could be further examined by using the tracing tool to narrow the timeframe and either generating or manually examining the tweets for specific attributes of the narratives. Observations from the timeline about disinformation similarity frequency could be combined with expertise from political science researchers and international studies to understand the global context driving these observed trends in narrative shift. Another interesting observation revealed in Figure 5 shows that there may be some correlation between Fox News and the Gateway Pundit’s frequency of similar anti-trans tweets, with similar spikes around June 2024 and lack of spikes in the months thereafter, for example. An interesting direction would be to perform causality testing on the two timeseries to discern the magnitude and direction of this possible correlation and/or causality. The ability to quickly graph these two analyses with the tracing tool enabled this insight. Another observation from Figure 5 is that the number of datapoints above the 0.5 similarity threshold is much higher for both Fox and The Gateway Pundit than for either The New York Times (which has 3) or The Guardian (which has none). In this way, the continuous scale allows us to visualize the strength of the similarity to the target narrative and discern potential differences in the characteristics of the similar tweets. Overall, the tracing tool can visualize more nuance than traditional temporal analyses through a continuous metric of similarity to a target narrative.
 
-The narrative synthesis tool can characterize the particular attributes and content when analyzing large amounts of disinformation data. However, this case study used a significantly downsized model for computational purposes, and the performance is not as desirable as that of larger models might be. That being said, we can see in narratives generated in Figure 7 (or Table 13 in the Appendix) that the tweets from The Gateway Pundit have an emphasis on violence caused by trans people. This is certainly not a model hallucination. Here just a few examples:
+The narrative synthesis tool can characterize the particular attributes and content when analyzing large amounts of disinformation data. However, this case study used a significantly downsized model for computational purposes, and the performance is not as desirable as that of larger models might be. That being said, we can see in narratives generated in Figure 7 (or Table 13 in the [Appendix](#appendix)) that the tweets from The Gateway Pundit have an emphasis on violence caused by trans people. This is certainly not a model hallucination. Here just a few examples:
 
-“ABSOLUTELY SICK: Transgender ‘Vampire’ Sexually Assaults Disabled Minor | Beyond the Headlines via @gatewaypundit” (Similarity score: 0.521)
+“ABSOLUTELY SICK: Transgender ‘Vampire’ Sexually Assaults Disabled Minor \| Beyond the Headlines via @gatewaypundit” |  (Similarity score: 0.521)
 
-“Judge Who Put Transgender Child Rapist in Women’s Prison Nominated to U.S. District Court by Joe Biden via @gatewaypundit” (Similarity score: 0.387)
+“Judge Who Put Transgender Child Rapist in Women’s Prison Nominated to U.S. District Court by Joe Biden via @gatewaypundit” | (Similarity score: 0.387)
 
-“WATCH: Male Student Who Identifies as Transgender Injures THREE Girls During Basketball Game – Causing Opposing Team to Forfeit via @gatewaypundit” (Similarity score: 0.460)
+“WATCH: Male Student Who Identifies as Transgender Injures THREE Girls During Basketball Game – Causing Opposing Team to Forfeit via @gatewaypundit” | (Similarity score: 0.460)
 
 Interestingly, the paired dominant narrative is “Transgender individuals are being discriminated against”. This is also not necessarily a hallucination, as several of The Gateway Pundit’s tweets would seem neutral to trans rights, when removed from the context of their other posts. For example: “British Lawn Tennis Association Bans Transgender Women From Most Female Tournaments”. The generated narratives thus show the importance of contextualizing any single narrative generated among the multiple others generated. It also demonstrates how mixing partisan headlines with more neutral ones can be employed by this outlet as a disinformation strategy. Overall, the narrative synthesis tool provided useful insights into the characteristics of The Gateway Pundit’s similar tweets.
 
@@ -531,13 +529,13 @@ This technology poses several concerning ethical considerations. First, the uses
 
 Second, like the process of crafting keyword searches, the tracing tool’s use can be prone to confirmation bias. In Case Study 1, this paper only looked for disinformation in a dataset where it was already present, in order to validate the usefulness of the methodology developed. However, the practice of looking for trends where they are already suspected could lead to biased analyses. The tracing tool can be used in a systematic manner to avoid bias. This was demonstrated in Case Study 2 where multiple data sources were compared from across multiple ideological viewpoints and media sources. Like any tool, the cognitive biases of the user must be considered as it is used. 
 
-6. ### **Conclusion**
+### **Conclusion**
 
 Disinformation research has an extremely wide array of quantitative and mixed detection methods at its disposal, but these tools often make simplifications in order to handle more data that detract from the quality of the characterization of disinformation. This paper offers a method to apply a continuous scale measurement of disinformation based on semantic similarity to known disinformation narratives. This methodology allows researchers to replace keyword based methods of disinformation detection with a method that can better understand context and semantics of whole sentences and bodies of text. Furthermore, this continuity of semantic similarity means that disinformation can be analyzed in a way that acknowledges the non-binary, gray area between truth and falsehood that is often a hallmark of disinformation. Finally, the tools built to achieve this are accessible with an easy to use user interface, with the hope that these methodological contributions will be useful for the field.
 
 --- 
 
-7. ### **References**
+### **References**
 
 Alkaissi, H., & McFarlane, S. (2023). Artificial hallucinations in ChatGPT: Implications in scientific writing. _Cureus_, _15_(2). https\://doi.org/10.7759/cureus.35179
 
@@ -637,7 +635,7 @@ Yang, D., Zhang, Z., & Zhao, H. (2023). _Learning Better Masking for Better Lang
 
 ---
 
-8. ### **Appendix**
+### **Appendix**
 
 
 #### _8.1 Disinformation Research Tool Analysis_
@@ -736,4 +734,4 @@ The RAND Corporation assembled a database of disinformation tools that have been
 | The New York Times | Discussion on the Supreme Court’s decision on abortion rights.Focus on transgender rights and experiences.                                                                                                                                                                                                    | The 4B movement that started in South Korea and its global impact.The Pope’s visit to South Korea and its significance.                                                                                                                                                                                                          | Athletic news coverage.Transgender athletes.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 
 
-###### _Table 13: The table types the narratives generated and displayed in Figure 7 for each news outlet analyzed._
+###### _Table 13: The table types the narratives generated and displayed in [Figure 7](#figure-7-the-figure-shows-the-narratives-generated-from-the-tweets-in-the-timelines-from-figure-4-for-fox-news-the-gateway-pundit-the-guardian-and-the-new-york-times-a-typed-and-perhaps-more-readable-version-of-this-figure-is-available-in-the-appendix-in-table-13) for each news outlet analyzed._
