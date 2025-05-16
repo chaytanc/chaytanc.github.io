@@ -360,7 +360,7 @@ We can now interpret several examples of the model’s lowest error similarity s
 | Worst    | A dog jogs through the grass.                   | a dog trots through the grass.                  | 1.0000          | 0.6827          | 0.3173    | The model inaccurately focuses on subtle linguistic differences that reduce the similarity score compared to human judgment. |
 
 
-###### _Tables 4-6: These tables provide examples of human score ranges and the model's best and worst predictions within that bracket of human similarity score._
+###### _Tables 2-6: These tables provide examples of human score ranges and the model's best and worst predictions within that bracket of human similarity score._
 
 ##### _4.1.3 GLUE STS-B Model Interpretation: Residual Error Analysis_
 
