@@ -13,7 +13,7 @@ permalink: /projects/disinfo-research/
 Chaytan Chief Inman
 
 
-### ********
+### ***
 
 University of Washington
 
@@ -24,16 +24,17 @@ University of Washington
 
 Chaytan Chief Inman
 
-Chair of the Supervisory Committee:
+Supervisory Committee:
 
 Jessica L. Beyer
+Tadayoshi Kohno
 
 Jackson School of International Studies
 
 This thesis develops a continuous scale measurement of similarity to disinformation narratives that can serve to detect disinformation and capture the nuanced, partial truths that are characteristic of it. To do so, two tools are developed and their methodologies are documented. The tracing tool takes tweets and a target narrative, rates the similarities of each to the target narrative, and graphs it as a timeline. The second narrative synthesis tool clusters tweets above a similarity threshold and generates the dominant narratives within each cluster. These tools are combined into a Tweet Narrative Analysis Dashboard. The tracing tool is validated on the GLUE STS-B benchmark, and then the two tools are used to analyze two case studies for further empirical validation. The first case study uses the target narrative “The 2020 election was stolen” and analyzes a dataset of Donald Trump’s tweets during 2020. The second case study uses the target narrative, “Transgender people are harmful to society” and analyzes tens of thousands of tweets from the media outlets The New York Times, The Guardian, The Gateway Pundit, and Fox News. Together, the empirical findings from these case studies demonstrate semantic similarity for nuanced disinformation detection, tracing, and characterization.
 
 
-### ********
+### ***
 
 ### **Acknowledgements**
 
@@ -251,7 +252,7 @@ Model interpretation is performed, comparing examples of most similar model pred
 
 **Figure 2: Plotting Model Residuals Based on Human Similarity Score**
 
-****![Residual Errors Plot](https://lh7-rt.googleusercontent.com/docsz/AD_4nXe8C8NLgpeAobZtqlSLGLvaqPm78PFKy-uBJAj7DLpZcrnEi9JMMw0hMnz5uMNb9Gr4a30TwITSq4C7NISaYJsKrt8AqCj_0aXV0_wqLHC1wUjgXRaxQjGRQGg8R56VnrAUKEOp?key=Cup8vskPklA9UBR-4oK7vw)****
+**![Residual Errors Plot](https://lh7-rt.googleusercontent.com/docsz/AD_4nXe8C8NLgpeAobZtqlSLGLvaqPm78PFKy-uBJAj7DLpZcrnEi9JMMw0hMnz5uMNb9Gr4a30TwITSq4C7NISaYJsKrt8AqCj_0aXV0_wqLHC1wUjgXRaxQjGRQGg8R56VnrAUKEOp?key=Cup8vskPklA9UBR-4oK7vw)**
 
 
 ###### _Figure 2: The figure examines the signed error of the model’s similarity scores compared to humans’ scores, revealing that the model tends to overestimate the similarity of sentences compared to humans, and particularly so on sentences that humans rank as more dissimilar. It also shows that the distribution of the model’s error is centered around its mean signed error in a bell shaped curve, so that large errors for either overestimated or underestimated similarity are rarer than small deviations._
@@ -275,7 +276,7 @@ Model interpretation is performed, comparing examples of most similar model pred
 We can now interpret several examples of the model’s lowest error similarity scores and highest error similarity scores for each bracket of human similarity scores. The interpretation of model scores provides an intuition for the reasoning behind the model’s differences in similarity scores, and the areas where it agrees most with human similarity scores. Tables 2 - 6 show examples of model scores and errors, on sentence pairs grouped by human scores ranging around 0.0, 0.25, 0.5, 0.75, and 1.0.
 
 
-### **Table 2: Human Score Examples ≈ 0.0**
+**Table 2: Human Score Examples ≈ 0.0**
 
 |          |                                                                                            |                                      |                 |                 |           |                                                                                                                                                     |
 | -------- | ------------------------------------------------------------------------------------------ | ------------------------------------ | --------------- | --------------- | --------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -284,7 +285,7 @@ We can now interpret several examples of the model’s lowest error similarity s
 | Worst    | 3 killed, 4 injured in Los Angeles shootings                                               | Five killed in Saudi Arabia shooting | 0.0000          | 0.5794          | 0.5794    | The model overestimates similarity because although they share similar topics, according to STS-B guidelines, this should not score more than 0.4.  |
 
 
-### **Table 3: Human Score Examples ≈ 0.25**
+**Table 3: Human Score Examples ≈ 0.25**
 
 |          |                                                    |                                                 |                 |                 |           |                                                                                                                                                                                                 |
 | -------- | -------------------------------------------------- | ----------------------------------------------- | --------------- | --------------- | --------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -293,7 +294,7 @@ We can now interpret several examples of the model’s lowest error similarity s
 | Worst    | The Note's Must-Reads for Friday, December 6, 2013 | The Note's Must-Reads for Friday, July 12, 2013 | 0.3600          | 0.9703          | 0.6103    | The model identifies shared topics and sentence structure despite temporal differences. The STS-B rubric favors maximum similarity of 0.4 since the sentences are technically “not equivalent”. |
 
 
-### **Table 4: Human Score Examples ≈ 0.5**
+**Table 4: Human Score Examples ≈ 0.5**
 
 |          |                                           |                                                       |                 |                 |           |                                                                                                                                                                                 |
 | -------- | ----------------------------------------- | ----------------------------------------------------- | --------------- | --------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -302,7 +303,7 @@ We can now interpret several examples of the model’s lowest error similarity s
 | Worst    | 10 Things to Know for Wednesday           | 10 Things to Know for Thursday                        | 0.4000          | 0.8908          | 0.4908    | Again, the model identifies shared sentence structure despite temporal differences. The STS-B rubric favors maximum similarity of 0.4 since the sentences are “not equivalent”. |
 
 
-### **Table 5: Human Score Examples ≈ 0.75**
+**Table 5: Human Score Examples ≈ 0.75**
 
 |          |                                                                                                    |                                                                                                                     |                 |                 |           |                                                                                                                              |
 | -------- | -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | --------------- | --------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------- |
@@ -311,14 +312,14 @@ We can now interpret several examples of the model’s lowest error similarity s
 | Worst    | Higher courts have ruled that the tablets broke the constitutional separation of church and state. | The federal courts have ruled that the monument violates the constitutional ban against state-established religion. | 0.8000          | 0.4285          | 0.3715    | The model fails to recognize the similarity between the objects in these sentences, perhaps due to unusual and formal prose. |
 
 
-### **Table 6: Human Score Examples ≈ 1.0**
+**Table 6: Human Score Examples ≈ 1.0**
 
 |          |                                                 |                                                 |                 |                 |           |                                                                                                                              |
 | -------- | ----------------------------------------------- | ----------------------------------------------- | --------------- | --------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------- |
 | **Type** | **Sentence 1**                                  | **Sentence 2**                                  | **Human Score** | **Model Score** | **Error** | **Analysis**                                                                                                                 |
 | Best     | Colorado Governor Visits School Shooting Victim | Colorado governor visits school shooting victim | 1.0000          | 1.0000          | 0.0000    | The model accurately sees these as perfectly semantically similar despite syntactic differences.                             |
 | Worst    | A dog jogs through the grass.                   | a dog trots through the grass.                  | 1.0000          | 0.6827          | 0.3173    | The model inaccurately focuses on subtle linguistic differences that reduce the similarity score compared to human judgment. |
-
+###### _Tables 4-6: These tables provide examples of human score ranges and the model's best and worst predictions within that bracket of human similarity score._
 
 ##### _4.1.3 GLUE STS-B Model Interpretation: Residual Error Analysis_
 
@@ -379,7 +380,7 @@ Generating three narratives in this case confirms the accuracy of the tracing to
 
 **Figure 4: Comparing Anti-Trans Tweet Similarity Across Four News Outlets**
 
-****![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfjlL-P93kbJwhDN7BAm5oNKss6NtJ20yw8h6qV28lwJS22u-C4uf-qIJuVUZDh0vOagBCN2nhRN3pW7IoAn7OeW_nwb7UzA2Pl_VNv-q95RGBOTw7ySlD65pAkxuEKpbW4ZVi4sw?key=Cup8vskPklA9UBR-4oK7vw)****
+**![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfjlL-P93kbJwhDN7BAm5oNKss6NtJ20yw8h6qV28lwJS22u-C4uf-qIJuVUZDh0vOagBCN2nhRN3pW7IoAn7OeW_nwb7UzA2Pl_VNv-q95RGBOTw7ySlD65pAkxuEKpbW4ZVi4sw?key=Cup8vskPklA9UBR-4oK7vw)**
 
 
 ###### _Figure 4: A combined timeline of all four news outlets compared in Case Study 2, graphed for the narrative “Transgender people are harmful to society” with the similarity threshold of 0.38._
@@ -496,7 +497,7 @@ Second, like the process of crafting keyword searches, the tracing tool’s use 
 Disinformation research has an extremely wide array of quantitative and mixed detection methods at its disposal, but these tools often make simplifications in order to handle more data that detract from the quality of the characterization of disinformation. This paper offers a method to apply a continuous scale measurement of disinformation based on semantic similarity to known disinformation narratives. This methodology allows researchers to replace keyword based methods of disinformation detection with a method that can better understand context and semantics of whole sentences and bodies of text. Furthermore, this continuity of semantic similarity means that disinformation can be analyzed in a way that acknowledges the non-binary, gray area between truth and falsehood that is often a hallmark of disinformation. Finally, the tools built to achieve this are accessible with an easy to use user interface, with the hope that these methodological contributions will be useful for the field.
 
 
-### ********
+### ***
 
 7. ### **References**
 
