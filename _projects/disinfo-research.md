@@ -474,13 +474,14 @@ The tracing tool in Case Study 2 highlights how disinformation can be compared a
 
 **Table 8: Comparison of Fox News Anti-Trans Tweet Frequency**
 
-|                    |              |                                   |                                            |
-| ------------------ | ------------ | --------------------------------- | ------------------------------------------ |
-| Outlet             | Total Tweets | Ratio of Total Tweets to Fox News | Tweets > 0.38 Similarity Ratio to Fox News |
-| Fox News           | 31716        | 1:1                               | 1:1                                        |
-| The Gateway Pundit | 19458        | 1.6:1                             | 2.0:1                                      |
-| The Guardian       | 12513        | 2.5:1                             | 14.1:1                                     |
-| The New York Times | 18868        | 1.7:1                             | 7.1:1                                      |
+|                    |              |                                   |                                            |                               |
+| ------------------ | ------------ | --------------------------------- | ------------------------------------------ | ----------------------------- |
+| Outlet             | Total Tweets | Ratio of Total Tweets to Fox News | Tweets > 0.38 Similarity Ratio to Fox News | Overall Anti-trans Tweet Rate |
+| Fox News           | 31716        | 1:1                               | 1:1                                        | 4.41e-3                       |
+| The Gateway Pundit | 19458        | 1.6:1                             | 2.5:1                                      | 3.60e-3                       |
+| The Guardian       | 12513        | 2.5:1                             | 14.1:1                                     | 0.799e-3                      |
+| The New York Times | 18868        | 1.7:1                             | 7.1:1                                      | 1.05e-3                       |
+
 
 
 ###### _Table 8: The table shows the total tweets in each outlet analyzed in Case Study 2 for the target narrative “Transgender people are harmful to society” as well as their ratios of total tweets compared to Fox News and their total tweets above similarity threshold 0.38 compared to that of Fox News. Fox News is in the numerator for each of these ratios._
