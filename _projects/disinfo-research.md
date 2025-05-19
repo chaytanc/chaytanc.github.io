@@ -287,7 +287,9 @@ Model interpretation is performed, comparing examples of most similar model pred
 **Figure 1: Correlation between Human and Model Similarity Scores**
 
 
-###### **_**_![Correlation Plot](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfv-cBaMXxAUUJwjgvvRXCD_3gN6P6wxnyTi7XItWNMCeIC-v0yPoAKtrPnJyLZ-ATtXu9mQ4pBsl6yzvpAAvMxlTOcT9nV-5SCi4F1wwZ56SQYdPsV-sDiNt0G00Xr3hjTw-66BA?key=Cup8vskPklA9UBR-4oK7vw)_**_**_Figure 1: We plot the all-MiniLM-L6-v2 MiniLM model’s predicted similarity between 1,500 pairs of sentences in the GLUE STS-B against humans’ scores of the similarity between those sentence pairs. The plot reveals that the model’s similarity scores and human’s similarity scores are highly correlated, with 0.8696 Pearson’s correlation and a mean average error of 0.1383._
+ **![Correlation Plot](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfv-cBaMXxAUUJwjgvvRXCD_3gN6P6wxnyTi7XItWNMCeIC-v0yPoAKtrPnJyLZ-ATtXu9mQ4pBsl6yzvpAAvMxlTOcT9nV-5SCi4F1wwZ56SQYdPsV-sDiNt0G00Xr3hjTw-66BA?key=Cup8vskPklA9UBR-4oK7vw)**
+
+###### _Figure 1: We plot the all-MiniLM-L6-v2 MiniLM model’s predicted similarity between 1,500 pairs of sentences in the GLUE STS-B against humans’ scores of the similarity between those sentence pairs. The plot reveals that the model’s similarity scores and human’s similarity scores are highly correlated, with 0.8696 Pearson’s correlation and a mean average error of 0.1383._
 
 **Figure 2: Plotting Model Residuals Based on Human Similarity Score**
 
