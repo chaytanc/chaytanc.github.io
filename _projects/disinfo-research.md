@@ -478,7 +478,7 @@ The tracing tool in Case Study 2 highlights how disinformation can be compared a
 | ------------------ | ------------ | --------------------------------- | ------------------------------------------ |
 | Outlet             | Total Tweets | Ratio of Total Tweets to Fox News | Tweets > 0.38 Similarity Ratio to Fox News |
 | Fox News           | 31716        | 1:1                               | 1:1                                        |
-| The Gateway Pundit | 19458        | 1.6:1                             | 2.5:1                                      |
+| The Gateway Pundit | 19458        | 1.6:1                             | 2.0:1                                      |
 | The Guardian       | 12513        | 2.5:1                             | 14.1:1                                     |
 | The New York Times | 18868        | 1.7:1                             | 7.1:1                                      |
 
