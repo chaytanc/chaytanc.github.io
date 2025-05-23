@@ -654,7 +654,7 @@ Wang, A., Singh, A., Michael, J., Hill, F., Levy, O., & Bowman, S. (2019). _GLUE
 
 Wang, W., Wei, F., Dong, L., Bao, H., Yang, N., & Zhou, M. (2020). MiniLM: Deep Self-Attention Distillation for Task-Agnostic Compression of Pre-Trained Transformers. _ArXiv:2002.10957 \[Cs]_. https\://arxiv.org/abs/2002.10957
 
-Wardle, C., & Derakhshan, H. (2017). _INFORMATION DISORDER : Toward an interdisciplinary framework for research and policy making Information Disorder_. ResearchGate. https\://www\.researchgate.net/publication/339031969\_INFORMATION\_DISORDER\_Toward\_an\_interdisciplinary\_framework\_for\_research\_and\_policy\_making\_Information\_Disorder\_Toward\_an\_interdisciplinary\_framework\_for\_research\_and\_policymaking
+Wardle, C., & Derakhshan, H. (2017). _INFORMATION DISORDER : Toward an interdisciplinary framework for research and policy making Information Disorder_. ResearchGate. https\://www\.researchgate.net/publication/339031969\_INFORMATION\_DISORDER\_Toward\_an\_interdisciplinary\_framework\_for\_research\_and\_policy\_making\_Information\_Disorder
 
 _Who Targets Me_. (2018). Whotargets.me. https\://whotargets.me/en/
 
