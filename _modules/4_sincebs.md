@@ -50,6 +50,22 @@ Winter 2025
   : Being Human
     : Charles Foster
 
+Spring 2025
+  : India is Broken
+    : Ashoka Mody
+
+Spring 2025
+  : How Asia Works
+    : Joe Studwell
+
+Spring 2025
+  : International Relations of Asia
+    : David Shambaugh & Michael Yahuda
+
+Spring 2025
+  : Things Fall Apart
+    : Chinua Achebe
+
 
 [comment]: <> (Oct 8)
 
