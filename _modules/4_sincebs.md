@@ -66,6 +66,20 @@ Spring 2025
   : Things Fall Apart
     : Chinua Achebe
 
+Summer 2025
+  : Another Country
+    : James Baldwin
+  
+Summer 2025
+  : On Earth We're Briefly Gorgeous
+    : Ocean Vuong
+
+Summer 2025
+  : Black Elk Speaks
+    : Black Elk & John Neihardt
+
+
+
 
 [comment]: <> (Oct 8)
 
