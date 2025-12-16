@@ -15,6 +15,10 @@ Summer 2024
     : Philippe Besson
 
 Summer 2024
+  : Creation Lake
+    : Rachel Kushner
+
+Summer 2024
   : Harry Potter y la piedra filosofal
     : J.K. Rowling
 
@@ -78,6 +82,33 @@ Summer 2025
   : Black Elk Speaks
     : Black Elk & John Neihardt
 
+Summer 2025
+  : Soul Boom
+    : Rainn Wilson
+
+Summer 2025
+  : The Gospel of the Red Man
+    : Ernest Thompson Seton
+
+Summer 2025
+  : Giovanni's Room
+    : James Baldwin
+
+Fall 2025
+  : The Heart is a Lonely Hunter
+    : Carson McCullers
+
+Fall 2025
+  : How to Change Your Mind
+    : Michael Pollan
+
+Fall 2025
+  : Wildseed
+    : Octavia Butler
+
+Winter 2026
+  : Circe
+    : Madeline Miller
 
 
 
