@@ -110,6 +110,34 @@ Winter 2026
   : Circe
     : Madeline Miller
 
+Winter 2026
+  : Nausicaä of the Valley of the Wind Vol. 1
+    : Hayao Miyazaki
+
+Winter 2026
+  : The Fire Next Time
+    : James Baldwin
+
+Winter 2026
+  : Drive Your Plow Over the Bones of the Dead
+    : Olga Tokarczuk
+
+Winter 2026
+  : The Sacred Hoop
+    : Paula Gunn Allen
+
+Winter 2026
+  : Life After Cars
+    : Sarah Goodyear, Doug Gordon, and Aaron Naparstek
+
+Winter 2026
+  : Practical Radicals
+    : Deepak Bhargava and Stephanie Luce
+
+Winter 2026
+  : Dune
+    : Frank Herbert
+
 
 
 [comment]: <> (Oct 8)
