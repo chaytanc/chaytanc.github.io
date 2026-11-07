@@ -138,7 +138,45 @@ Winter 2026
   : Dune
     : Frank Herbert
 
+Spring 2026
+  : Piranesi
+    : Susanna Clarke
 
+Spring 2026
+  : Debt
+    : David Graeber
+
+Spring 2026
+  : Neuromancer
+    : William Gibson
+
+Spring 2026
+  : A Short History of Nearly Everything
+    : Bill Bryson
+
+Spring 2026
+  : After Sex? On writing since Queer theory
+    : Halley & Parker
+
+Summer 2026
+  : Crying in H-Mart
+    : Michelle Zauner
+
+Summer 2026
+  : Dungeon Crawler Carl
+    : Matt Dinniman
+
+Fall 2026
+  : Yesteryear
+    : Caro Claire Burke
+
+Fall 2026
+  : Carl's Doomsday Scenario
+    : Matt Dinniman
+
+Fall 2026
+  : The Dungeon Anarchist's Cookbook
+    : Matt Dinniman
 
 [comment]: <> (Oct 8)
 

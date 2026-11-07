@@ -287,13 +287,13 @@ Model interpretation is performed, comparing examples of most similar model pred
 **Figure 1: Correlation between Human and Model Similarity Scores**
 
 
- **![Correlation Plot](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfv-cBaMXxAUUJwjgvvRXCD_3gN6P6wxnyTi7XItWNMCeIC-v0yPoAKtrPnJyLZ-ATtXu9mQ4pBsl6yzvpAAvMxlTOcT9nV-5SCi4F1wwZ56SQYdPsV-sDiNt0G00Xr3hjTw-66BA?key=Cup8vskPklA9UBR-4oK7vw)**
+![Correlation Plot](/assets/images/fig1.png)
 
 ###### _Figure 1: We plot the all-MiniLM-L6-v2 MiniLM model’s predicted similarity between 1,500 pairs of sentences in the GLUE STS-B against humans’ scores of the similarity between those sentence pairs. The plot reveals that the model’s similarity scores and human’s similarity scores are highly correlated, with 0.8696 Pearson’s correlation and a mean average error of 0.1383._
 
 **Figure 2: Plotting Model Residuals Based on Human Similarity Score**
 
-**![Residual Errors Plot](https://lh7-rt.googleusercontent.com/docsz/AD_4nXe8C8NLgpeAobZtqlSLGLvaqPm78PFKy-uBJAj7DLpZcrnEi9JMMw0hMnz5uMNb9Gr4a30TwITSq4C7NISaYJsKrt8AqCj_0aXV0_wqLHC1wUjgXRaxQjGRQGg8R56VnrAUKEOp?key=Cup8vskPklA9UBR-4oK7vw)**
+![Residual Errors Plot](/assets/images/fig2.png)
 
 
 ###### _Figure 2: The figure examines the signed error of the model’s similarity scores compared to humans’ scores, revealing that the model tends to overestimate the similarity of sentences compared to humans, and particularly so on sentences that humans rank as more dissimilar. It also shows that the distribution of the model’s error is centered around its mean signed error in a bell shaped curve, so that large errors for either overestimated or underestimated similarity are rarer than small deviations._
@@ -409,7 +409,7 @@ The Tweet Narrative Analysis Dashboard demo is available upon request to the aut
 
 **Figure 3: Analysis of the Election Hoax Narrative**
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXczB9Jfw_yxdXYJZ9tXVY7_15S4x6PTmAM4LdM8XHgt1cuf-NdGYK-Ly0xPAmWeARbRLNxobhHSeBizNPoh8nLgQA0wQMDs_rN5kjuBdloVPZJLl9CbudDxzkqUn1YMqmIBzbIgSw?key=Cup8vskPklA9UBR-4oK7vw)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfhX8HaFD3j2RnxhTMlBv-qHeskNdb0LH49aqanHCC79H_2uOJV-iIFoUEXEP-bdj6nmtEkykWo1mlatf7VxPWN7q67JnWSUg4TnlyQ0QObdNGWXbrn2CGZINeKfBlyHBQCdO5S?key=Cup8vskPklA9UBR-4oK7vw)
+![](/assets/images/fig3a.png)![](/assets/images/fig3b.png)
 
 
 ###### _Figure 3: Results from the Tweet Narrative Analysis Dashboard which show the frequency of tweets similar to the target narrative “The 2020 election was stolen” above a threshold of 0.45 similarity, and the generated narratives among those tweets._
@@ -423,26 +423,28 @@ Generating three narratives in this case confirms the accuracy of the tracing to
 
 **Figure 4: Comparing Anti-Trans Tweet Similarity Across Four News Outlets**
 
-**![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfjlL-P93kbJwhDN7BAm5oNKss6NtJ20yw8h6qV28lwJS22u-C4uf-qIJuVUZDh0vOagBCN2nhRN3pW7IoAn7OeW_nwb7UzA2Pl_VNv-q95RGBOTw7ySlD65pAkxuEKpbW4ZVi4sw?key=Cup8vskPklA9UBR-4oK7vw)**
+![](/assets/images/fig4.png)
 
 
 ###### _Figure 4: A combined timeline of all four news outlets compared in Case Study 2, graphed for the narrative “Transgender people are harmful to society” with the similarity threshold of 0.38._
 
-**Figure 5: Comparing Anti-Trans Tweet Similarity With Fox News**![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXedBg5UJ1q-friHTpKG3tQ0M5SiwD9rV4lE5JTstKh4HK7XHgQ_t0bFye5OPwpqysXgy0Gy_8rI295qszEqc8T5fjKm7sRbM9a9pF5mSzNzlxQmaMzU8wSf_9iTRGvVRMjsRCKF?key=Cup8vskPklA9UBR-4oK7vw)
+**Figure 5: Comparing Anti-Trans Tweet Similarity With Fox News**
+
+![](/assets/images/fig5.png)
 
 
 ###### _Figure 5: The figure shows the plots of The Gateway Pundit, The Guardian, and The New York Times’ similarity timelines from Figure 4, plotted with Fox News’ timeline for reference._
 
-**Figure 6: Individual News Outlets’ Anti-Trans Tweet Similarities**
+**Figure 6: Individual News Outlets' Anti-Trans Tweet Similarities**
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXe6kgxOhzAOjHrnNRO9KJ-1oM96g7Y4mv6cJLEUXf9vqztReQwUafRGxUobgYX1cNL0CQ1iCIjbegVSIf-aF6zgvn-F4w9NtTeUogZG3PLOF42ZQBrTUCBjHck_z7FVSLvAOT_vhQ?key=Cup8vskPklA9UBR-4oK7vw)
+![](/assets/images/fig6.png)
 
 
 ###### _Figure 6: The figure shows the Fox News, The Gateway Pundit, The Guardian, and The New York Times’ similarity timelines from Figure 4, separately plotted._
 
 **Figure 7: Generated Narratives within Anti-Trans Tweets by Outlet**
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdXFPlHsZ7jnCGcQXMtP3WCv1GlifvbxlTVJWDgHkT8SKvJ-a1hCyKyP8lKIwfJ6m3zofuqG4536E65RfBupTejXF81cys9YxoMVTJHIUgtENF0P_enzxqPJxJOqhvvNEK0TY597g?key=Cup8vskPklA9UBR-4oK7vw)
+![](/assets/images/fig7.png)
 
 
 ###### _Figure 7: The figure shows the narratives generated from the tweets in the timelines from Figure 4 for Fox News, The Gateway Pundit, The Guardian, and The New York Times. A typed and perhaps more readable version of this figure is available in the [Appendix](#appendix) in Table 13._
@@ -519,7 +521,7 @@ A limitation of the sentence similarity model is that it occasionally finds opin
 
 **Figure 8: High Similarity of a Tweet with Opposite Sentiment to the Target Narrative**
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcj5IB5smwDN6bO6V0uaEWQu_KovXy61nc1J29ErsV-WEyJHyAoD2y3SeWkXCMoGJPXAs9TUHrwqI_6Ulwavakh5i583nV5gsgneOJQXrN_ZMwsS2YYfPa9Iz3XeURZNqA0uLW0ug?key=Cup8vskPklA9UBR-4oK7vw)
+![](/assets/images/fig8.png)
 
 
 ###### _Figure 8: The figure displays a ‘misclassification’, selecting a tweet which scores a high similarity (0.590) with the second case study narrative, but is not relatively more aligned with the meaning behind the target narrative._

@@ -285,7 +285,7 @@ The video titled ‘Can’t Run Her House’ was very effective in persuading wo
 
 Figure 1:
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeYNI_gtCO3Ozk-NyaVcq3MgmvHcXxl7p9VexCKASC521KvrnSf-rrfVJRtkIAUp-9DKN8s4VCCd3e2G_N2WPbBffXn84_JvjWz9cUYcpVKn273_Ln5LnQOFUWCsokBr0Syi4K0HqVmLRTNeexWycDO4Gc?key=kipmbuEeBY6ggXfB0mUCdA)
+![](/assets/images/ca.jpg)
 
 (_Cambridge Analytica - Select 2016 Campaign-Related Documents,_ 2020).
 
